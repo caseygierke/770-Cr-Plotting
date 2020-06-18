@@ -1,0 +1,563 @@
+00-01535	No Data	No Data	No Data	No Data	0
+01-22571	No Data	No Data	No Data	No Data	0
+02-01021	No Data	No Data	No Data	No Data	0
+02-01022	2000-06-22	12.2	Y	Y	2
+02-01075	No Data	No Data	No Data	No Data	0
+02-01076	No Data	No Data	No Data	No Data	0
+02-01077	No Data	No Data	No Data	No Data	0
+02-01078	No Data	No Data	No Data	No Data	0
+03-02664	1999-12-17	7.2	Y	Y	2
+03-02667	No Data	No Data	No Data	No Data	0
+03-02681	No Data	No Data	No Data	No Data	0
+03-24529	2005-06-16	10.0	N	N	1
+03-24530	2005-06-16	4.0	Y	N	1
+03-24548	2005-06-15	10.0	N	N	1
+03-B-10	2006-08-23	15.6	Y	N	28
+03-B-13	2006-08-24	16.5	Y	N	65
+03-B-9	2007-07-11	8.5	Y	N	4
+03-MW-1	No Data	No Data	No Data	No Data	0
+06-22848	No Data	No Data	No Data	No Data	0
+11-22513	No Data	No Data	No Data	No Data	0
+14-02-19968	2002-11-11	2.4	N	Y	2
+18-01023	No Data	No Data	No Data	No Data	0
+18-01024	No Data	No Data	No Data	No Data	0
+18-01060	2000-10-17	322.0	Y	N	10
+18-01063	No Data	No Data	No Data	No Data	0
+18-01135	2000-10-17	80.8	Y	N	10
+18-01136	No Data	No Data	No Data	No Data	0
+18-01165	No Data	No Data	No Data	No Data	0
+18-01166	2000-10-17	24.5	Y	N	11
+18-01195	No Data	No Data	No Data	No Data	0
+18-01196	No Data	No Data	No Data	No Data	0
+18-01233	No Data	No Data	No Data	No Data	0
+18-01234	No Data	No Data	No Data	No Data	0
+18-01254	No Data	No Data	No Data	No Data	0
+18-01255	No Data	No Data	No Data	No Data	0
+18-01275	No Data	No Data	No Data	No Data	0
+18-01684	No Data	No Data	No Data	No Data	0
+18-01685	No Data	No Data	No Data	No Data	0
+18-02013	No Data	No Data	No Data	No Data	0
+18-02014	No Data	No Data	No Data	No Data	0
+18-02015	No Data	No Data	No Data	No Data	0
+18-02016	No Data	No Data	No Data	No Data	0
+18-02023	No Data	No Data	No Data	No Data	0
+18-02024	No Data	No Data	No Data	No Data	0
+18-10010	1998-03-23	20.0	Y	N	20
+18-10011	1998-03-23	40.0	Y	N	11
+18-10012	1998-03-23	20.0	Y	N	11
+18-10013	1998-03-23	40.0	Y	N	11
+18-10014	1997-12-16	130.0	Y	N	11
+18-10019	1997-06-09	4.6	Y	N	1
+18-1060	No Data	No Data	No Data	No Data	0
+18-BG-1	2008-03-04	10.0	N	Y	30
+18-BG-4	No Data	No Data	No Data	No Data	0
+18-MW-10	No Data	No Data	No Data	No Data	0
+18-MW-11	2007-03-28	10.9	N	N	28
+18-MW-12	No Data	No Data	No Data	No Data	0
+18-MW-13	No Data	No Data	No Data	No Data	0
+18-MW-14	No Data	No Data	No Data	No Data	0
+18-MW-15	No Data	No Data	No Data	No Data	0
+18-MW-16	No Data	No Data	No Data	No Data	0
+18-MW-17	No Data	No Data	No Data	No Data	0
+18-MW-18	2007-03-19	15.0	Y	N	38
+18-MW-8	2008-03-03	10.0	N	N	28
+18-MW-9	2007-12-18	10.0	N	Y	28
+20-02-20857	No Data	No Data	No Data	No Data	0
+21-01682	No Data	No Data	No Data	No Data	0
+21-01811	No Data	No Data	No Data	No Data	0
+21-01812	1997-08-20	10.0	N	N	8
+23-02-20858	No Data	No Data	No Data	No Data	0
+28-22573	No Data	No Data	No Data	No Data	0
+32-02-20856	No Data	No Data	No Data	No Data	0
+33-22850	No Data	No Data	No Data	No Data	0
+34-22851	No Data	No Data	No Data	No Data	0
+35-02371	1997-04-30	32.2	Y	N	1
+36-02020	2001-11-19	48.2	Y	N	1
+36-02021	No Data	No Data	No Data	No Data	0
+36-02022	No Data	No Data	No Data	No Data	0
+36-2020	2001-11-19	2.27	N	Y	1
+3MAO-1a	No Data	No Data	No Data	No Data	0
+3MAO-2	2008-06-23	10.0	N	Y	18
+41-01002	2000-06-21	22.3	Y	N	8
+41-01003	2001-11-08	5.0	N	Y	16
+41-01004	No Data	No Data	No Data	No Data	0
+41-01045	No Data	No Data	No Data	No Data	0
+73-01005	No Data	No Data	No Data	No Data	0
+73-01006	No Data	No Data	No Data	No Data	0
+73-01007	No Data	No Data	No Data	No Data	0
+73-01009	2001-11-02	11.7	N	N	1
+73-01011	No Data	No Data	No Data	No Data	0
+73-02428	2001-11-02	10.3	N	N	1
+Anderson Spring	2007-07-06	9.3	Y	Y	26
+APCO-1	2008-01-16	10.0	N	N	37
+B1	No Data	No Data	No Data	No Data	0
+Barnstead millipore DI water	No Data	No Data	No Data	No Data	0
+CDBO-1	No Data	No Data	No Data	No Data	0
+CDBO-2	No Data	No Data	No Data	No Data	0
+CDBO-3	No Data	No Data	No Data	No Data	0
+CDBO-4	No Data	No Data	No Data	No Data	0
+CDBO-5	No Data	No Data	No Data	No Data	0
+CDBO-6	2008-05-22	50.0	N	Y	33
+CDBO-7	2008-11-13	3.0	N	N	10
+CDBO-8	No Data	No Data	No Data	No Data	0
+CDBO-9	No Data	No Data	No Data	No Data	0
+Core Hole 2	1997-04-10	-0.3	N	Y	1
+CrCH-1	2014-10-15	88.5	Y	N	2
+CrEX-1	2014-11-25	201.0	Y	Y	5
+CrEX-2	2017-05-15	367.0	Y	Y	2
+CrEX-3	2019-02-27	193.0	Y	Y	2
+CrIN-1	2016-11-09	81.6	Y	Y	4
+CrIN-2	2016-06-02	98.1	Y	Y	3
+CrIN-3	2017-09-21	53.9	Y	Y	3
+CrIN-4	2016-06-22	88.3	Y	Y	3
+CrIN-5	2016-11-29	85.4	Y	Y	2
+CRPZ-2 S1	2016-04-01	115.0	Y	Y	2
+CRPZ-2 S2	2016-02-26	38.2	Y	Y	1
+CRPZ-3	2018-01-30	379.0	Y	Y	2
+CRPZ-4	2018-01-31	79.3	Y	Y	2
+CRPZ-5	2016-04-15	241.0	Y	Y	3
+DP Spring	1998-09-02	50.0	N	Y	29
+DP-0.0 Spring	No Data	No Data	No Data	No Data	0
+DP-03-21601	No Data	No Data	No Data	No Data	0
+DP-03-21604	No Data	No Data	No Data	No Data	0
+DP-03-21614	No Data	No Data	No Data	No Data	0
+DP-03-21617	No Data	No Data	No Data	No Data	0
+DP-03-21618	No Data	No Data	No Data	No Data	0
+DP-03-21627	No Data	No Data	No Data	No Data	0
+DP-03-21638	No Data	No Data	No Data	No Data	0
+DP-03-21641	No Data	No Data	No Data	No Data	0
+DP-03-21644	No Data	No Data	No Data	No Data	0
+DP-03-21650	No Data	No Data	No Data	No Data	0
+ER ID #03-2664	No Data	No Data	No Data	No Data	0
+ER ID #18-01685	No Data	No Data	No Data	No Data	0
+Fire Station 1	No Data	No Data	No Data	No Data	0
+Fire Station 2	No Data	No Data	No Data	No Data	0
+Fire Station 3	No Data	No Data	No Data	No Data	0
+G-5	1997-06-25	5.2	N	N	3
+Hamilton Bend Spring	No Data	No Data	No Data	No Data	0
+LA-00115	2001-08-16	1.7	Y	N	1
+LA-10008	2000-07-25	35.0	Y	N	2
+LA-10035	2002-06-05	4.22	Y	Y	6
+LA-10066	2001-11-05	5.0	N	Y	6
+LA-10068	2001-11-06	5.0	N	Y	4
+LA-10135	2002-08-16	5.0	N	N	6
+LA-5.19 Spring	No Data	No Data	No Data	No Data	0
+LADP-3	2010-01-07	14.9	N	Y	22
+LAO-0.3	2011-03-07	10.0	N	N	11
+LAO-0.6	2011-03-08	10.0	N	Y	11
+LAO-0.7	1997-06-18	4.8	N	N	13
+LAO-0.8	No Data	No Data	No Data	No Data	0
+LAO-0.91	1998-09-03	4.2	N	N	1
+LAO-1	2002-08-05	17.0	Y	N	20
+LAO-1.1	No Data	No Data	No Data	No Data	0
+LAO-1.2	No Data	No Data	No Data	No Data	0
+LAO-1.6g	2008-08-27	10.8	Y	Y	30
+LAO-1.8	No Data	No Data	No Data	No Data	0
+LAO-2	1996-11-13	7.0	N	N	28
+LAO-3	No Data	No Data	No Data	No Data	0
+LAO-3a	2003-09-17	13.9	Y	N	35
+LAO-4	1996-07-29	5.0	N	N	8
+LAO-4.5	No Data	No Data	No Data	No Data	0
+LAO-4.5c	2009-07-14	10.0	N	Y	20
+LAO-5	1998-08-31	4.2	N	N	5
+LAO-6	No Data	No Data	No Data	No Data	0
+LAO-6a	2001-03-28	0.781	N	N	3
+LAO-B	2009-07-14	10.0	N	Y	36
+LAO-C	1996-07-10	6.5	N	N	24
+LAOI(a)-1.1	2009-07-07	10.0	N	N	30
+LAOI-3.2	2008-01-15	10.0	N	Y	39
+LAOI-3.2 OB	No Data	No Data	No Data	No Data	0
+LAOI-3.2a	2009-07-08	10.0	N	Y	39
+LAOI-3.2a OB	2005-07-30	1.0	Y	N	1
+LAOI-7	2008-01-09	10.0	N	N	40
+LAOR-1	No Data	No Data	No Data	No Data	0
+LAUZ-1	1997-08-20	10.0	N	N	32
+LAUZ-2	1997-12-04	10.0	N	Y	2
+MCA-1	2008-05-20	17.1	Y	N	22
+MCA-2	2007-02-28	2.9	Y	N	10
+MCA-4	2005-09-16	101.0	Y	N	2
+MCA-5	2005-04-25	5.6	Y	N	2
+MCO-0.6	2010-07-02	662.0	Y	N	25
+MCO-1	No Data	No Data	No Data	No Data	0
+MCO-13	No Data	No Data	No Data	No Data	0
+MCO-2	2008-05-28	275.0	Y	N	20
+MCO-3	2009-08-12	14.6	Y	N	17
+MCO-4	No Data	No Data	No Data	No Data	0
+MCO-4B	1996-03-05	10.0	N	Y	38
+MCO-5	2008-02-07	10.0	N	N	49
+MCO-6	2008-02-21	10.0	N	Y	41
+MCO-6.5A	No Data	No Data	No Data	No Data	0
+MCO-6.5B	No Data	No Data	No Data	No Data	0
+MCO-6B	1998-05-27	4.0	N	Y	4
+MCO-7	2008-02-25	10.0	N	N	48
+MCO-7.5	2008-02-06	10.0	N	N	37
+MCO-7A	1998-05-28	5.0	N	Y	3
+MCO-8	No Data	No Data	No Data	No Data	0
+MCO-8.2	No Data	No Data	No Data	No Data	0
+MCOBT-4.4	2002-04-22	53.6	Y	N	7
+MCOBT-4.4 OB	No Data	No Data	No Data	No Data	0
+MCOBT-8.5	No Data	No Data	No Data	No Data	0
+MCOI-4	2005-06-23	135.0	Y	N	45
+MCOI-5	2005-06-09	770.0	Y	N	97
+MCOI-6	2016-11-08	86.6	Y	Y	108
+MCOI-8	2006-01-30	938.0	Y	N	8
+MCWB-6.5E	No Data	No Data	No Data	No Data	0
+MCWB-7.7B	1998-08-26	4.2	N	N	1
+MO-00050	1998-11-16	361.0	Y	N	2
+MO-22543	No Data	No Data	No Data	No Data	0
+MO-22546	No Data	No Data	No Data	No Data	0
+MO-22547	No Data	No Data	No Data	No Data	0
+MO-22548	No Data	No Data	No Data	No Data	0
+MO-22549	No Data	No Data	No Data	No Data	0
+MO-22550	No Data	No Data	No Data	No Data	0
+MO-22551	No Data	No Data	No Data	No Data	0
+MO-22552	No Data	No Data	No Data	No Data	0
+MO-22553	No Data	No Data	No Data	No Data	0
+MO-22555	No Data	No Data	No Data	No Data	0
+MO-22560	No Data	No Data	No Data	No Data	0
+MO-24226	No Data	No Data	No Data	No Data	0
+MO-24227	No Data	No Data	No Data	No Data	0
+MO-24228	No Data	No Data	No Data	No Data	0
+MO-24229	No Data	No Data	No Data	No Data	0
+MO-24232	No Data	No Data	No Data	No Data	0
+MT-1	2005-04-22	2.8	Y	N	4
+MT-2	No Data	No Data	No Data	No Data	0
+MT-3	2008-02-06	10.0	N	N	22
+MT-4	1998-08-26	4.2	N	N	5
+NPDES Outfall 01A001	2014-05-01	3.15	Y	Y	1
+NPDES Outfall 03A027	2014-05-01	1.21	Y	Y	1
+O-1	2016-06-02	15.0	Y	Y	44
+O-4	2009-11-17	10.0	N	Y	86
+Otowi Booster #2	No Data	No Data	No Data	No Data	0
+Pajarito Booster #2	No Data	No Data	No Data	No Data	0
+PAO-3	2005-05-10	4.7	Y	N	5
+PAO-4	2009-07-20	7.04	N	Y	28
+PAO-5n	2015-06-04	10.0	N	Y	17
+PAO-5s	2008-09-04	3.0	N	Y	2
+PCAO-4	No Data	No Data	No Data	No Data	0
+PCAO-5	2008-06-09	10.0	N	N	14
+PCAO-6	2010-06-04	10.0	N	Y	4
+PCAO-7a	2008-06-22	10.0	N	Y	18
+PCAO-7b1	No Data	No Data	No Data	No Data	0
+PCAO-7b2	2008-06-25	10.0	N	Y	14
+PCAO-7c	2008-06-22	10.0	N	Y	20
+PCAO-8	2008-06-24	10.0	N	Y	12
+PCAO-9	2008-06-25	10.0	N	Y	6
+PCI-2	2009-09-04	10.0	N	Y	30
+PCO-1	1999-03-26	3.0	N	Y	9
+PCO-2	2008-03-07	10.0	N	N	15
+PCO-3	2008-03-18	10.0	N	Y	14
+PM-00004	1999-03-26	4.5	Y	N	5
+PM-1	2009-11-17	10.0	N	Y	100
+PM-2	2014-06-24	10.0	N	Y	52
+PM-3	2007-05-16	11.6	Y	N	93
+PM-4	2016-05-16	60.0	Y	N	60
+PM-5	2007-05-16	15.6	Y	Y	91
+PO-4B	No Data	No Data	No Data	No Data	0
+POI-4	2008-01-22	10.0	N	Y	30
+PRB-MW-01	2006-09-08	1.0	N	Y	2
+PRB-MW-02	2006-09-08	1.0	N	N	2
+PU-00001	1997-04-16	10.0	N	N	4
+PU-00002	1997-04-08	10.0	N	N	4
+R-1	2006-04-19	9.8	Y	Y	98
+R-10 OB	2005-09-08	5.2	Y	N	1
+R-10 S1	2006-06-29	12.1518	Y	N	52
+R-10 S2	2006-06-29	12.6675	Y	N	55
+R-10a	2007-08-15	12.7	Y	N	95
+R-11	2007-02-13	35.1	Y	N	139
+R-12 OB	1998-06-09	216.0	Y	Y	9
+R-12 S1	2008-02-20	10.0	N	Y	53
+R-12 S2	2008-02-21	10.0	N	Y	59
+R-12 S3	2001-03-15	9.3	Y	N	17
+R-13	2009-04-30	12.7	Y	Y	104
+R-13 OB	No Data	No Data	No Data	No Data	0
+R-14 S1	2018-11-09	15.0	N	Y	107
+R-14 S2	2006-06-28	7.8241	Y	Y	28
+R-15	2008-05-20	38.4044	Y	N	111
+R-15 OB	1999-07-22	689.0	Y	N	4
+R-17 OB	2005-12-14	6.5	Y	N	3
+R-17 S1	2007-04-25	12.9	Y	N	49
+R-17 S2	2007-02-22	13.6	Y	N	47
+R-19	2000-03-03	2.2	Y	Y	1
+R-19 OB	2000-03-12	1.7	N	Y	1
+R-19 S1	No Data	No Data	No Data	No Data	0
+R-19 S2	2009-03-10	46.6	Y	N	51
+R-19 S3	2001-04-09	29.0	Y	N	55
+R-19 S4	2006-08-16	37.3	Y	N	59
+R-19 S5	2001-07-12	9.2	Y	N	38
+R-19 S6	2009-05-28	3.2367	Y	Y	38
+R-19 S7	2001-03-29	15.0	Y	N	42
+R-2	2008-01-11	25.9	Y	N	35
+R-20	No Data	No Data	No Data	No Data	0
+R-20 OB	No Data	No Data	No Data	No Data	0
+R-20 S1	2009-09-02	10.0	N	Y	121
+R-20 S2	2008-06-23	10.0	N	Y	130
+R-20 S3	2004-05-05	6.5	Y	N	14
+R-21	2008-05-23	50.0	N	Y	74
+R-22 OB	2000-10-16	2.32	N	N	2
+R-22 S1	2005-06-27	31.4	Y	N	64
+R-22 S2	2001-12-03	20.1	Y	N	39
+R-22 S3	2001-06-21	40.0	Y	N	41
+R-22 S4	2007-03-22	10.4	Y	Y	34
+R-22 S5	2009-05-17	17.1589	Y	N	106
+R-23	2009-02-25	20.1	Y	N	67
+R-23i OB	2005-10-20	2.1	Y	N	2
+R-23i PZ-1	No Data	No Data	No Data	No Data	0
+R-23i S1	2009-12-03	18.0	Y	N	41
+R-23i S2	2007-12-19	10.0	N	Y	55
+R-23i S3	2006-10-11	82.4	Y	N	56
+R-24	2005-09-20	7.1	Y	N	32
+R-28	2017-02-07	605.0	Y	Y	176
+R-3	2010-05-12	27.7622	Y	N	50
+R-32 OB	No Data	No Data	No Data	No Data	0
+R-32 S1	2007-03-26	24.3	Y	N	71
+R-32 S2	No Data	No Data	No Data	No Data	0
+R-32 S3	2006-08-30	10.4	Y	N	22
+R-33 S1	2005-09-14	12.3	Y	N	111
+R-33 S2	2007-11-19	8.9	Y	N	115
+R-34	2011-11-10	50.0	N	Y	108
+R-35a	2010-02-11	29.2	Y	N	105
+R-35b	2010-02-11	50.0	N	Y	98
+R-36	2008-05-12	12.2	Y	N	115
+R-37 S1	2009-07-13	10.0	N	Y	36
+R-37 S2	2010-10-14	21.5	Y	N	34
+R-38	2009-02-06	11.9	Y	N	33
+R-39	2011-07-28	7.25	N	N	35
+R-3i	2008-01-16	10.0	N	Y	29
+R-3i OB	2005-08-10	1.0	N	N	5
+R-4	2009-07-16	8.05	Y	N	37
+R-4 OB	No Data	No Data	No Data	No Data	0
+R-40	2009-04-24	6.1709	Y	N	14
+R-40 S1	2009-09-04	10.0	N	N	21
+R-40 S2	2009-09-03	10.0	N	Y	31
+R-40 Si	2018-10-19	15.0	N	Y	47
+R-40i	2012-10-22	0.05	N	Y	1
+R-41	No Data	No Data	No Data	No Data	0
+R-41 S1	No Data	No Data	No Data	No Data	0
+R-41 S2	2009-09-01	10.0	N	Y	34
+R-42	2010-11-10	1270.0	Y	N	66
+R-43	No Data	No Data	No Data	No Data	0
+R-43 S1	2019-11-14	223.0	Y	Y	85
+R-43 S2	2020-01-09	35.2	Y	Y	103
+R-44 S1	2016-05-03	21.8	Y	Y	99
+R-44 S2	2010-02-10	16.8	Y	Y	106
+R-45 S1	2017-12-18	50.7	Y	Y	95
+R-45 S2	2017-10-31	42.3	Y	Y	89
+R-46	2009-03-11	13.7	N	N	39
+R-49	No Data	No Data	No Data	No Data	0
+R-49 S1	2009-06-23	10.0	N	Y	43
+R-49 S2	2010-03-05	10.0	N	Y	31
+R-5	2001-11-12	4.6	Y	N	2
+R-5 OB	2001-05-12	538.0	Y	N	4
+R-5 S1	No Data	No Data	No Data	No Data	0
+R-5 S2	2011-03-09	8.59	Y	N	26
+R-5 S3	2007-04-18	17.1	Y	N	28
+R-5 S4	2008-01-10	7.7584	Y	N	22
+R-50 S1	2017-10-26	150.0	Y	Y	107
+R-50 S2	2010-03-11	10.0	N	N	107
+R-51 S1	2010-03-08	10.0	N	N	25
+R-51 S2	2010-10-19	10.0	N	N	31
+R-52 S1	2011-01-13	10.0	N	Y	26
+R-52 S2	2011-01-13	10.0	N	N	40
+R-53 S1	2010-04-19	10.0	N	N	23
+R-53 S2	2010-04-14	10.0	N	N	23
+R-54 S1	2010-02-15	143.0	Y	N	46
+R-54 S2	2010-02-21	10.0	N	Y	26
+R-55 S1	2010-09-09	10.0	N	Y	25
+R-55 S2	2011-04-28	10.0	N	Y	25
+R-55i	2011-05-10	10.0	N	N	31
+R-56	No Data	No Data	No Data	No Data	0
+R-56 S1	2010-08-19	10.0	N	N	25
+R-56 S2	2011-02-07	10.0	N	Y	25
+R-57 S1	2018-10-19	15.0	N	Y	23
+R-57 S2	2018-10-19	15.0	N	Y	23
+R-6	2008-08-27	8.5	N	Y	42
+R-60	2011-07-26	8.06	N	Y	34
+R-61 S1	2019-06-06	39.1	Y	Y	99
+R-61 S2	2012-02-08	34.2018	Y	N	51
+R-62	2019-05-14	326.0	Y	Y	63
+R-64	2011-12-08	10.0	N	N	43
+R-66	2012-01-16	10.0	N	Y	24
+R-67	2019-01-09	9.25	Y	Y	37
+R-6i	2006-03-01	10.0	Y	N	38
+R-7 OB	2001-01-06	2.4	Y	Y	2
+R-7 S1	2002-02-19	48.8	Y	N	9
+R-7 S2	No Data	No Data	No Data	No Data	0
+R-7 S3	2001-05-30	8.9	Y	N	28
+R-8 OB	No Data	No Data	No Data	No Data	0
+R-8 S1	2004-12-08	10.9	Y	N	33
+R-8 S2	2004-08-25	10.9	Y	N	32
+R-8A OB	2001-12-17	5.0	N	N	4
+R-9	1998-01-26	2980.0	Y	N	53
+R-9 OB	No Data	No Data	No Data	No Data	0
+R-9i S1	2009-07-08	10.0	N	Y	34
+R-9i S2	2001-02-21	11.0	Y	N	29
+SA-00001	No Data	No Data	No Data	No Data	0
+SA-26997	2006-08-23	29.2	Y	N	1
+SCA-1	2007-08-30	40.3	Y	N	12
+SCA-1-DP	2014-07-31	121.11	Y	Y	27
+SCA-2	2007-11-15	552.0	Y	N	18
+SCA-3	No Data	No Data	No Data	No Data	0
+SCA-4	2008-05-12	95.2	Y	N	20
+SCA-5	2006-10-11	13.9	Y	N	4
+SCI-1	2007-08-22	22.1	Y	Y	75
+SCI-2	2008-10-21	660.0	Y	Y	101
+SCO-1	No Data	No Data	No Data	No Data	0
+SCO-2	No Data	No Data	No Data	No Data	0
+SCPZ-1	2014-07-30	10.0	N	Y	6
+SCPZ-10	2015-05-26	36.85	Y	Y	4
+SCPZ-11(A)	2014-08-01	76.51	Y	Y	4
+SCPZ-11(B)	2014-07-31	61.32	Y	Y	4
+SCPZ-12	2014-07-31	47.31	Y	Y	4
+SCPZ-2	2014-07-30	73.03	Y	Y	6
+SCPZ-3	2014-08-01	50.82	Y	Y	6
+SCPZ-4	2014-08-01	13.52	Y	Y	6
+SCPZ-5	2014-08-01	10.0	N	Y	6
+SCPZ-6	2014-08-01	10.0	N	Y	6
+SCPZ-7	2014-08-04	26.95	Y	Y	4
+SCPZ-8	2014-08-04	10.0	N	Y	6
+SCPZ-9	2014-08-04	29.97	Y	Y	6
+SIMR-2	2017-11-15	9.41	Y	Y	54
+Skate Spring	No Data	No Data	No Data	No Data	0
+SM-30 Spring	No Data	No Data	No Data	No Data	0
+SM-30A Spring	No Data	No Data	No Data	No Data	0
+SWA-1	2015-05-26	46.31	Y	Y	5
+SWA-2	2015-02-10	4.46	Y	Y	5
+SWA-3	2015-05-21	20.82	Y	Y	5
+SWA-3-7	2017-08-16	34.3	Y	Y	17
+SWA-3-8	2018-05-31	22.0	Y	Y	19
+SWA-3-9	2018-07-25	15.9	Y	Y	17
+SWA-4	2015-05-21	31.08	Y	Y	5
+SWL-1	2015-06-03	29.11	Y	Y	5
+SWL-2	2015-06-03	3.38	Y	Y	5
+SWL-3	2015-06-03	11.5	Y	Y	5
+SWL-4	2015-06-03	29.04	Y	Y	5
+TA-18 Cistern	No Data	No Data	No Data	No Data	0
+TA-18 Spring	2007-12-12	10.0	N	N	16
+TA-53i	2010-08-25	23.1	Y	N	20
+Test Well 1	1998-09-01	4.2	N	N	14
+Test Well 1A	1998-05-29	2.0	N	N	6
+Test Well 2	2000-05-03	4.0	N	N	5
+Test Well 2A	2009-07-21	10.0	N	Y	8
+Test Well 3	2010-01-12	10.0	N	N	18
+Test Well 4	1996-07-03	6.9	N	N	8
+Test Well 8	2007-06-06	17.1	Y	N	38
+Test Well TW-1	No Data	No Data	No Data	No Data	0
+Threemile Spring	2007-03-20	1.8	Y	N	4
+TMO-1	2010-06-02	10.0	N	Y	6
+TS-1.42 SPRING	No Data	No Data	No Data	No Data	0
+TSCA-6	No Data	No Data	No Data	No Data	0
+TSWB-6	No Data	No Data	No Data	No Data	0
+TW-1.72 Spring	2008-12-11	14.5	N	N	10
+TW-2Ar	2010-08-23	10.0	N	N	32
+UNK	No Data	No Data	No Data	No Data	0
+MCWB-4	No Data	No Data	No Data	No Data	0
+R-50	No Data	No Data	No Data	No Data	0
+MCWB-8.1B	No Data	No Data	No Data	No Data	0
+MCA-3ac S1	No Data	No Data	No Data	No Data	0
+CrEX-4	2017-12-05	398.0	Y	Y	1
+MCWB-7.4B	No Data	No Data	No Data	No Data	0
+MCA-3ac	No Data	No Data	No Data	No Data	0
+MCO-9	No Data	No Data	No Data	No Data	0
+R-37	No Data	No Data	No Data	No Data	0
+PAO-2.5	No Data	No Data	No Data	No Data	0
+R-12	No Data	No Data	No Data	No Data	0
+SWA-1-1	2017-11-29	9.78	Y	Y	19
+MCO-9.5	No Data	No Data	No Data	No Data	0
+MCWB-6.2A	No Data	No Data	No Data	No Data	0
+SWA-2-4	2017-08-15	16.9	Y	Y	19
+MCWB-8.1C	No Data	No Data	No Data	No Data	0
+MCWB-6.5C	No Data	No Data	No Data	No Data	0
+R-22	No Data	No Data	No Data	No Data	0
+18-MW-4	No Data	No Data	No Data	No Data	0
+LADP-5	No Data	No Data	No Data	No Data	0
+PU-00181	No Data	No Data	No Data	No Data	0
+R-70 S2	2019-05-27	238.0	Y	Y	1
+MCWB-6.6	No Data	No Data	No Data	No Data	0
+PA-26616	No Data	No Data	No Data	No Data	0
+MCWB-7A	No Data	No Data	No Data	No Data	0
+P5-26612	No Data	No Data	No Data	No Data	0
+SC-26614	No Data	No Data	No Data	No Data	0
+R-70	No Data	No Data	No Data	No Data	0
+SWA-2-5	2018-02-28	8.28	Y	Y	19
+LAWS-01	No Data	No Data	No Data	No Data	0
+R-57	No Data	No Data	No Data	No Data	0
+R-14	No Data	No Data	No Data	No Data	0
+R-9i	No Data	No Data	No Data	No Data	0
+MCWB-6.5D	No Data	No Data	No Data	No Data	0
+MCWB-5.5A	No Data	No Data	No Data	No Data	0
+MCA-RLW-1	No Data	No Data	No Data	No Data	0
+MCWB-7.2	No Data	No Data	No Data	No Data	0
+SC-26613	No Data	No Data	No Data	No Data	0
+MCOI-1	No Data	No Data	No Data	No Data	0
+R-4 PZ-W	No Data	No Data	No Data	No Data	0
+SWA-2-6	2018-02-28	7.38	Y	Y	19
+MCA-8	No Data	No Data	No Data	No Data	0
+MCA-9	No Data	No Data	No Data	No Data	0
+MCWB-9A	No Data	No Data	No Data	No Data	0
+TW-2A(r)	No Data	No Data	No Data	No Data	0
+MCWB-7.4A	No Data	No Data	No Data	No Data	0
+MCA-3b	No Data	No Data	No Data	No Data	0
+SCP-1abc S3	No Data	No Data	No Data	No Data	0
+LA-10070	No Data	No Data	No Data	No Data	0
+PU-10228	No Data	No Data	No Data	No Data	0
+R-8	No Data	No Data	No Data	No Data	0
+SWA-4-10	2018-07-25	72.0	Y	Y	19
+R-32	No Data	No Data	No Data	No Data	0
+LA-10067	No Data	No Data	No Data	No Data	0
+LAWS-01 S2	No Data	No Data	No Data	No Data	0
+SWA-4-12	2017-08-15	56.2	Y	Y	19
+R-55	No Data	No Data	No Data	No Data	0
+R-54	No Data	No Data	No Data	No Data	0
+R-10	No Data	No Data	No Data	No Data	0
+SWA-4-11	2017-08-15	44.4	Y	Y	19
+LAWS-01 S3	No Data	No Data	No Data	No Data	0
+SWA-1-2	2018-07-24	105.0	Y	Y	21
+SCP-1abc S1	No Data	No Data	No Data	No Data	0
+SCP-1abc	No Data	No Data	No Data	No Data	0
+R-5 SC	No Data	No Data	No Data	No Data	0
+MCA-3def	No Data	No Data	No Data	No Data	0
+R-44	No Data	No Data	No Data	No Data	0
+SCP-2b	No Data	No Data	No Data	No Data	0
+MCA-3def S2	No Data	No Data	No Data	No Data	0
+LAWS-01 S4	No Data	No Data	No Data	No Data	0
+MCWB-6.2B	No Data	No Data	No Data	No Data	0
+R-4 PZ-E	No Data	No Data	No Data	No Data	0
+R-17	No Data	No Data	No Data	No Data	0
+LAO-4.5B	No Data	No Data	No Data	No Data	0
+LA-10069	No Data	No Data	No Data	No Data	0
+MCA-3def S1	No Data	No Data	No Data	No Data	0
+SWA-1-3	2017-08-16	32.9	Y	Y	19
+18-MW-7	No Data	No Data	No Data	No Data	0
+R-23i	No Data	No Data	No Data	No Data	0
+R-51	2010-01-14	5.3992	Y	N	3
+R-52	2010-04-19	2.3217	Y	N	1
+R-70 S1	2019-05-24	13.6	Y	Y	1
+SCP-2a	No Data	No Data	No Data	No Data	0
+MCWB-7.7A	No Data	No Data	No Data	No Data	0
+CrEX-5	No Data	No Data	No Data	No Data	0
+MCA-RLW-2	2019-08-05	3.0	N	Y	1
+MCA-3ac S2	No Data	No Data	No Data	No Data	0
+18-MW-5	No Data	No Data	No Data	No Data	0
+MCA-3def S3	No Data	No Data	No Data	No Data	0
+MCWB-6.2C	No Data	No Data	No Data	No Data	0
+R-53	No Data	No Data	No Data	No Data	0
+MCO-7.2	No Data	No Data	No Data	No Data	0
+R-61	No Data	No Data	No Data	No Data	0
+R-7	No Data	No Data	No Data	No Data	0
+MCWB-5	No Data	No Data	No Data	No Data	0
+MCWB-5.5B	No Data	No Data	No Data	No Data	0
+PU-00182	No Data	No Data	No Data	No Data	0
+SCP-1abc S2	No Data	No Data	No Data	No Data	0
+MCWB-9B	No Data	No Data	No Data	No Data	0
+LAWS-01 S1	No Data	No Data	No Data	No Data	0
+LA-00001	No Data	No Data	No Data	No Data	0
+BCO-1	No Data	No Data	No Data	No Data	0
+LAO-4.5A	No Data	No Data	No Data	No Data	0
+MCWB-7B	No Data	No Data	No Data	No Data	0
+R-45	No Data	No Data	No Data	No Data	0
+R-33	No Data	No Data	No Data	No Data	0
+MCO-12	No Data	No Data	No Data	No Data	0
+MCWB-8.1A	No Data	No Data	No Data	No Data	0
+CrIN-6	2017-11-07	321.0	Y	Y	3
+CRPZ-1	2016-12-15	385.0	Y	Y	4

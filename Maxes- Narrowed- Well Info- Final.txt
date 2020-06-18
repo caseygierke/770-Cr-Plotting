@@ -1,0 +1,228 @@
+00-01535	1994-03-31	400	Y	N	1
+01-22571	No Data	No Data	No Data	No Data	0
+02-01021	1994-06-15	85	Y	N	6
+02-01022	1994-10-25	9	Y	N	8
+02-01075	1994-10-28	5300	Y	N	4
+02-01076	1994-10-24	4	N	N	2
+02-01077	1994-10-25	9	Y	Y	4
+02-01078	No Data	No Data	No Data	No Data	0
+03-02664	1999-12-17	7.2	Y	Y	2
+03-02667	No Data	No Data	No Data	No Data	0
+03-02681	No Data	No Data	No Data	No Data	0
+03-24529	2005-06-16	10	N	N	1
+03-24530	2005-06-16	4	Y	N	1
+03-24548	2005-06-15	10	N	N	1
+03-B-10	2009-09-14	9.12	Y	Y	28
+03-B-13	2007-09-14	9.9	Y	N	65
+03-B-9	2007-07-11	8.5	Y	N	4
+03-MW-1	No Data	No Data	No Data	No Data	0
+06-22848	No Data	No Data	No Data	No Data	0
+11-22513	No Data	No Data	No Data	No Data	0
+14-02-19968	2002-11-11	2.4	N	Y	2
+18-01023	No Data	No Data	No Data	No Data	0
+18-01024	No Data	No Data	No Data	No Data	0
+18-01060	2000-09-05	96	Y	N	12
+18-01063	1994-08-08	11.1	Y	N	1
+18-01135	2000-10-17	80.8	Y	N	12
+18-01136	1994-07-11	3	N	N	1
+18-01165	1994-08-15	3	N	Y	1
+18-01166	1994-08-15	6.1	N	Y	13
+18-01195	No Data	No Data	No Data	No Data	0
+18-01196	1994-06-29	0.59	N	N	1
+18-01233	1994-07-27	3	N	N	1
+18-01234	1994-07-27	3	N	N	2
+18-01254	1994-08-23	5.3	N	N	1
+18-01255	1995-08-03	80.5	Y	N	2
+18-01275	1995-08-04	6.38	Y	N	2
+18-01684	1995-08-03	39.3	Y	N	2
+18-01685	1995-08-03	983	Y	N	1
+18-02013	1995-01-30	5.9	N	N	6
+18-02014	1995-01-30	5.6	N	N	6
+18-02015	1995-01-30	7.4	N	N	6
+18-02016	1995-01-30	6.6	N	N	7
+18-02023	No Data	No Data	No Data	No Data	0
+18-02024	No Data	No Data	No Data	No Data	0
+18-10010	2000-10-17	9.2	Y	N	20
+18-10011	1998-06-24	9.8	Y	N	11
+18-10012	1998-03-23	20	Y	N	11
+18-10013	1998-06-24	6.4	Y	N	11
+18-10014	1997-06-10	2.7	N	Y	11
+18-10019	1997-06-09	4.6	Y	N	1
+18-1060	No Data	No Data	No Data	No Data	0
+18-BG-1	2010-02-22	6.72	Y	N	30
+18-BG-4	No Data	No Data	No Data	No Data	0
+18-MW-10	No Data	No Data	No Data	No Data	0
+18-MW-11	2007-03-28	6.2	N	Y	28
+18-MW-12	No Data	No Data	No Data	No Data	0
+18-MW-13	No Data	No Data	No Data	No Data	0
+18-MW-14	No Data	No Data	No Data	No Data	0
+18-MW-15	No Data	No Data	No Data	No Data	0
+18-MW-16	No Data	No Data	No Data	No Data	0
+18-MW-17	No Data	No Data	No Data	No Data	0
+18-MW-18	2010-07-26	7.76	Y	N	38
+18-MW-8	2008-06-16	3.8	Y	Y	28
+18-MW-9	2008-06-11	4.8	N	N	28
+20-02-20857	No Data	No Data	No Data	No Data	0
+21-01682	1993-11-04	21	Y	N	1
+21-01811	1995-02-08	1.9	N	N	1
+21-01812	1995-06-21	4.4	N	N	11
+23-02-20858	No Data	No Data	No Data	No Data	0
+28-22573	No Data	No Data	No Data	No Data	0
+32-02-20856	No Data	No Data	No Data	No Data	0
+33-22850	No Data	No Data	No Data	No Data	0
+34-22851	No Data	No Data	No Data	No Data	0
+35-02371	1997-04-30	32.2	Y	N	1
+36-02020	1995-04-19	6.8	Y	N	7
+36-02021	1995-01-31	55.3	Y	N	5
+36-02022	1995-02-01	8.9	N	N	5
+36-2020	2001-11-19	2.27	N	Y	1
+3MAO-1a	No Data	No Data	No Data	No Data	0
+3MAO-2	2010-06-07	5.56	Y	N	18
+41-01002	1995-05-11	5.7	N	N	15
+41-01003	1995-05-10	6	N	N	24
+41-01004	1994-10-31	4	N	N	2
+41-01045	1994-06-13	66	Y	N	4
+73-01005	1995-02-24	2.9	N	N	2
+73-01006	No Data	No Data	No Data	No Data	0
+73-01007	1995-02-24	1.6	N	N	1
+73-01009	1995-02-24	57.7	Y	N	3
+73-01011	1995-03-30	0.89	N	N	1
+73-02428	2001-11-02	10.3	N	N	1
+Acid Weir	No Data	No Data	No Data	No Data	0
+Anderson Spring	2007-07-06	9.3	Y	Y	26
+APCO-1	2006-08-08	7.7	N	N	45
+B1	No Data	No Data	No Data	No Data	0
+Barnstead millipore DI water	No Data	No Data	No Data	No Data	0
+CDBO-1	No Data	No Data	No Data	No Data	0
+CDBO-2	No Data	No Data	No Data	No Data	0
+CDBO-3	No Data	No Data	No Data	No Data	0
+CDBO-4	No Data	No Data	No Data	No Data	0
+CDBO-5	No Data	No Data	No Data	No Data	0
+CDBO-6	2008-05-22	50	N	Y	35
+CDBO-7	2008-11-13	3	N	N	11
+CDBO-8	No Data	No Data	No Data	No Data	0
+CDBO-9	No Data	No Data	No Data	No Data	0
+Core Hole 2	1997-04-10	-0.3	N	Y	1
+CrCH-1	2014-10-15	88.5	Y	N	2
+CrEX-1	2014-11-25	201	Y	Y	5
+CrEX-2	2017-05-15	367	Y	Y	2
+CrEX-3	2019-02-27	193	Y	Y	2
+CrIN-1	2016-11-09	81.6	Y	Y	4
+CrIN-2	2016-06-02	98.1	Y	Y	3
+CrIN-3	2017-09-21	53.9	Y	Y	3
+CrIN-4	2016-06-22	88.3	Y	Y	3
+CrIN-5	2016-11-29	85.4	Y	Y	2
+CRPZ-2 S1	2018-02-01	97.3	Y	Y	2
+CRPZ-2 S2	2016-02-26	38.2	Y	Y	1
+CRPZ-3	2018-01-30	379	Y	Y	2
+CRPZ-4	2018-01-31	79.3	Y	Y	2
+CRPZ-5	2016-04-15	241	Y	Y	3
+DP Spring	1998-09-02	50	N	Y	29
+DP-0.0 Spring	No Data	No Data	No Data	No Data	0
+DP-03-21601	No Data	No Data	No Data	No Data	0
+DP-03-21604	No Data	No Data	No Data	No Data	0
+DP-03-21614	No Data	No Data	No Data	No Data	0
+DP-03-21617	No Data	No Data	No Data	No Data	0
+DP-03-21618	No Data	No Data	No Data	No Data	0
+DP-03-21627	No Data	No Data	No Data	No Data	0
+DP-03-21638	No Data	No Data	No Data	No Data	0
+DP-03-21641	No Data	No Data	No Data	No Data	0
+DP-03-21644	No Data	No Data	No Data	No Data	0
+DP-03-21650	No Data	No Data	No Data	No Data	0
+DPS-1	No Data	No Data	No Data	No Data	0
+DPS-4	No Data	No Data	No Data	No Data	0
+ER ID #03-2664	No Data	No Data	No Data	No Data	0
+ER ID #18-01685	1995-08-01	10	N	Y	1
+Fire Station 1	No Data	No Data	No Data	No Data	0
+Fire Station 2	No Data	No Data	No Data	No Data	0
+Fire Station 3	No Data	No Data	No Data	No Data	0
+G-5	1997-06-25	5.2	N	N	5
+Hamilton Bend Spring	No Data	No Data	No Data	No Data	0
+Hanlon Spring	No Data	No Data	No Data	No Data	0
+LA-00115	2001-08-16	1.7	Y	N	1
+LA-10008	2000-07-25	35	Y	N	2
+LA-10035	2002-06-05	4.22	Y	Y	6
+LA-10066	2001-11-05	5	N	Y	6
+LA-10068	2001-11-06	5	N	N	4
+LA-10135	2002-08-16	5	N	N	6
+LA-5.19 Spring	1995-07-14	10	N	Y	1
+LADP-3	2007-04-26	9.8	Y	N	22
+LAO-0.3	1998-09-01	4.2	N	N	12
+LAO-0.6	2006-08-03	5.7	Y	N	12
+LAO-0.7	1997-06-18	4.8	N	N	14
+LAO-0.8	1994-06-15	10	N	N	1
+LAO-0.91	1998-09-03	4.2	N	N	2
+LAO-1	1995-05-16	9	N	Y	25
+LAO-1.1	No Data	No Data	No Data	No Data	0
+LAO-1.2	No Data	No Data	No Data	No Data	0
+LAO-1.6g	1996-07-19	7.9	N	Y	30
+LAO-1.8	No Data	No Data	No Data	No Data	0
+LAO-2	1996-11-13	7	N	N	33
+LAO-3	1980-02-14	5	N	N	9
+LAO-3a	1995-06-23	6.7	N	N	41
+LAO-4	1996-07-29	5	N	N	11
+LAO-4.5	1982-06-02	5	N	N	6
+LAO-4.5c	2001-11-06	5	N	Y	24
+LAO-5	1998-08-31	4.2	N	N	5
+LAO-6	1995-03-30	6	N	Y	8
+LAO-6a	1995-06-26	4.4	N	N	8
+LAO-B	1995-05-09	7.3	N	N	40
+LAO-C	1996-07-10	6.5	N	N	30
+LAOI(a)-1.1	1995-05-18	7.4	Y	N	35
+LAOI-3.2	2008-01-15	5	Y	N	39
+LAOI-3.2 OB	No Data	No Data	No Data	No Data	0
+LAOI-3.2a	2008-01-23	5.6	Y	Y	39
+LAOI-3.2a OB	2005-07-30	1	Y	N	1
+LAOI-7	2008-08-27	6.4	N	N	40
+LAOR-1	1994-01-01	30	N	N	2
+LAUZ-1	2001-11-13	5	N	Y	34
+LAUZ-2	1998-09-04	4.2	N	N	2
+MCA-1	2008-08-12	6.9	Y	Y	22
+MCA-2	2007-02-28	2.9	Y	N	10
+MCA-4	2005-09-16	43	Y	Y	2
+MCA-5	2005-04-25	5.6	Y	N	2
+MCO-0.6	2010-07-02	662	Y	N	25
+MCO-1	No Data	No Data	No Data	No Data	0
+MCO-13	No Data	No Data	No Data	No Data	0
+MCO-2	2008-11-05	50.2	Y	N	20
+MCO-3	2000-07-17	6	N	N	19
+MCO-4	1980-02-19	5	N	N	5
+MCO-4B	1995-03-31	7	N	Y	45
+MCO-5	2010-07-06	5.76	Y	Y	52
+MCO-6	1995-03-31	9	N	Y	55
+MCO-6.5A	No Data	No Data	No Data	No Data	0
+MCO-6.5B	No Data	No Data	No Data	No Data	0
+MCO-6B	1995-03-31	8	N	Y	6
+MCO-7	1995-03-30	9	N	N	56
+MCO-7.5	1982-06-02	5	N	N	41
+MCO-7A	1995-08-10	5.6	N	Y	7
+MCO-8	No Data	No Data	No Data	No Data	0
+MCO-8.2	No Data	No Data	No Data	No Data	0
+MCOBT-4.4	2002-04-22	53.6	Y	N	7
+MCOBT-4.4 OB	No Data	No Data	No Data	No Data	0
+MCOBT-8.5	No Data	No Data	No Data	No Data	0
+MCOI-4	2010-07-07	8.83	Y	Y	45
+MCOI-5	2016-11-08	9.6	Y	Y	97
+MCOI-6	2016-11-08	86.6	Y	Y	108
+MCOI-8	2006-01-30	938	Y	N	8
+MCS-3.2	No Data	No Data	No Data	No Data	0
+MCS-3.9	No Data	No Data	No Data	No Data	0
+MCWB-6.5E	No Data	No Data	No Data	No Data	0
+MCWB-7.7B	1998-08-26	4.2	N	N	1
+MO-00050	1998-11-16	361	Y	N	2
+MO-22543	No Data	No Data	No Data	No Data	0
+MO-22546	No Data	No Data	No Data	No Data	0
+MO-22547	No Data	No Data	No Data	No Data	0
+MO-22548	No Data	No Data	No Data	No Data	0
+MO-22549	No Data	No Data	No Data	No Data	0
+MO-22550	No Data	No Data	No Data	No Data	0
+MO-22551	No Data	No Data	No Data	No Data	0
+MO-22552	No Data	No Data	No Data	No Data	0
+MO-22553	No Data	No Data	No Data	No Data	0
+MO-22555	No Data	No Data	No Data	No Data	0
+MO-22560	No Data	No Data	No Data	No Data	0
+MO-24226	No Data	No Data	No Data	No Data	0
+MO-24227	No Data	No Data	No Data	No Data	0
+MO-24228	No Data	No Data	No Data	No Data	0
+MO-24229	No Data	No Data	No Data	No Data	0
+MO-24232	No Data	No Data	No Data	No Data	0

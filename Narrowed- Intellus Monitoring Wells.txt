@@ -1,0 +1,935 @@
+locationID	LONGITUDE	LATITUDE	GROUND_ELE	SURVEYING_	LOCATION_D	LOCATION_C	WELL_TOTAL	DEPTH_UNIT	TOP_OF_CAS	WELL_DIAME	PERFORATIO	PERFORAT_1	AQUIFER	HYDROSTRAT	GEOLOGICAL	WELL_COMPL	field_18
+MCWB-4	-106.279282499999000	35.863955099999900	6893.42	S. McLin	None	None	15	ft	None	3 in	10	15	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12230	
+18-MW-13	-106.264589000000000	35.838903999999900	6727.3	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+R-15	-106.267239200000000	35.859910200000000	6820	Completion Report	None	Location info taken from Brass Monument survey data in R-15 WCR.	1030.6	ft	6820	5 in	958.6	1020.3	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12319	
+R-50	-106.255907600000000	35.856655300000000	6904.11	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	None	None	None	None	None	None	
+R-19 S3	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1171.4	1215.4	Regional	Regional Top	Tpf	None	
+R-40 S1	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	751.59	785.06	Intermediate	Intermediate	Tb4	None	
+MCWB-6.5E	-106.272218200000000	35.860764699999900	6843.8	S. McLin	None	None	50	ft	None	3 in	35	45	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12066	
+R-43 S1	-106.260734200000000	35.863598400000000	6732.65	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	903.9	924.6	Regional	Regional Top	Tsfu	None	
+R-56 S1	-106.249694100000000	35.834559900000000	6780.88	Well Completion Rpt	None	brass cap location	None	None	None	None	945	965.6	Regional	Regional Top	Tpf	None	
+MCWB-8.1B	-106.263016100000000	35.860860799999900	6783.8	S. McLin	None	None	72.5	ft	None	None	47.5	67.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12247	
+LAUZ-1	-106.273567000000000	35.877868999999900	7032.42	None	None	OU 1106 (TA-21)	None	None	None	None	None	None	None	None	None	None	
+ER ID #18-01685	-106.251658699999000	35.832368799999900	6654.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCPZ-4	-106.312523600000000	35.874560899999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SIMR-2	-106.251926100000000	35.853745099999900	6702.3	TERRANEAR PMC	None	None	927	ft	6702.3	5 in	885	905.4	Regional	Regional	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12442	
+MCOI-8	-106.273918400000000	35.862496800000000	6859.2	Kleinfelder survey	None	Brass Monument	678.6	ft	6862	4.5 in	665	674.96	Intermediate	Intermediate	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12228	
+R-10 S1	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	874	897	Regional	Regional Deep	Tsf	None	
+PAO-3	-106.259010100000000	35.883493399999900	6578.58	D. KATZMAN	None	Pueblo Canyon alluvial wellefile N. McCranie allu PAO-3. Source Org Code changed to ER/WQH.  Location data from ER, sampled by WQH.  Deleted ULI 170252, duplicate location, changed to Synonym.	13.47	ft	None	4 in	5.62	10.62	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12271	
+MCA-3ac S1	-106.273050400000000	35.862095500000000	6853	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PCO-2	-106.245669199999000	35.830158699999900	6618.3	Stoker	None	None	9.5	ft	None	None	1.5	9.5	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12285	
+R-19 OB	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-5 S4	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	858.7	863.7	Regional	Regional Deep	Tsfb	None	
+PCAO-6	-106.293216400000000	35.853354699999900	6921.4	SW MTN SURVEY	None	Brass Cap	20	ft	None	4 in	8	15	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12276	
+R-55i	-106.227740700000000	35.829931799999900	6534.91	SW MTN SURVEY	None	Brass cap surveyed location as corrected 2/16/11 and rounded to 2 digits - RJK	541.4	ft	6534.91	5 in	510	531.1	Intermediate	Intermediate	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12364	
+R-37 S2	-106.258734300000000	35.844372900000000	6870.59	Well Completion Rpt	None	Brass monument location	None	None	None	None	1026	1046.6	Regional	Regional	Tpf	None	
+18-MW-11	-106.264896400000000	35.840314900000000	6740.13	PG	None	None	47	ft	None	2 in	27	47	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12481	
+LAO-4	-106.248868100000000	35.872156199999900	6548	Stoker	None	Elevation revised based on LIDAR surface location pick	24	ft	None	3 in	14	24	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12143	
+R-21	-106.247073099999000	35.834829999999900	6656.24	Completion Report	None	Location info taken from Brass Monument survey data from R-21 WCR.	941.4	ft	6656.24	6 in	888.8	906.8	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12125	
+CrEX-4	-106.257978400000000	35.859934000000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCWB-7.4B	-106.267309700000000	35.860281999999900	6813.07	S. McLin	None	None	70	ft	None	3 in	45	65	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12243	
+R-51 S1	-106.269336900000000	35.842631699999900	6762.17	Precision Surveys	None	brass cap location	None	None	None	None	915	925.2	Regional	Regional Top	Tpf	None	
+MCA-3ac	-106.273050400000000	35.862095500000000	6853	Kleinfelder survey	None	Brass cap location	44	ft	6857.1	0.8 in	Multiple	Multiple	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12097	
+MCO-9	-106.257966200000000	35.860180800000000	6749.67	LANL 1997 WP Mort Cy	None	None	55	ft	None	3 in	45	55	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12214	
+PRB-MW-01	-106.277749600000000	35.863827000000000	6881.85	Alethea Banar	None	Mortandad Canyon Permeable Reactive Barrier - Monitoring well 1 (upstream)	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+R-44 S2	-106.251199000000000	35.856717000000000	6714.91	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-62	-106.266465800000000	35.863120600000000	6984.88	None	None	Updated Location information from e-mail from RJK 4/2/2012	1189.7	ft	6984.88	5.0 in	1158.4	1179.1	Regional	Regional Top	Tjfp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12370	
+R-55 S2	-106.227508000000000	35.829687999999900	6533.86	None	None	Brass cap surveyed location	None	None	None	None	None	None	None	None	None	None	
+41-01004	-106.311636400000000	35.879064399999900	7050	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:LAO-C	None	None	None	None	None	None	None	None	None	None	
+R-5 S2	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	372.8	388.8	Intermediate	Intermediate	Tp	None	
+3MAO-2	-106.272383899999000	35.839150599999900	6759.435	SW MTN SURVEY	None	Brass Cap	30	ft	None	4 in	14.7	24.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12497	
+PU-10174	-106.301910400000000	35.888575199999900	6930.43	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-7 S3	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	895.5	937.4	Regional	Regional Top	Tp	None	
+R-22 S4	-106.233442999999000	35.829245999999900	6650.5	None	None	original x, y = 1645327, 1757112	None	None	None	None	None	None	None	None	None	None	
+SWA-2	-106.312434100000000	35.874748599999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-37	-106.258734300000000	35.844372900000000	6870.59	Well Completion Rpt	None	Brass monument location	None	None	None	None	None	None	None	None	None	None	
+PAO-2.5	-106.282985300000000	35.885807900000000	6722.39	PG	None	None	10.25	ft	None	4 in	2.4	7.4	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12269	
+R-14 S2	-106.285645000000000	35.861775999999900	7062.08	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LAOI(a)-1.1	-106.287094999999000	35.875433500000000	6835.2	NMED DOE-OB	None	None	310.2	ft	6837.94	3 in	295.2	305	Intermediate	Intermediate Perched	Qbog	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12137	
+CDBO-8	-106.253788099999000	35.843684400000000	6722.47	None	None	None	23	ft	None	None	3	13	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12428	
+R-56 S2	-106.249694100000000	35.834559900000000	6780.88	Well Completion Rpt	None	brass cap location	None	None	None	None	1046.6	1067.1	Regional	Regional Deep	Tpf	None	
+R-12	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	None	None	None	None	None	None	
+R-1	-106.277211500000000	35.863557700000000	6881.21	R1 Completion Report	None	Coordinates obtained from Brass Cap Monument survey data in WCR.	1080.1	ft	6881.21	4.5 in	1031.1	1057.4	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12293	
+MCWB-6.5E	-106.272218200000000	35.860764699999900	6843.8	S. McLin	None	None	50	ft	None	3 in	35	45	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12066	
+R-35a	-106.243554100000000	35.862763899999900	6623.06	WCR, SW MTN SURVEY	None	Brass monument survey  Resurvey 02/10/09	1086.2	ft	6623.06	4.5 in	1013.1	1062.2	Regional	Regional Top	Tsfu	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12130	
+Test Well 8	-106.276469800000000	35.863298999999900	6873.5	Stoker	None	None	1065	ft	None	8 in	953	1065	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12487	
+SWA-1-1	-106.314747800000000	35.875410299999900	None	TERRANEAR PMC	None	Formerly a piezometer well SCPZ-1	None	None	None	None	None	None	None	None	None	None	
+R-20 OB	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+LAOI-3.2a OB	-106.259440100000000	35.873176200000000	6624.43	Kleinfelder 2006 WCR	None	Brass Cap Location	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-38	-106.248036000000000	35.837829999999900	6668.58	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-50 S1	-106.255908000000000	35.856655000000000	6904.11	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+MCO-9.5	-106.256979800000000	35.860552300000000	6743.27	LANL 1997 WP Mort Cy	None	None	46	ft	None	2 in	26	46	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12213	
+LAUZ-2	-106.271612000000000	35.877645999999900	7026.72	None	None	OU 1106 (TA-21)	None	None	None	None	None	None	None	None	None	None	
+MCWB-6.2A	-106.272484700000000	35.861820500000000	6848.29	S. McLin	None	None	45.5	ft	None	3 in	30.5	40.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12234	
+R-40 S2	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	849.27	870	Regional	Regional Top	Tpf	None	
+SWA-2-4	-106.312523600000000	35.874560899999900	None	TERRANEAR PMC	None	Formerly SCPZ-4	9	ft	7226.48	2 in	3	9	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12447	
+CDBO-8	-106.253788099999000	35.843684400000000	6722.47	None	None	None	23	ft	None	None	3	13	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12428	
+R-60	-106.296176700000000	35.860568100000000	7228.17	Well Completion Rpt	None	Brass Cap location from well completion report	1360.9	ft	7228.17	5 in	1330	1350.9	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12368	
+APCO-1	-106.220319700000000	35.872950899999900	6367.53	Stoker	None	None	19.7	ft	None	2 in	4.7	14.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12438	
+02-01021	-106.292927199999000	35.876393499999900	6887.58	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:WELL IMMEDIATELY WEST OF TA-2 Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+LAO-3a	-106.258221900000000	35.873173100000000	6609.1	Stoker	None	Elevation revised based on LIDAR surface location pick	14.7	ft	6609.1	2 in	4.7	14.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12148	
+03-B-13	-106.330083400000000	35.873743699999900	7458.26	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PCAO-7a	-106.261735100000000	35.838692500000000	6711.97	SW MTN SURVEY	None	Brass Cap	25	ft	None	4 in	9.7	19.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12277	
+MCA-2	-106.271327700000000	35.860770500000000	6837.2	Kleinfelder survey	None	Brass cap location	65	ft	6839.6	2.1 in	45	60	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12099	
+R-55 S1	-106.227508000000000	35.829687999999900	6533.86	None	None	Brass cap surveyed location	None	None	None	None	None	None	None	None	None	None	
+SCPZ-5	-106.312481700000000	35.874673999999900	None	None	None	None	None	ft	None	None	3	5.4	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12070	
+R-62	-106.266465999999000	35.863121000000000	6984.88	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-28	-106.254819000000000	35.860148000000000	6728.61	None	None	original x, y, z = 1638357.25, 1768449.74, 6756	None	None	None	None	None	None	None	None	None	None	
+18-MW-12	-106.264430000000000	35.838853000000000	6725.7	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+18-MW-18	-106.251658699999000	35.832368799999900	6654.7	ECR GIS Team, McLean	None	None	23	ft	6654.7	2 in	12.5	23	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12112	
+R-39	-106.234551499999000	35.827537499999900	6580.86	Well Completion Rpt	None	Brass cap location	875.57	ft	6580.86	5 in	859.03	869.03	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12346	
+R-20 S2	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	1147.1	1154.7	Regional	Regional Deep	Tjfp	None	
+MCWB-8.1C	-106.262996700000000	35.860622999999900	6785.63	S. McLin	None	None	80	ft	None	None	55	75	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12248	
+R-14 S1	-106.285645400000000	35.861775999999900	7062.08	WCR, SW MTN SURVEY	None	Location info taken from Brass Cap survey data for R-14.	None	None	None	None	1200.6	1233.2	Regional	Regional Top	Tp	None	
+R-22 OB	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+SCA-2	-106.264520000000000	35.865434999999900	6749.08	None	None	Chromium Invstitgation alluvial well in Sandia Canyon	None	None	None	None	None	None	None	None	None	None	
+LAO-1	-106.287204300000000	35.875520999999900	6836.24	Stoker	None	None	28	ft	None	3 in	8	28	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12151	
+MCWB-6.5C	-106.271678499999000	35.861247200000000	6841.02	S. McLin	None	None	47.5	ft	None	3 in	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12238	
+R-3	-106.220900700000000	35.871793400000000	6395.88	Precision Surveys	None	Brass cap survey location	1006.8	ft	6395.88	5 in	974.5	995	Regional	Regional Top	Tsf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12038	
+R-22 S1	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	872.3	914.2	Regional	Regional	Tb4	None	
+R-23i S1	-106.224763000000000	35.823852000000000	6527.88	None	None	4.5 inch casing. This corresponds to LANL's R-23i S2	None	None	None	None	None	None	None	None	None	None	
+R-17 S1	-106.292590000000000	35.853279000000000	6921.51	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-56 S1	-106.249694100000000	35.834559900000000	6780.88	Well Completion Rpt	None	brass cap location	None	None	None	None	945	965.6	Regional	Regional Top	Tpf	None	
+R-22	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	None	None	None	None	None	None	
+18-MW-4	-106.268598900000000	35.842343999999900	6758.3	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+LADP-5	-106.269469700000000	35.877294700000000	7018.06	PG	None	plugged and abandoned	None	None	None	None	None	None	None	None	None	None	
+PAO-2.5	-106.282985300000000	35.885807900000000	6722.39	PG	None	None	10.25	ft	None	4 in	2.4	7.4	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12269	
+R-9	-106.223606000000000	35.866982000000000	6382.8	None	None	Original x, y, z = 1648241.4, 1770843.9, 6385.36	None	None	None	None	None	None	None	None	None	None	
+R-44 S1	-106.251199000000000	35.856717000000000	6714.91	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SWA-3	-106.311086300000000	35.873797199999900	None	TERRANEAR PMC	None	Formerly SWA-3	None	None	None	None	None	None	None	None	None	None	
+R-10 S2	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	1042	1065	Regional	Regional Deep	Tsf	None	
+SCPZ-11(A)	-106.310584600000000	35.873650599999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PU-00181	-106.259010100000000	35.883493399999900	6578.58	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Pueblo Canyon alluvial wellefile N. McCranie allu PAO-3	None	None	None	None	None	None	None	None	None	None	
+R-51 S1	-106.269336900000000	35.842631699999900	6762.17	Precision Surveys	None	brass cap location	None	None	None	None	914.96	925.24	Regional	Regional Top	Tpf	None	
+R-61 S1	-106.261204000000000	35.857576000000000	6940.12	None	None	Preliminary information	None	None	None	None	None	None	None	None	None	None	
+R-37 S2	-106.258734300000000	35.844372900000000	6870.59	Well Completion Rpt	None	Brass monument location	None	None	None	None	1026	1046.6	Regional	Regional Top	Tpf	None	
+CrEX-3	-106.254952200000000	35.859668800000000	6734.601	D. FRANK	None	None	1004.5	ft	6734.6	8 in	909.6	948.8	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12033	
+LAOI-3.2	-106.259365399999000	35.873082799999900	6622.6	Kleinfelder 2006 WCR	None	added for P Longmire.  Location data taken from Brass Cap survey data.	165	ft	6622.6	2.1 in	153.3	162.8	Intermediate	Intermediate Perched	Qbog	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12136	
+R-49	-106.238245800000000	35.827298499999900	6584.54	SW MTN SURVEY	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+LAO-1.8	-106.266777200000000	35.871967800000000	6680	None	None	None	18	ft	None	3 in	8	18	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12152	
+R-37 S1	-106.258734300000000	35.844372900000000	6870.59	Well Completion Rpt	None	Brass monument location	None	None	None	None	929.3	950	Intermediate	Intermediate Perched	Tpf	None	
+R-11	-106.251543500000000	35.862881500000000	6673.72	Kleinfelder 2005 WCR	None	Location information taken from the Brass Cap Monument of the new R-11 well.	901.7	ft	6673.72	4.5 in	855	877.9	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12314	
+R-9i S1	-106.223720500000000	35.866956199999900	6383.2	Completion Report	None	Location info taken from Brass monument survey data from R-9i WCR.	None	None	None	None	189.1	199.5	Intermediate	Intermediate Perched	Tb4	None	
+TSCA-6	-106.275183900000000	35.860455399999900	6863.2	Kleinfelder survey	None	Brass cap location, ER B-15/A-6, located in lower Ten Site Canyon	21.3	ft	None	2.1 in	16.2	20.9	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12465	
+R-70 S2	-106.248582600000000	35.859699499999900	6692.62	None	Brass cap	Coordinates estimated from Google Earth.	None	None	None	None	1048	1068.5	None	None	None	None	
+R-19 S5	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1582.6	1589.8	Regional	Regional Deep	Tpf	None	
+MCO-8.2	-106.262528600000000	35.860936799999900	6781.6	LANL 1997 WP Mort Cy	None	None	70	ft	None	2 in	60	70	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12206	
+R-3i	-106.220364600000000	35.871794500000000	6390.15	Well Completion Rpt	None	Brass monument survey from R-3i WCR	220.34	ft	None	None	215.2	220	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12039	
+R-41 S2	-106.233804800000000	35.830989600000000	6660.53	Well Completion Rpt	None	Brass cap location	None	None	None	None	965.3	975	Regional	Regional Top	Tpt	None	
+LAO-0.7	-106.294572800000000	35.876353700000000	6904	Pratt	None	RJK added elev 8/3/05	23	ft	None	2 in	15	20	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12157	
+MCWB-6.6	-106.271585000000000	35.860715100000000	6839.35	S. McLin	None	None	47.5	ft	None	3 in	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12240	
+R-5 S1	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	326.4	331.5	Intermediate	Intermediate	Tp	None	
+R-22 S5	-106.233442999999000	35.829245999999900	6650.5	None	None	original x, y = 1645327, 1757112	None	None	None	None	None	None	None	None	None	None	
+Test Well 8	-106.276469800000000	35.863298999999900	6873.5	Stoker	None	None	1065	ft	None	8 in	953	1065	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12487	
+R-14 S1	-106.285645000000000	35.861775999999900	7062.08	None	None	None	None	None	None	None	None	None	None	None	None	None	
+CDBO-7	-106.260179200000000	35.846252800000000	6771.81	Stoker	None	None	44	ft	None	None	29	39	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12429	
+Test Well 1	-106.217512799999000	35.870358799999900	6369.19	Stoker	None	None	642	ft	None	8 in	632	642	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12469	
+R-5	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	None	None	None	None	None	None	
+MCOI-6	-106.267114199999000	35.860337600000000	6811.1	Kleinfelder survey	None	Brass Monument	713.22	ft	6811.1	4.5 in	686	713.22	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12227	
+R-33 S1	-106.273675000000000	35.860624000000000	6853.33	None	None	Location on mesa top near PM-5	None	None	None	None	None	None	None	None	None	None	
+Test Well 2A	-106.271038200000000	35.884678200000000	6650.4	Stoker	None	None	133	ft	None	8 in	123	133	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12472	
+LAO-6	-106.230405000000000	35.868308399999900	6423.5	None	None	Elevation revised based on LIDAR surface location pick	16	ft	None	3 in	6	16	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12141	
+PA-26616	-106.224762500000000	35.823851800000000	6527.9	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Intermediate Well R-23i.	None	None	None	None	None	None	None	None	None	None	
+LAOI-3.2 OB	-106.259365399999000	35.873082799999900	6622.6	Kleinfelder 2006 WCR	None	added for P Longmire.  Location data taken from Brass Cap survey data.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+PAO-5s	-106.220418499999000	35.872872299999900	6368.3	PG	None	None	20.9	ft	None	4 in	8.05	18.05	Alluvial	Alluvial	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12274	
+MCWB-7A	-106.270452199999000	35.860674899999900	6831.17	S. McLin	None	None	52	ft	None	None	37	47	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12049	
+R-5 S2	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	372.8	388.8	Intermediate	Intermediate	Tp	None	
+R-12 S2	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	504.5	508	Intermediate	Intermediate Perched	Tp	None	
+PCAO-6	-106.293216400000000	35.853354699999900	6921.4	SW MTN SURVEY	None	Brass Cap	20	ft	None	4 in	8	15	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12276	
+R-50 S2	-106.255908000000000	35.856655000000000	6904.11	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-45 S1	-106.250563700000000	35.859211500000000	6704.02	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	880	890	Regional	Regional Top	Tpf	None	
+R-43 S1	-106.260734200000000	35.863598400000000	6732.65	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	903.9	924.6	Regional	Regional Top	Tsfu	None	
+P5-26612	-106.269469700000000	35.877294700000000	7018.06	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Intermediate Well LADP-5.	None	None	None	None	None	None	None	None	None	None	
+R-7 S3	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	895.5	937.4	Regional	Regional	Tp	None	
+R-49 S2	-106.238246000000000	35.827297999999900	6584.54	None	None	Coordinates supplied by Dave Broxton	None	None	None	None	None	None	None	None	None	None	
+CDBO-1	-106.258259900000000	35.839777400000000	6757.6	PG	None	None	14	ft	None	4 in	9	14	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12434	
+SCI-2	-106.261007100000000	35.863698599999900	6735.7	SOUTHWEST MTM SURV	None	Brass monument survey	570	ft	6735.7	2 in	548	568	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12389	
+SCA-4	-106.257277000000000	35.863468200000000	6703.58	Kleinfelder 2006 WCR	None	Brass monument xyz	42	ft	None	2 in	37	41.5	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12381	
+41-01002	-106.296139700000000	35.876552300000000	6910.74	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:WELL IMMEDIATELY EAST OF TA-41 Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+33-22850	-106.273675000000000	35.860623799999900	None	Well Completion Rpt	None	Coordinates loaded in 2008 for data cleanup, same xy as location R-33. Coordinate accuracy is unknown.	None	None	None	None	None	None	None	None	None	None	
+SC-26614	-106.206148500000000	35.850314800000000	6363.7	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Characterization Well R-10a/R-10.	None	None	None	None	None	None	None	None	None	None	
+R-23i S2	-106.224763000000000	35.823852000000000	6527.88	None	None	4.5 inch casing. This corresponds to LANL's R-23i S3	None	None	None	None	None	None	None	None	None	None	
+R-17 S2	-106.292590000000000	35.853279000000000	6921.51	None	None	None	None	None	None	None	None	None	None	None	None	None	
+18-MW-15	-106.264916000000000	35.839022000000000	6727.9	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+R-70	-106.248582600000000	35.859699499999900	6692.62	None	Brass cap	None	None	None	None	None	None	None	None	None	None	None	
+SWA-3-7	-106.311137900000000	35.873757499999900	None	TERRANEAR PMC	None	Formerly SCPZ-7	None	None	None	None	None	None	None	None	None	None	
+CrEX-2	-106.260877699999000	35.858983400000000	None	NMED DOE-OB	None	None	None	None	None	None	None	None	None	None	None	None	
+LAOI-3.2a	-106.259440000000000	35.873176000000000	6624.43	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-1	-106.277211500000000	35.863557700000000	6881.21	R1 Completion Report	None	Coordinates obtained from Brass Cap Monument survey data in WCR.	1080.1	ft	6881.21	4.5 in	1031.12	1057.42	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12293	
+SWA-2-5	-106.312481700000000	35.874673999999900	None	TERRANEAR PMC	None	Formerly SCPZ-5	8.96	ft	7226.22	2 in	3	8.96	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12448	
+MCO-7A	-106.269956500000000	35.860560200000000	6827.58	Stoker	None	None	44.8	ft	None	3 in	34.8	44.8	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12204	
+LAWS-01	-106.219259100000000	35.866999700000000	6363.4	Stone & Newell 2002	None	Vertical borehole at LA weir	None	None	None	None	None	None	None	None	None	None	
+LAO-4	-106.248868100000000	35.872156199999900	6548	Stoker	None	Elevation revised based on LIDAR surface location pick	24	ft	None	3 in	14	24	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12143	
+PCI-2	-106.293088500000000	35.853310600000000	6920.95	Well Completion Rpt	None	None	533.3	ft		6920.95	5 in	512	522	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12283
+03-B-10	-106.330115800000000	35.873716600000000	7458.28	DOE 2005	None	Ground surface elevation  Plugged and Abandoned 9/25/09	31.1	ft	None	2 in	20.6	30.6	Intermediate	Intermediate	Qbt4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12501	
+SWA-4	-106.310561600000000	35.873700100000000	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-20 S1	-106.258709000000000	35.836345000000000	6694.35	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-23	-106.224709899999000	35.823899400000000	6527.75	Well Completion Rpt	None	Brass Monument location	886.3	ft	6527.75	4.5 in	816	873.2	Regional	Regional Top	Tpt	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12326	
+R-57	-106.234169700000000	35.829869100000000	6648.04	Well Completion Rpt	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-6i	-106.264934999999000	35.875343000000000	6996.9	None	None	Location info taken from Brass cap monument survey data from R-6/R-6i WCR. Added for P Longmire	None	None	None	None	None	None	None	None	None	None	
+R-54 S1	-106.255442700000000	35.836093200000000	6679.85	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	830	840	Regional	Regional Top	Tpf	None	
+SCPZ-2	-106.314758500000000	35.875405299999900	None	None	None	None	None	ft	None	None	6	8.3	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12399	
+R-51 S2	-106.269336900000000	35.842631699999900	6762.17	Precision Surveys	None	brass cap location	None	None	None	None	1030.96	1041	Regional	Regional Deep	Tpf	None	
+R-14	-106.285645400000000	35.861775999999900	7062.08	WCR, SW MTN SURVEY	None	Location info taken from Brass Cap survey data for R-14.	None	None	None	None	None	None	None	None	None	None	
+R-49	-106.238245800000000	35.827298499999900	6584.54	SW MTN SURVEY	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-40 Si	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	649.67	669.02	Intermediate	Intermediate	Tb4	None	
+LAOR-1	-106.289906000000000	35.876415999999900	6864.83	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PCAO-7c	-106.262517200000000	35.838105100000000	6714.57	SW MTN SURVEY	None	Brass Cap	25	ft	None	4 in	9.7	19.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12280	
+R-32 S1	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	867.5	875.2	Regional	Regional Top	Tpt	None	
+R-22 S2	-106.233442999999000	35.829245999999900	6650.5	None	None	original x, y = 1645327, 1757112	None	None	None	None	None	None	None	None	None	None	
+R-12 OB	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+MCOI-4	-106.271221999999000	35.860650000000000	6837.2	None	None	Brass Monument	None	None	None	None	None	None	None	None	None	None	
+R-5 OB	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-12 S2	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	504.5	508	Intermediate	Intermediate Perched	Tp	None	
+3MAO-2	-106.272383899999000	35.839150599999900	6759.435	SW MTN SURVEY	None	Brass Cap	30	ft	None	4 in	14.7	24.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12497	
+R-45 S2	-106.250563700000000	35.859211500000000	6704.02	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	974.9	994.9	Regional	Regional Deep	Tjfp	None	
+SCPZ-2	-106.314758500000000	35.875405299999900	None	None	None	None	None	ft	None	None	6	8.3	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12399	
+LAUZ-1	-106.273567300000000	35.877869099999900	7032.42	None	None	Surv-Tek Survey	10.55	ft	7032.42	4 in	5.35	10.35	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12121	
+CrEX-3	-106.254952200000000	35.859668800000000	6734.601	D. FRANK	None	None	1004.5	ft	6733.16	8 in	909.6	948.8	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12033	
+CDBO-6	-106.264197900000000	35.850259999999900	6817.2	Stoker	None	None	49	ft	None	2 in	34	44	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12430	
+R-9i	-106.223720500000000	35.866956199999900	6383.2	Completion Report	None	Location info taken from Brass monument survey data from R-9i WCR.	None	None	None	None	None	None	None	None	None	None	
+R-52 S1	-106.261566100000000	35.844946899999900	6883.04	Precision Surveys	None	Brass cap location	None	None	None	None	1035.2	1055.7	Regional	Regional Top	Tpf	None	
+R-4 OB	-106.253810200000000	35.882598000000000	6577.49	R4 Completion Report	None	Inactive emergency landing strip in Pueblo Canyon; TA-74. Location info taken from Brass cap monument survey data from R-4 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+SCO-2	-106.226907999999000	35.858787000000000	6500.67	Stoker	None	None	19.4	ft	None	None	9.4	19.4	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12393	
+MCWB-6.5C	-106.271678499999000	35.861247200000000	6841.02	S. McLin	None	None	47.5	ft	None	3 in	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12238	
+MCWB-6.5D	-106.272067400000000	35.860633900000000	6843.2	S. McLin	None	None	42.5	ft	None	3 in	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12239	
+MCWB-5.5A	-106.273493800000000	35.862394000000000	6858.36	S. McLin	None	None	37.5	ft	None	3 in	22.5	32.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12231	
+R-64	-106.275408000000000	35.877197000000000	7121.74	None	None	Preliminary information	None	None	None	None	None	None	None	None	None	None	
+MCA-RLW-1	-106.278463599999000	35.863767400000000	6887.1	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-45 S2	-106.250563700000000	35.859211500000000	6704.02	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	974.9	994.9	Regional	Regional Deep	Tjfp	None	
+MCWB-7.2	-106.268426100000000	35.860512700000000	6818.86	S. McLin	None	None	67.5	ft	None	3 in	42.5	62.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12241	
+SC-26613	-106.205965300000000	35.850271200000000	6362.3	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Characterization Well R-10a/R-10.	None	None	None	None	None	None	None	None	None	None	
+R-33 S2	-106.273675000000000	35.860624000000000	6853.33	None	None	Location on mesa top near PM-5	None	None	None	None	None	None	None	None	None	None	
+MCOI-1	-106.291757200000000	35.864533100000000	7106.2	Kleinfelder survey	None	Brass cap in I-1 pad	825.6	ft	7110	0.81 in	815	825.48	Intermediate	None	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12224	
+R-4 PZ-W	-106.253778400000000	35.882561199999900	6577.35	R4 Completion Report	None	R-4 Piezometer West	125	ft	None	None	115	125	Intermediate	None	Tpf	None	
+R-7 S1	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	363.2	379.2	Intermediate	Intermediate Perched	Tp	None	
+R-19 S7	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1832.4	1839.5	Regional	Regional Deep	Tpf	None	
+R-57	-106.234169700000000	35.829869100000000	6648.04	Well Completion Rpt	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+SWA-2-6	-106.312434100000000	35.874748599999900	None	TERRANEAR PMC	None	Formerly SWA-2	8.22	ft	7225.72	2 in	3.12	8.22	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12449	
+SCPZ-3	-106.314736100000000	35.875528000000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-8	-106.246932900000000	35.857439999999900	6668.8	Kleinfelder survey	None	Brass cap location	86.3	ft	6671.4	2.1 in	66	81	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12091	
+18-MW-9	-106.265071000000000	35.839638000000000	6732.91	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+SCI-1	-106.262129400000000	35.865475900000000	6738.27	Kleinfelder WCR	None	Brass monument location SCI-1 = SCC-1	378.5	ft	6738.27	3.75 in	358.4	378.5	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12387	
+MT-3	-106.264970300000000	35.860969099999900	6796.65	LANL 1997 MC WP	None	None	74	ft	None	None	44	64	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12257	
+ER ID #03-2664	-106.330126500000000	35.873736000000000	7457.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-57 S1	-106.234169700000000	35.829869100000000	6648.04	Well Completion Rpt	None	Brass cap location	None	None	None	None	910	930.5	Regional	Regional Top	Tb4	None	
+TA-53i	-106.265410399999000	35.868283099999900	6987.17	Well Completion Rpt	None	Brass cap survey location	620.8	ft	6987.17	5 in	600	610	Intermediate	Intermediate	Tf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12462	
+18-MW-14	-106.264585000000000	35.839042999999900	6725.8	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+SWA-3-8	-106.311086300000000	35.873797199999900	None	TERRANEAR PMC	None	Formerly SWA-3	None	None	None	None	None	None	None	None	None	None	
+R-20	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	None	None	None	None	None	None	
+R-55 S1	-106.227508500000000	35.829687999999900	6533.86	WCR, SW MTN SURVEY	None	brass cap surveyed location	None	None	None	None	860	880.6	Regional	Regional Top	Tpt	None	
+MCA-9	-106.246444200000000	35.857495800000000	6671.7	Kleinfelder survey	None	Brass cap location	113	ft	6674	2.1 in	92.8	107.8	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12090	
+MCWB-9A	-106.257740799999000	35.860886999999900	6752.11	S. McLin	None	None	75	ft	None	None	50	70	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12249	
+TW-2A(r)	-106.256130799999000	35.856690100000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-56	-106.249694100000000	35.834559900000000	6780.88	Well Completion Rpt	None	brass cap location	None	None	None	None	None	None	None	None	None	None	
+PU-00181	-106.259010100000000	35.883493399999900	6578.58	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Pueblo Canyon alluvial wellefile N. McCranie allu PAO-3	None	None	None	None	None	None	None	None	None	None	
+MCWB-7.4A	-106.267368500000000	35.860726000000000	6812.4	S. McLin	None	None	70	ft	None	3 in	45	65	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12242	
+MCOI-5	-106.267444000000000	35.859986999999900	6819.7	None	None	Brass Monument	None	None	None	None	None	None	None	None	None	None	
+R-54 S2	-106.255442700000000	35.836093200000000	6679.85	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	915	925	Regional	Regional Deep	Tpf	None	
+SWA-3-9	-106.311047700000000	35.873856199999900	None	TERRANEAR PMC	None	Formerly SCPZ-9	None	None	None	None	None	None	None	None	None	None	
+R-12 S3	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	801	839	Regional	Regional	Tsfb	None	
+R-42	-106.259135000000000	35.861294000000000	6759.02	None	None	None	None	None	None	None	None	None	None	None	None	None	
+CDBO-5	-106.273059700000000	35.853166999999900	6879.01	None	None	None	18	ft	None	2 in	8	18	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12431	
+MCA-4	-106.298841900000000	35.865003399999900	7135.1	Kleinfelder survey	None	Brass cap location	5.4	ft	7137.3	1.0 in	3.3	5.3	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12094	
+MCA-3b	-106.273041900000000	35.862099800000000	6852.9	Kleinfelder survey	None	Brass cap location	42.1	ft	6855.3	0.8 in	40.9	41.4	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12096	
+PO-4B	-106.248165200000000	35.881411499999900	None	W. RED STAR	None	Locations estimated in April 2010 by georeferencing locations on old ESR maps.	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+LAO-0.7	-106.294573000000000	35.876353999999900	6904	None	None	2 inch PVC casing, 12 inch diameter steel riser 1 ft. 10.5 inches above ground surface.  Water level 12.19 ft bgs on 6/18/1997.  Purge time 24 min.	None	None	None	None	None	None	None	None	None	None	
+R-9i S2	-106.223720500000000	35.866956199999900	6383.2	Completion Report	None	Location info taken from Brass monument survey data from R-9i WCR.	None	None	None	None	269.6	280.3	Intermediate	Intermediate	Tb4	None	
+B1	-106.330126500000000	35.873736000000000	7457.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-13	-106.248059500000000	35.856399500000000	6673.05	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	1029.4	ft	6673.05	4.5 in	958.33	1018.72	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12317	
+PCAO-8	-106.238365200000000	35.827216700000000	6584.45	SW MTN SURVEY	None	Brass Cap	25	ft	6584.45	4 in	9.7	19.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12281	
+R-22 S3	-106.233442999999000	35.829245999999900	6650.5	None	None	original x, y = 1645327, 1757112	None	None	None	None	None	None	None	None	None	None	
+R-36	-106.238220000000000	35.858438999999900	6591.37	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCA-2	-106.264519900000000	35.865434999999900	6749.08	Kleinfelder 2006 WCR	None	Brass monument xyz	15.6	ft	None	2 in	10.3	15	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12379	
+R-7 S2	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	730.4	746.4	Intermediate	None	Tp	None	
+SCP-1abc S3	-106.257296800000000	35.863469799999900	6703.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-13	-106.248059500000000	35.856399500000000	6673.05	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	1029.4	ft	6673.05	4.5 in	958.3	1018.7	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12317	
+LA-10070	-106.230406800000000	35.868348200000000	6396	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-53 S2	-106.251035900000000	35.836801299999900	6689.98	WCR, SW MTN SURVEY	None	brass cap location	None	None	None	None	959.7	980.2	Regional	Regional Deep	Tpf	None	
+R-61 S2	-106.261203800000000	35.857575599999900	6940.12	Well Completion Rpt	None	Brass cap location from WCR, rounded to 2 digits	None	None	None	None	1220.4	1241	Regional	Regional Deep	Tsfu	None	
+MCO-4	-106.281058400000000	35.864070599999900	6897.54	Stoker	None	MCO-4 plugged and abandoned in 2000, see Benak et al. 2000	19	ft	None	3 in	4	19	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12184	
+LAOI-7	-106.235243600000000	35.869008500000000	6458.35	Kleinfelder survey	None	Brass Cap location Kleinfelder survey	264.9	ft	6458.35	3 in	240	259.6	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12134	
+R-12 S2	-106.226350000000000	35.858922999999900	6499.6	None	None	original x, y, z = 1647398,1767947,6505.95	None	None	None	None	None	None	None	None	None	None	
+33-22850	-106.273675000000000	35.860623799999900	None	Well Completion Rpt	None	Coordinates loaded in 2008 for data cleanup, same xy as location R-33. Coordinate accuracy is unknown.	None	None	None	None	None	None	None	None	None	None	
+PU-10228	-106.220318400000000	35.872950600000000	6368	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-53 S2	-106.251036000000000	35.836801000000000	6689.98	None	None	estimated location pending survey	None	None	None	None	None	None	None	None	None	None	
+R-4	-106.253810000000000	35.882598000000000	6577.49	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCOBT-4.4	-106.271015199999000	35.860574900000000	6836.18	LANL 2002 WCR	None	Brass Monument  MCOBT-4.4 plugged and abandoned 7/29/09	545	ft	6838.58	4.5 in	485.4	524	Intermediate	Intermediate	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12220	
+R-19 S6	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1726.8	1733.9	Regional	Regional Deep	Tpf	None	
+R-8	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	None	None	None	None	None	None	None	None	None	
+SWA-4-10	-106.310619700000000	35.873572299999900	None	TERRANEAR PMC	None	Formerly SCPZ-10	8.44	ft	7213.06	2 in	2.5	8.44	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12453	
+R-3i	-106.220364600000000	35.871794500000000	6390.15	Well Completion Rpt	None	Brass monument survey from R-3i WCR	220.34	ft	6390.15	2 in	215.2	220	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12039	
+SWA-3	-106.311086300000000	35.873797199999900	None	TERRANEAR PMC	None	Formerly SWA-3	None	None	None	None	None	None	None	None	None	None	
+LAOI-7	-106.235243600000000	35.869008500000000	6458.35	Kleinfelder survey	None	Brass Cap location Kleinfelder survey	264.9	ft	6460.15	3 in	240	259.6	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12134	
+R-32	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	None	None	None	None	None	None	
+R-49 S1	-106.238245800000000	35.827298499999900	6584.54	SW MTN SURVEY	None	Brass cap location	None	None	None	None	845	855	Regional	Regional Top	Tb4	None	
+LA-10067	-106.259480500000000	35.873162700000000	6593	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-64	-106.275407500000000	35.877197000000000	7121.74	Well Completion Rpt	None	brass cap location rounded to decimal places	1316.1	ft	7124.68	5 in	1285	1305.5	Regional	Regional Top	Tjfp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12372	
+R-13 OB	-106.248059500000000	35.856399500000000	6673.05	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+LAWS-01 S2	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	None	None	None	None	None	None	
+TA-53i	-106.265410399999000	35.868283099999900	6987.17	Well Completion Rpt	None	Brass cap survey location	620.8	ft	None	5 in	600	610	Intermediate	Intermediate	Tf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12462	
+LADP-3	-106.275078400000000	35.874187399999900	6754.19	Broxton/ER Pts DB	None	Brass Cap	326.3	ft	6756.342	2 in	317.56	326.3	Intermediate	Intermediate Perched	Qbog	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12161	
+18-MW-17	-106.258901900000000	35.836406799999900	6695.2	ECR GIS Team, McLean	None	None	22	ft	None	2 in	12	22	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12480	
+R-17 OB	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+21-01811	-106.273567300000000	35.877869099999900	7032.42	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:DP boreholes	None	None	None	None	None	None	None	None	None	None	
+SWL-2	-106.312428100000000	35.874751199999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-57 S1	-106.234169700000000	35.829869100000000	6648.04	Well Completion Rpt	None	Brass cap location	None	None	None	None	910	930.5	Regional	Regional Top	Tb4	None	
+CDBO-4	-106.232934599999000	35.833190999999900	6564.5	Buckley	None	None	12	ft	None	2 in	4	12	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12432	
+SCPZ-5	-106.312481700000000	35.874673999999900	None	None	None	None	None	ft	None	None	3	5.4	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12070	
+R-7 S3	-106.279538000000000	35.874690000000000	6779.2	None	None	Original x, y = 1631673, 1773650	None	None	None	None	None	None	None	None	None	None	
+SWL-4	-106.310561800000000	35.873706599999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-56	-106.249694100000000	35.834559900000000	6780.88	Well Completion Rpt	None	brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-32 OB	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-45 S1	-106.250564000000000	35.859211000000000	6704.02	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SWL-1	-106.314754900000000	35.875424299999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-40	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-20 S3	-106.258709000000000	35.836345000000000	6694.35	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SWA-4-12	-106.310561600000000	35.873700100000000	None	TERRANEAR PMC	None	Formerly SWA-4	8.53	ft	7213.04	2 in	2.99	8.19	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12455	
+R-35b	-106.243863899999000	35.862797299999900	6625.21	WCR, SW MTN SURVEY	None	Brass monument survey  resurvey 02/10/09	872.2	ft	6625.21	4.5 in	825.4	848.5	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12342	
+R-8 OB	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-9i S2	-106.223720000000000	35.866956000000000	6383.2	None	None	Original x, y, z = 1648208.8, 1770834.7, 6383.85	None	None	None	None	None	None	None	None	None	None	
+R-20	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	None	None	None	None	None	None	
+MCO-0.6	-106.305451400000000	35.867885100000000	7188.28	Gray 2001	None	None	3.1	ft	7192.09	2.0 in	1.05	3.05	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12073	
+LAO-6	-106.230405000000000	35.868308399999900	6423.5	None	None	Elevation revised based on LIDAR surface location pick	16	ft	None	3 in	6	16	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12141	
+LA-10035	-106.258221800000000	35.873173199999900	6579	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Record created for data migration.  Needs field coordinates.	None	None	None	None	None	None	None	None	None	None	
+MCWB-8.1B	-106.263016100000000	35.860860799999900	6783.8	S. McLin	None	None	72.5	ft	None	None	47.5	67.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12247	
+R-50 S2	-106.255907600000000	35.856655300000000	6904.11	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	1185	1205.6	Regional	Regional Deep	Tsfu	None	
+R-10 S2	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	1042	1065	Regional	Regional Deep	Tsf	None	
+18-MW-10	-106.266217000000000	35.840105000000000	6735.9	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+R-55	-106.227508500000000	35.829687999999900	6533.86	WCR, SW MTN SURVEY	None	brass cap surveyed location	None	None	None	None	None	None	None	None	None	None	
+R-61 S2	-106.261203800000000	35.857575599999900	6940.12	Well Completion Rpt	None	Brass cap location from WCR, rounded to 2 digits	None	None	None	None	1220.4	1241	Regional	Regional Deep	Tsfu	None	
+R-32 S3	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	972.9	980.6	Regional	Regional Deep	Tpf	None	
+R-23i S3	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	524	547	Intermediate	Intermediate Perched	Tb4	None	
+PAO-4	-106.230847500000000	35.878662599999900	6437.37	D. KATZMAN	None	Pueblo Canyon alluvial wellefile N. McCranie ALLU PAO-4. Source Org Code changed to ER/WQH.  Location data from ER, sampled by WQH.  Deleted ULI 170262, duplicate location, changed to Synonym.	9.82	ft		6440.77	4 in	Multiple	Multiple	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12272
+Test Well 4	-106.305327700000000	35.885744299999900	7244.56	Pratt	None	None	1205	ft	None	6 in	1195	1205	Regional	Regional	None	None	
+SCPZ-12	-106.310578300000000	35.873713700000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-43 S2	-106.260734200000000	35.863598400000000	6732.65	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	969.1	979.1	Regional	Regional Deep	Tsfu	None	
+SWA-2-5	-106.312481700000000	35.874673999999900	None	TERRANEAR PMC	None	Formerly SCPZ-5	9.18	ft	7226.22	2 in	6.18	12.14	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12448	
+R-19 S7	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1832.4	1839.5	Regional	Regional Deep	Tpf	None	
+R-54	-106.255442700000000	35.836093200000000	6679.85	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	None	None	None	None	None	None	
+MCA-3b	-106.273041900000000	35.862099800000000	6852.9	Kleinfelder survey	None	Brass cap location	42.1	ft	6855.3	0.8 in	40.9	41.4	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12096	
+R-53 S1	-106.251036000000000	35.836801000000000	6689.98	None	None	estimated location pending survey	None	None	None	None	None	None	None	None	None	None	
+SWL-2	-106.312428100000000	35.874751199999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-10	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	None	None	None	None	None	None	
+LAO-4.5	-106.239055500000000	35.870392199999900	6479.8	Stoker	None	Elevation revised based on LIDAR surface location pick	40	ft	None	3 in	10	40	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12147	
+LAO-B	-106.335296799999000	35.878831800000000	7323.59	Gray 2001	None	None	27.2	ft	None	4 in	11.84	26.84	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12139	
+R-12 S3	-106.226350000000000	35.858922999999900	6499.6	None	None	original x, y, z = 1647398,1767947,6505.95	None	None	None	None	None	None	None	None	None	None	
+SWA-4-11	-106.310597599999000	35.873652600000000	None	TERRANEAR PMC	None	Formerly SCPZ-11(B)	9.17	ft	7214.07	2 in	3	9.17	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12454	
+SCA-5	-106.251817399999000	35.863905699999900	6669.02	Kleinfelder 2006 WCR	None	Brass monument xyz	64.9	ft	None	2 in	55	64.4	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12382	
+LAWS-01 S3	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-22	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	None	None	None	None	None	None	
+R-8 S2	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	None	None	None	821	828	Regional	Regional	Tp	None	
+SCA-1-DP	-106.310536600000000	35.873610999999900	7211.2	None	None	Exact coordinates to be determined. Sampling is planned very close to SCA-1.	2.66	ft	None	2 in	2.16	2.66	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12378	
+LAO-1.6g	-106.264626400000000	35.871683099999900	6658.01	Gray 2001	None	None	30.82	ft	None	4 in	10.47	25.47	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12153	
+PCO-1	-106.258426099999000	35.837158299999900	6687	Stoker	None	None	12	ft	None	None	4	12	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12284	
+R-10a	-106.206148000000000	35.850315000000000	6363.74	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-10a	-106.206148500000000	35.850314800000000	6363.74	Kleinfelder data	None	Brass Cap location Kleinfelder survey	706	ft	6363.74	4.5 in	690	700	Regional	Regional Top	Tsf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12115	
+SWA-1-2	-106.314756300000000	35.875417700000000	None	TERRANEAR PMC	None	Formerly SWA-1	13.6	ft	7244.53	2 in	6.03	13.17	None	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12444	
+SCP-1abc S1	-106.257296800000000	35.863469799999900	6703.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+CDBO-3	-106.249121200000000	35.836115700000000	6670.2	PG	None	None	13	ft	None	4 in	3	12.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=11996	
+SCP-1abc	-106.257296800000000	35.863469799999900	6703.65	Kleinfelder WCR	None	Brass monument location	41.8	ft	None	1 in	Multiple	Multiple	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12394	
+R-13 OB	-106.248059500000000	35.856399500000000	6673.05	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-5 SC	-106.228767199999000	35.873070499999900	None	None	None	None	None	None	None	None	846	846	Regional	None	None	None	
+PAO-3	-106.259010100000000	35.883493399999900	6578.58	D. KATZMAN	None	Pueblo Canyon alluvial wellefile N. McCranie allu PAO-3. Source Org Code changed to ER/WQH.  Location data from ER, sampled by WQH.  Deleted ULI 170252, duplicate location, changed to Synonym.	13.47	ft	None	4 in	5.62	10.62	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12271	
+TW-2A(r)	-106.256130799999000	35.856690100000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PAO-5n	-106.220109300000000	35.873262400000000	6369.79	ER	None	None	None	None	None	None	None	None	None	None	None	None	
+R-20 S2	-106.258709000000000	35.836345000000000	6694.35	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-15 OB	-106.267239200000000	35.859910200000000	6820	Completion Report	None	Location info taken from Brass Monument survey data in R-15 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-32 S2	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	931.8	934.9	Regional	Regional	Tpf	None	
+SWL-3	-106.311089900000000	35.873800099999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-10	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	None	None	None	None	None	None	
+03-MW-1	-106.330127000000000	35.873736000000000	7457.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCOBT-4.4	-106.271015199999000	35.860574900000000	6836.18	LANL 2002 WCR	None	Brass Monument  MCOBT-4.4 plugged and abandoned 7/29/09	545	ft	6838.58	4.5 in	485.4	524	Intermediate	Intermediate	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12220	
+SCPZ-1	-106.314747800000000	35.875410299999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-9i	-106.223720500000000	35.866956199999900	6383.2	Completion Report	None	Location info taken from Brass monument survey data from R-9i WCR.	None	None	None	None	None	None	None	None	None	None	
+SCPZ-11(B)	-106.310597599999000	35.873652600000000	None	None	None	None	None	ft	None	None	1	5.4	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12404	
+R-66	-106.259868800000000	35.873087200000000	6626.96	None	None	None	849.8	ft	6626.96	5.11 in	819.4	839.7	Regional	Regional Top	Tcar	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12373	
+MCA-3def	-106.268665500000000	35.860598899999900	6819.8	Kleinfelder survey	None	Brass cap location	55.8	ft	6822.8	0.8 in	Multiple	Multiple	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12095	
+R-45 S2	-106.250564000000000	35.859211000000000	6704.02	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LAWS-01 S2	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	158	168	Intermediate	None	Tb4	None	
+R-54	-106.255442700000000	35.836093200000000	6679.85	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	None	None	None	None	None	None	
+MCWB-7.4B	-106.267309700000000	35.860281999999900	6813.07	S. McLin	None	None	70	ft	None	3 in	45	65	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12243	
+18-MW-9	-106.265071300000000	35.839638299999900	6732.91	WP Pajarito Cy	None	None	21	ft	None	2 in	6	21	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=11997	
+R-44 S1	-106.251199099999000	35.856717300000000	6714.91	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	895	905	Regional	Regional Top	Tpf	None	
+02-01076	-106.287204300000000	35.875520000000000	6836	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:LAO-1	None	None	None	None	None	None	None	None	None	None	
+R-9i S1	-106.223720000000000	35.866956000000000	6383.2	None	None	Original x, y, z = 1648208.8, 1770834.7, 6383.85	None	None	None	None	None	None	None	None	None	None	
+MCOI-4	-106.271221999999000	35.860650000000000	6837.2	Kleinfelder survey	None	Brass Monument	525.7	ft	6839.9	4.5 in	498.9	522	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12225	
+MCWB-7A	-106.270452199999000	35.860674899999900	6831.17	S. McLin	None	None	52	ft	None	None	37	47	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12049	
+R-54 S2	-106.255442700000000	35.836093200000000	6679.85	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	915	925	Regional	Regional Deep	Tpf	None	
+Test Well 4	-106.305327700000000	35.885744299999900	7244.56	Pratt	None	None	1205	ft	None	6 in	1195	1205	Regional	Regional	None	None	
+MT-1	-106.267393700000000	35.860518599999900	6811.63	LANL 1997 MC WP	None	None	69	ft	None	None	39	59	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12255	
+R-34	-106.239272000000000	35.848252000000000	6629.99	None	None	San I Property.	None	None	None	None	None	None	None	None	None	None	
+R-44	-106.251199099999000	35.856717300000000	6714.91	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+PCAO-5	-106.294737600000000	35.853531099999900	6943.29	SW MTN SURVEY	None	Brass Cap	30	ft	None	4 in	14.7	24.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12275	
+CDBO-4	-106.232934599999000	35.833190999999900	6564.5	Buckley	None	None	12	ft	None	2 in	4	12	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12432	
+18-BG-1	-106.271135400000000	35.844257800000000	6776.45	WP Pajarito Cy	None	None	35	ft	None	2 in	10	35	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12486	
+SCPZ-7	-106.311137900000000	35.873757499999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LA-10035	-106.258221800000000	35.873173199999900	6579	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Record created for data migration.  Needs field coordinates.	None	None	None	None	None	None	None	None	None	None	
+SC-26614	-106.206148500000000	35.850314800000000	6363.7	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Characterization Well R-10a/R-10.	None	None	None	None	None	None	None	None	None	None	
+SWA-4-12	-106.310561600000000	35.873700100000000	None	TERRANEAR PMC	None	Formerly SWA-4	8.19	ft	7213.04	2 in	2.99	8.19	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12455	
+SCP-2b	-106.260839500000000	35.864422099999900	6723.11	Kleinfelder WCR	None	None	50.1	ft	6725.31	1 in	49.5	50	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12398	
+R-40 S1	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	751.59	785.06	Intermediate	Intermediate Perched	Tb4	None	
+MCA-3def S2	-106.268665500000000	35.860598899999900	6819.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-41 S1	-106.233804800000000	35.830989600000000	6660.53	Well Completion Rpt	None	Brass cap location	None	None	None	None	928	937.7	Intermediate	Intermediate Perched	Tsf	None	
+SWA-1-2	-106.314756300000000	35.875417700000000	None	TERRANEAR PMC	None	Formerly SWA-1	None	None	None	None	None	None	None	None	None	None	
+SCA-4	-106.257277000000000	35.863468200000000	6703.58	Kleinfelder 2006 WCR	None	Brass monument xyz	42	ft	None	2 in	37	41.5	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12381	
+LAWS-01 S4	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LA-10070	-106.230406800000000	35.868348200000000	6396	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+B1	-106.330126500000000	35.873736000000000	7457.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-17 OB	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+SWA-4-10	-106.310619700000000	35.873572299999900	None	TERRANEAR PMC	None	Formerly SCPZ-10	8.96	ft	7213.06	2 in	2.5	8.44	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12453	
+R-32 S2	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	931.8	934.9	Regional	Regional	Tpf	None	
+R-64	-106.275407500000000	35.877197000000000	7121.74	Well Completion Rpt	None	brass cap location rounded to decimal places	1316.1	ft	7121.74	5 in	1285	1305.5	Regional	Regional Top	Tjfp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12372	
+R-5 S3	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	676.9	720.3	Regional	Regional	Tsf	None	
+PCAO-7b2	-106.262045900000000	35.838505300000000	6713.39	SW MTN SURVEY	None	Brass Cap	25	ft	None	4 in	10	20	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12279	
+R-56 S2	-106.249694000000000	35.834560000000000	6780.88	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+CDBO-2	-106.257752400000000	35.840214699999900	6748.2	PG	None	None	19	ft	None	4 in	10	18	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12433	
+03-B-13	-106.330083400000000	35.873743699999900	7458.26	DOE 2005	None	Ground surface elevation	32	ft	7458.26	2 in	21.5	31.5	Intermediate	Intermediate Perched	Qbt3	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12500	
+R-5 OB	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+MCWB-6.2B	-106.272718900000000	35.861627300000000	6848.01	S. McLin	None	None	32.5	ft	None	3 in	27.5	37.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12235	
+R-7 S1	-106.279538000000000	35.874690000000000	6779.2	None	None	Original x, y = 1631673, 1773650	None	None	None	None	None	None	None	None	None	None	
+R-19 S2	-106.285421000000000	35.837871999999900	7066.3	None	None	original x, y, z = 1629920.1,1760250, 7066.9	None	None	None	None	None	None	None	None	None	None	
+R-22 S5	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	1447.3	1452.3	Regional	Regional	Tcar	None	
+CDBO-6	-106.264197900000000	35.850259999999900	6817.2	Stoker	None	None	49	ft	None	2 in	34	44	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12430	
+Test Well 3	-106.259077100000000	35.873278399999900	6626.9	Stoker	None	Purtymun elev in error, elev from DEM/LIDAR Broxton/Cole	815	ft	None	10 in	805	815	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12485	
+PAO-5n	-106.220109300000000	35.873262400000000	6369.79	ER	None	None	15.28	ft	None	4 in	7.43	12.43	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12273	
+LAO-1.8	-106.266777200000000	35.871967800000000	6680	None	None	None	18	ft	None	3 in	8	18	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12152	
+R-57 S2	-106.234169700000000	35.829869100000000	6648.04	Well Completion Rpt	None	Brass cap location	None	None	None	None	971.5	992.1	Regional	Regional Deep	Tpt	None	
+R-50	-106.255907600000000	35.856655300000000	6904.11	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	None	None	None	None	None	None	
+18-MW-17	-106.258901900000000	35.836406799999900	6695.2	ECR GIS Team, McLean	None	None	22	ft	None	2 in	12	22	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12480	
+R-8 S1	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	None	None	None	705.31	755.7	Regional	Regional	Tp	None	
+R-6	-106.264871000000000	35.875326999999900	6995.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-4 PZ-E	-106.253777799999000	35.882561199999900	6577.34	R4 Completion Report	None	R-4 Piezometer East	231	ft	None	None	221	231	Intermediate	None	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12295	
+R-17	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	None	None	None	None	None	None	
+R-23	-106.224709899999000	35.823899400000000	6527.75	Well Completion Rpt	None	Brass Monument location	886.3	ft	6527.75	4.5 in	816	873.2	Regional	Regional Top	Tpt	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12326	
+R-66	-106.259868800000000	35.873087200000000	6626.96	None	None	None	849.8	ft	6629.61	5.11 in	819.4	839.7	Regional	Regional	Tcar	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12373	
+R-41 S1	-106.233804800000000	35.830989600000000	6660.53	Well Completion Rpt	None	Brass cap location	None	None	None	None	928	937.7	Intermediate	Intermediate Perched	Tsf	None	
+SWL-4	-106.310561800000000	35.873706599999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-8	-106.246932900000000	35.857439999999900	6668.8	Kleinfelder survey	None	Brass cap location	86.3	ft	6671.4	2.1 in	66	81	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12091	
+R-17 S2	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	1124	1134	Regional	Regional Deep	Tpf	None	
+PAO-2	-106.301910400000000	35.888575199999900	6930.98	ER	None	None	13.91	ft	None	4 in	6.06	11.06	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12270	
+SWA-1	-106.314756300000000	35.875417700000000	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+MCO-1	-106.300534500000000	35.865092099999900	7153	None	None	Unable to locate in 1991	8	ft	None	3.0 in	1	8	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12051	
+PAO-1	-106.304865199999000	35.889339600000000	6954.97	M. NOONAN	None	Location Desc: Notes: Aggregate.  Source Org Code changed to ER/WQH.  Location data from ER, sampled by WQH.  Deleted ULI 3072, duplicate location, changed to Synonym.	13.74	ft	None	4 in	5.89	10.89	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12268	
+Test Well 1A	-106.217460900000000	35.870328600000000	6369.28	Stoker	None	None	225	ft	None	6 in	215	225	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12470	
+LAO-4.5B	-106.239552100000000	35.870302700000000	6459.37	None	None	Brass cap elevation	34.9	ft	None	2 in	24.9	34.9	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12145	
+TW-2Ar	-106.271223800000000	35.884845700000000	6651.67	WCR, SW MTN SURVEY	None	Brass cap location rounded to 2 decimal places. -RJK	113.9	ft	6651.67	4.5 in	102	112	Intermediate	Intermediate Perched	Tpf	http://intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=79fa72c7-7701-4419-a022-c50e1fdcabbf&fileName=TW-2ar.zip	
+R-38	-106.248036300000000	35.837830099999900	6668.58	WCR, SW MTN SURVEY	None	Brass cap location	853.4	ft	6668.58	5 in	821.2	831.2	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12345	
+R-3i OB	-106.220364600000000	35.871794500000000	6390.15	Well Completion Rpt	None	Brass monument survey from R-3i WCR	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+PU-00178	-106.304865199999000	35.889339600000000	6954.97	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+LA-10069	-106.239434000000000	35.870363099999900	6458	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+MCO-6B	-106.272903200000000	35.861862899999900	6850.29	Stoker	None	None	47.1	ft	None	2 in	22	42	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12197	
+MCOI-8	-106.273918400000000	35.862496800000000	6859.2	Kleinfelder survey	None	Brass Monument	678.6	ft	6862	4.5 in	665	674.96	Intermediate	Intermediate	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12228	
+R-33 S2	-106.273675000000000	35.860623799999900	6853.33	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-33 WCR.	None	None	None	None	1112.4	1122.3	Regional	Regional Deep	Tpp	None	
+R-40	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-10 OB	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+MCA-3def S1	-106.268665500000000	35.860598899999900	6819.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-12 S1	-106.226350000000000	35.858922999999900	6499.6	None	None	original x, y, z = 1647398,1767947,6505.95	None	None	None	None	None	None	None	None	None	None	
+PA-26616	-106.224762500000000	35.823851800000000	6527.9	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Intermediate Well R-23i.	None	None	None	None	None	None	None	None	None	None	
+R-3i	-106.220365000000000	35.871794999999900	6390.15	Well Completion Rpt	None	Brass monument survey from R-3i WCR	None	None	None	None	None	None	None	None	None	None	
+R-46	-106.293816000000000	35.859658000000000	7213.33	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-51 S1	-106.269336999999000	35.842632000000000	6762.17	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-19	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	None	None	None	None	None	None	
+R-5 S4	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	858.7	863.7	Regional	Regional	Tsfb	None	
+21-01811	-106.273567300000000	35.877869099999900	7032.42	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:DP boreholes	None	None	None	None	None	None	None	None	None	None	
+LAO-3a	-106.258221900000000	35.873173100000000	6609.1	Stoker	None	Elevation revised based on LIDAR surface location pick	14.7	ft	None	2 in	4.7	14.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12148	
+POI-4	-106.219568000000000	35.871761100000000	6372.29	Surv Tek Survey	None	Survey of Aluminum disc	176.5	ft	None	4 in	159	174	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12291	
+R-56 S1	-106.249694000000000	35.834560000000000	6780.88	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+LAWS-01 S4	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	263	273	Intermediate	None	Tb4	None	
+SWA-1-3	-106.314736100000000	35.875528000000000	None	TERRANEAR PMC	None	Formerly SCPZ-3	None	None	None	None	None	None	None	None	None	None	
+SCA-3	-106.260854400000000	35.864433900000000	6723.22	Kleinfelder 2006 WCR	None	Brass monument xyz	32.6	ft	None	2 in	27.6	32	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12380	
+SWA-3-8	-106.311086300000000	35.873797199999900	None	TERRANEAR PMC	None	Formerly SWA-3	11.15	ft	7216.4	2 in	3.6	10.68	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12451	
+R-6i	-106.264934500000000	35.875343200000000	6996.9	R-6/R-6i WCR	None	Location info taken from Brass cap monument survey data from R-6/R-6i WCR. Added for P Longmire	615	ft	6996.9	4.5 in	602	612	Intermediate	Intermediate Perched	Tf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12299	
+MCO-13	-106.247443100000000	35.857794300000000	6674.48	None	None	None	107	ft	None	2 in	87	107	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12218	
+Test Well 2	-106.270882099999000	35.884622600000000	6648.06	Stoker	None	None	834	ft	None	6 in	774	824	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12111	
+CDBO-1	-106.258259900000000	35.839777400000000	6757.6	PG	None	None	14	ft	None	4 in	9	14	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12434	
+02-01076	-106.287204300000000	35.875520000000000	6836	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:LAO-1	None	None	None	None	None	None	None	None	None	None	
+SCI-1	-106.262129400000000	35.865475900000000	6738.27	Kleinfelder WCR	None	Brass monument location SCI-1 = SCC-1	378.5	ft	6738.27	3.75 in	358.4	377.9	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12387	
+18-MW-7	-106.268795299999000	35.842104700000000	6755.5	WP Pajarito Cy	None	None	30	ft	None	2 in	10	30	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12483	
+03-MW-1	-106.330126500000000	35.873736100000000	7457.7	DOE 2005	None	ER ID 03-02664 Well plugged and abandoned 6/7/05	28.8	ft	None	2 in	23	28	Intermediate	None	Qbt3	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=11846	
+R-23i	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	None	None	None	None	None	None	
+18-MW-10	-106.266217100000000	35.840105199999900	6735.9	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+SCPZ-10	-106.310619700000000	35.873572299999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PAO-1	-106.304865199999000	35.889339600000000	6954.97	M. NOONAN	None	Location Desc: Notes: Aggregate.  Source Org Code changed to ER/WQH.  Location data from ER, sampled by WQH.  Deleted ULI 3072, duplicate location, changed to Synonym.	13.74	ft	None	4 in	5.89	10.89	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12268	
+SCA-1-DP	-106.310536600000000	35.873610999999900	7211.2	None	None	Exact coordinates to be determined. Sampling is planned very close to SCA-1.	2.66	ft	None	2 in	2.16	2.66	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12378	
+MCOI-6	-106.267114199999000	35.860337600000000	6811.1	Kleinfelder survey	None	Brass Monument	712.6	ft	6811.1	4.5 in	686	709	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12227	
+21-01812	-106.271611600000000	35.877646400000000	7026.72	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:DP boreholes	None	None	None	None	None	None	None	None	None	None	
+R-60	-106.296177000000000	35.860568000000000	7228.17	None	None	Brass Cap location from well completion report	None	None	None	None	None	None	None	None	None	None	
+R-51	-106.269336900000000	35.842631699999900	6762.17	Precision Surveys	None	brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-42	-106.259135000000000	35.861293600000000	6759.02	SOUTHWEST MTM SURV	None	Brass Monument	973.5	ft	6761.79	5 in	931.8	952.9	Regional	Regional Top	Tsfu	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12349	
+R-23i S1	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	400.3	420	Intermediate	Intermediate Perched	Tb4	None	
+18-MW-16	-106.264764200000000	35.838778800000000	6727	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+R-40 S1	-106.262782000000000	35.839385000000000	6719.24	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCPZ-9	-106.311047700000000	35.873856199999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-52	-106.261566100000000	35.844946899999900	6883.04	Precision Surveys	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-32 OB	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-39	-106.234551499999000	35.827537499999900	6580.86	Well Completion Rpt	None	Brass cap location	875.6	ft	6580.86	5 in	859	869	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12346	
+SWA-2-4	-106.312523600000000	35.874560899999900	None	TERRANEAR PMC	None	Formerly SCPZ-4	None	None	None	None	None	None	None	None	None	None	
+Test Well 1	-106.217512799999000	35.870358799999900	6369.19	Stoker	None	None	642	ft	None	8 in	632	642	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12469	
+R-52 S1	-106.261566100000000	35.844946899999900	6883.04	Precision Surveys	None	Brass cap location	None	None	None	None	1035.2	1055.7	Regional	Regional Top	Tpf	None	
+LAO-B	-106.335297000000000	35.878832000000000	7323.59	None	None	Elev. measured from GL. Background alluvial monitoring well.  Background well west of ice rink in LA canyon	None	None	None	None	None	None	None	None	None	None	
+R-19 S3	-106.285420800000000	35.837871700000000	None	None	R-19 S3 Monitoring Well	None	None	None	None	None	None	None	None	None	None	None	
+R-67	-106.290119100000000	35.870346099999900	7123.25	WQH	None	None	1273.3	ft	7132.25	5 in	1242.6	1263	Regional	Regional	Tjfp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12374	
+LAOI(a)-1.1	-106.287094999999000	35.875433500000000	6835.2	NMED DOE-OB	None	None	310.15	ft	6835.2	3 in	295.2	305	Intermediate	Intermediate Perched	Qbog	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12137	
+PCI-2	-106.293088500000000	35.853310600000000	6920.95	Well Completion Rpt	None	None	533.3	ft		6920.95	5 in	512	522	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12283
+TW-2Ar	-106.271224000000000	35.884846000000000	6651.67	None	None	Brass cap location rounded to 2 decimal places. -RJK	None	None	None	None	None	None	None	None	None	None	
+MCO-0.6	-106.305451400000000	35.867885100000000	7188.28	Gray 2001	None	None	3.1	ft	7192.09	2.0 in	1.05	3.05	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12073	
+R-19 S2	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	893.3	909.6	Intermediate	Intermediate Perched	Tp	None	
+R-35b	-106.243863899999000	35.862797299999900	6625.21	WCR, SW MTN SURVEY	None	Brass monument survey  resurvey 02/10/09	872.2	ft	6625.21	4.5 in	825.4	848.5	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12342	
+MCA-3def S2	-106.268665500000000	35.860598899999900	6819.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LAO-1.1	-106.281511400000000	35.874766399999900	None	None	None	None	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+R-24	-106.239406800000000	35.885512700000000	6547.38	Kleinfelder data	None	Kleinfelder survey Brass Cap location	861	ft	None	4.46 in	825	848	Regional	Regional Top	Tsf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12328	
+R-22 S3	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	1272.2	1278.9	Regional	Regional	Tcar	None	
+SWA-1	-106.314756300000000	35.875417700000000	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+03-B-9	-106.330150200000000	35.873783000000000	7457.98	DOE 2005	None	Ground surface elevation  Plugged and Abanonded 9/25/09	31.8	ft	None	2 in	21.3	31.3	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12502	
+R-32 S1	-106.248715000000000	35.830948999999900	6637.63	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-52	-106.261566100000000	35.844946899999900	6883.04	Precision Surveys	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-22 S2	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	947	988.9	Regional	Regional	Tb4	None	
+SCA-2	-106.264519900000000	35.865434999999900	6749.08	Kleinfelder 2006 WCR	None	Brass monument xyz	15.6	ft	None	2 in	10.3	15	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12379	
+R-10 S2	-106.205965000000000	35.850270999999900	6362.31	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-36	-106.238220400000000	35.858438700000000	6591.37	SW MTN SURVEY	None	Brass cap location resurvey of 2/10/09	803.7	ft	6589.91	4.5 in	766.9	789.9	Regional	Regional Top	Tsfu	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12343	
+R-70 S1	-106.248582600000000	35.859699499999900	6692.62	None	brass cap	Coordinates estimated from Google Earth.	None	None	None	None	963	1004	None	None	None	None	
+R-60	-106.296176700000000	35.860568100000000	7228.17	Well Completion Rpt	None	Brass Cap location from well completion report	1360.9	ft	7231	5 in	1330	1350.9	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12368	
+R-38	-106.248036300000000	35.837830099999900	6668.58	WCR, SW MTN SURVEY	None	Brass cap location	853.4	ft	6668.58	5 in	821.2	831.2	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12345	
+18-MW-12	-106.264429800000000	35.838853299999900	6725.7	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+SCP-2a	-106.260823900000000	35.864413100000000	6722.95	Kleinfelder WCR	None	None	45.1	ft	6725.48	1 in	44.5	45	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12396	
+MCWB-6.5D	-106.272067400000000	35.860633900000000	6843.2	S. McLin	None	None	42.5	ft	None	3 in	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12239	
+LAO-0.8	-106.292927199999000	35.876393499999900	6887.58	Gray 2001	None	Brass cap elevation	12.85	ft	6889.71	4 in	7.5	12.5	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12156	
+MT-1	-106.267393700000000	35.860518599999900	6811.63	LANL 1997 MC WP	None	None	69	ft	None	None	39	59	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12255	
+R-2	-106.286789300000000	35.887403700000000	6770.38	Kleinfelder survey	None	Brass Cap xyz data taken by Lynn Engineering using static GPS elevation NGVD29.	943.3	ft	6770.38	4.5 in	906.4	929.6	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12294	
+R-51 S2	-106.269336999999000	35.842632000000000	6762.17	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+CDBO-9	-106.244255999999000	35.836367899999900	6633	None	None	None	34	ft	None	None	19	29	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12427	
+R-44 S1	-106.251199099999000	35.856717300000000	6714.91	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	895	905	Regional	Regional Top	Tpf	None	
+R-44	-106.251199099999000	35.856717300000000	6714.91	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+SCI-1	-106.262129000000000	35.865476000000000	6738.27	None	None	Chromium Invstitgation intermediate well in Sandia Canyon	None	None	None	None	None	None	None	None	None	None	
+R-22 S2	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	947	988.9	Regional	Regional	Tb4	None	
+PCO-1	-106.258426099999000	35.837158299999900	6687	Stoker	None	None	12	ft	None	None	4	12	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12284	
+MCWB-7.7A	-106.265235899999000	35.861086899999900	6798.31	S. McLin	None	None	70	ft	None	3 in	52.5	62.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12244	
+CrEX-5	-106.250798000000000	35.859942599999900	None	None	Chromium Extraction Well 5	None	None	None	None	None	None	None	None	None	None	None	
+PCAO-7b1	-106.262096400000000	35.838530200000000	6713.62	SW MTN SURVEY	None	Brass Cap	60	ft	None	4 in	44	54	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12278	
+R-28	-106.254819100000000	35.860147800000000	6728.61	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-28 WCR.	980.3	ft	6730.7	4.5 in	934.3	958.1	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12334	
+R-15 OB	-106.267239200000000	35.859910200000000	6820	Completion Report	None	Location info taken from Brass Monument survey data in R-15 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-35b	-106.243864000000000	35.862797000000000	6625.21	None	None	ER GIS	None	None	None	None	None	None	None	None	None	None	
+MCA-RLW-2	-106.272661111000000	35.861674999999900	6847.7	Antonio Trujillo	None	None	None	None	None	None	None	None	None	None	None	None	
+R-33 S2	-106.273675000000000	35.860623799999900	6853.33	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-33 WCR.	None	None	None	None	1112.4	1122.3	Regional	Regional Deep	Tpp	None	
+MCOI-1	-106.291757200000000	35.864533100000000	7106.2	Kleinfelder survey	None	Brass cap in I-1 pad	825.6	ft	7110	0.81 in	815	825.48	Intermediate	None	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12224	
+03-B-9	-106.330150200000000	35.873783000000000	7457.98	DOE 2005	None	Ground surface elevation  Plugged and Abanonded 9/25/09	31.8	ft	None	2 in	21.3	31.3	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12502	
+R-52 S2	-106.261566100000000	35.844946899999900	6883.04	Precision Surveys	None	Brass cap location	None	None	None	None	1107	1117	Regional	Regional Deep	Tpf	None	
+18-MW-9	-106.265071300000000	35.839638299999900	6732.91	WP Pajarito Cy	None	None	21	ft	None	2 in	6	21	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=11997	
+R-6	-106.264871500000000	35.875327200000000	6995.8	R-6/R-6i WCR	None	Location info taken from Brass cap monument survey data from R-6/R-6i WCR.	1252	ft	6998.66	4.5 in	1205	1228	Regional	Regional	Tf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12298	
+PAO-4	-106.230847500000000	35.878662599999900	6437.37	D. KATZMAN	None	Pueblo Canyon alluvial wellefile N. McCranie ALLU PAO-4. Source Org Code changed to ER/WQH.  Location data from ER, sampled by WQH.  Deleted ULI 170262, duplicate location, changed to Synonym.	9.82	ft		6440.77	4 in	1.97	6.97	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12272
+TSWB-6	-106.273737800000000	35.860508699999900	6853.21	S. McLin	None	None	40	ft	None	2.75 in	25	35	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12466	
+R-20 S3	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	1328.8	1336.5	Regional	Regional Deep	Tcar	None	
+R-19 S4	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1410.2	1417.4	Regional	Regional Deep	Tpf	None	
+PCO-3	-106.230866100000000	35.824790700000000	6546.3	Stoker	None	None	17.7	ft	None	None	5.7	17.7	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12286	
+SWA-3-8	-106.311086300000000	35.873797199999900	None	TERRANEAR PMC	None	Formerly SWA-3	10.68	ft	7216.4	2 in	3.6	10.68	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12451	
+R-40 S2	-106.262782000000000	35.839385000000000	6719.24	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-3ac S2	-106.273050400000000	35.862095500000000	6853	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-19 OB	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-14 S1	-106.285645400000000	35.861775999999900	7062.08	WCR, SW MTN SURVEY	None	Location info taken from Brass Cap survey data for R-14.	None	None	None	None	1200.6	1233.2	Regional	Regional Top	Tp	None	
+R-22 OB	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-19 S2	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	893.3	909.6	Intermediate	Regional Deep	Tp	None	
+MCA-1	-106.296678900000000	35.865776900000000	7070.6	Kleinfelder survey	None	Brass cap location	5.9	ft	7073.9	1 in	2.4	5.4	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12100	
+18-MW-5	-106.265296100000000	35.839988400000000	6736.7	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-3def S3	-106.268665500000000	35.860598899999900	6819.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+18-BG-1	-106.271135400000000	35.844257800000000	6776.45	WP Pajarito Cy	None	None	35	ft	None	2 in	10	35	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12486	
+SWA-2-5	-106.312481700000000	35.874673999999900	None	TERRANEAR PMC	None	Formerly SCPZ-5	None	None	None	None	None	None	None	None	None	None	
+MCO-13	-106.247443100000000	35.857794300000000	6674.48	None	None	None	107	ft	None	2 in	87	107	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12218	
+R-51	-106.269336900000000	35.842631699999900	6762.17	Precision Surveys	None	brass cap location	None	None	None	None	None	None	None	None	None	None	
+LAOI-3.2a	-106.259440100000000	35.873176200000000	6624.43	Kleinfelder 2006 WCR	None	Brass Cap Location	194.1	ft	6627.25	3.1 in	181.4	191	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12135	
+MCWB-6.2C	-106.272728400000000	35.861615399999900	6847.98	S. McLin	None	None	42.5	ft	None	3 in	25	30	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12236	
+R-49 S2	-106.238245800000000	35.827298499999900	6584.54	SW MTN SURVEY	None	Brass cap location	None	None	None	None	905.6	926.4	Regional	Regional Deep	Tpt	None	
+R-1	-106.277210999999000	35.863557999999900	6881.21	None	None	Coordinates obtained from Brass Cap Monument survey data in WCR.	None	None	None	None	None	None	None	None	None	None	
+PCAO-9	-106.232713800000000	35.826139499999900	6558.6	SW MTN SURVEY	None	Brass Cap	21	ft	None	4 in	6	16	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12282	
+R-56 S2	-106.249694100000000	35.834559900000000	6780.88	Well Completion Rpt	None	brass cap location	None	None	None	None	1046.6	1067.1	Regional	Regional Deep	Tpf	None	
+Core Hole 2	-106.298051200000000	35.874670500000000	None	Buckley	None	None	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+SIMR-2	-106.251025700000000	35.853994000000000	6694	Map pick	None	None	None	None	None	None	None	None	None	None	None	None	
+R-41 S2	-106.233804800000000	35.830989600000000	6660.53	Well Completion Rpt	None	Brass cap location	None	None	None	None	965.3	975	Regional	Regional Top	Tpt	None	
+SCA-5	-106.251817399999000	35.863905699999900	6669.02	Kleinfelder 2006 WCR	None	Brass monument xyz	64.9	ft	None	2 in	55	64.4	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12382	
+R-22 S3	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	1272.2	1278.9	Regional	Regional	Tcar	None	
+R-9i S2	-106.223720500000000	35.866956199999900	6383.2	Completion Report	None	Location info taken from Brass monument survey data from R-9i WCR.	None	None	None	None	269.6	280.3	Intermediate	Intermediate Perched	Tb4	None	
+R-43	-106.260734200000000	35.863598400000000	6732.65	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	None	None	None	None	None	None	
+R-19	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	None	None	None	None	None	None	
+MT-2	-106.264839100000000	35.860658100000000	6796.2	LANL 1997 MC WP	None	None	64	ft	None	None	44	64	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12256	
+CrEX-4	-106.257978400000000	35.859934000000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-53	-106.251035900000000	35.836801299999900	6689.98	WCR, SW MTN SURVEY	None	brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-28	-106.254819100000000	35.860147800000000	6728.61	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-28 WCR.	980.3	ft	6730.7	4.5 in	934.3	958.1	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12334	
+MCO-7.2	-106.268425900000000	35.860640900000000	6818.34	Gray 2001	None	None	95.35	ft	None	2 in	72	92.5	Intermediate	None	Qct	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12199	
+PCO-3	-106.230866100000000	35.824790700000000	6546.3	Stoker	None	None	17.7	ft	None	None	5.7	17.7	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12286	
+R-61	-106.261203800000000	35.857575599999900	6940.12	Well Completion Rpt	None	Brass cap location from WCR, rounded to 2 digits	None	None	None	None	None	None	None	None	None	None	
+SCP-1abc	-106.257296800000000	35.863469799999900	6703.65	Kleinfelder WCR	None	Brass monument location	41.8	ft	None	1 in	Multiple	Multiple	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12394	
+R-37 S2	-106.258734000000000	35.844372999999900	6870.59	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-35a	-106.243554000000000	35.862763999999900	6623.06	None	None	ER GIS	None	None	None	None	None	None	None	None	None	None	
+R-70 S2	-106.245949999999000	35.859789999999900	None	None	Screened interval for R-70	Spatial data is an estimate only! Will be finalized once well is surveyed.	None	None	None	None	None	None	None	None	None	None	
+R-13	-106.248059000000000	35.856399000000000	6673.05	None	None	original x, y = 1640988, 1766989	None	None	None	None	None	None	None	None	None	None	
+R-19 S3	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1171.4	1215.4	Regional	Regional Deep	Tpf	None	
+R-43 S2	-106.260734200000000	35.863598400000000	6732.65	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	969.1	979.1	Regional	Regional Deep	Tsfu	None	
+PU-10174	-106.301910400000000	35.888575199999900	6930.43	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+LAWS-01	-106.219259100000000	35.866999700000000	6363.4	Stone & Newell 2002	None	Vertical borehole at LA weir	278	ft	None	3.8 in	Multiple	Multiple	Intermediate	None	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12119	
+R-5 S2	-106.228767000000000	35.873071000000000	6472.6	None	None	Original x, y = 1646709, 1773061	None	None	None	None	None	None	None	None	None	None	
+R-37 S1	-106.258734300000000	35.844372900000000	6870.59	Well Completion Rpt	None	Brass monument location	None	None	None	None	929.3	950	Intermediate	Intermediate Perched	Tpf	None	
+R-12 S3	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	801	839	Regional	Regional	Tsfb	None	
+R-45 S1	-106.250563700000000	35.859211500000000	6704.02	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	880	890	Regional	Regional Top	Tpf	None	
+POI-4	-106.219568000000000	35.871761100000000	6372.29	Surv Tek Survey	None	Survey of Aluminum disc	176.5	ft	6372.29	4 in	159	174	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12291	
+SCPZ-1	-106.314747800000000	35.875410299999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-5 S3	-106.228767000000000	35.873071000000000	6472.6	None	None	Original x, y = 1646709, 1773061	None	None	None	None	None	None	None	None	None	None	
+LAOI-3.2 OB	-106.259365399999000	35.873082799999900	6622.6	Kleinfelder 2006 WCR	None	added for P Longmire.  Location data taken from Brass Cap survey data.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-14 S2	-106.285645400000000	35.861775999999900	7062.08	WCR, SW MTN SURVEY	None	Location info taken from Brass Cap survey data for R-14.	None	None	None	None	1286.5	1293.1	Regional	Regional	Tp	None	
+LAO-1.1	-106.281511400000000	35.874766399999900	None	None	None	None	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+R-7	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	None	None	None	None	None	None	
+SWA-3-9	-106.311047700000000	35.873856199999900	None	TERRANEAR PMC	None	Formerly SCPZ-9	8.22	ft	7216.22	2 in	2.2	8.22	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12452	
+PCO-2	-106.245669199999000	35.830158699999900	6618.3	Stoker	None	None	9.5	ft	None	None	1.5	9.5	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12285	
+R-23	-106.224710000000000	35.823898999999900	6527.75	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-2	-106.271327700000000	35.860770500000000	6837.2	Kleinfelder survey	None	Brass cap location	65	ft	6839.6	2.1 in	45	60	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12099	
+SWA-2-6	-106.312434100000000	35.874748599999900	None	TERRANEAR PMC	None	Formerly SWA-2	None	None	None	None	None	None	None	None	None	None	
+MCO-6B	-106.272903200000000	35.861862899999900	6850.29	Stoker	None	None	47.1	ft	None	2 in	22	42	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12197	
+MCA-1	-106.296678900000000	35.865776900000000	7070.6	Kleinfelder survey	None	Brass cap location	5.9	ft	7073.9	1 in	2.4	5.4	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12100	
+SIMR-2	-106.251926100000000	35.853745099999900	6702.3	TERRANEAR PMC	None	None	927	ft	6702.3	5 in	885	905.4	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12442	
+R-37	-106.258734300000000	35.844372900000000	6870.59	Well Completion Rpt	None	Brass monument location	None	None	None	None	None	None	None	None	None	None	
+SCA-1	-106.310536600000000	35.873610999999900	7211.22	Kleinfelder WCR	None	Ground survey coordinates, no brass monument	2.1	ft	None	2 in	1.3	1.9	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12377	
+R-61	-106.261203800000000	35.857575599999900	6940.12	Well Completion Rpt	None	Brass cap location from WCR, rounded to 2 digits	None	None	None	None	None	None	None	None	None	None	
+PRB-MW-02	-106.277557900000000	35.863725099999900	6881.6	Alethea Banar	None	Mortandad Canyon Permeable Reactive Barrier - Monitoring well 2 (downstream)	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+R-49 S1	-106.238245800000000	35.827298499999900	6584.54	SW MTN SURVEY	None	Brass cap location	None	None	None	None	845	855	Regional	Regional Top	Tb4	None	
+18-MW-10	-106.266217100000000	35.840105199999900	6735.9	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+MCWB-5	-106.276454800000000	35.863238600000000	6876.22	S. McLin	None	None	33	ft	None	3 in	17	27	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12233	
+LAO-0.7	-106.294572800000000	35.876353700000000	6904	Pratt	None	RJK added elev 8/3/05	23	ft	None	2 in	15	20	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12157	
+R-19 S6	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1726.8	1733.9	Regional	Regional Deep	Tpf	None	
+CrEX-4	-106.257978400000000	35.859934000000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCO-2	-106.226907999999000	35.858787000000000	6500.67	Stoker	None	None	19.4	ft	None	None	9.4	19.4	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12393	
+R-20 S1	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	904.6	912.2	Regional	Regional Top	Tb4	None	
+R-34	-106.239272200000000	35.848252100000000	6629.99	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-34 WCR.	920.7	ft	None	4.5 in	883.7	906.6	Regional	Regional Top	Tpp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12340	
+SCPZ-10	-106.310619700000000	35.873572299999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-12	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	None	None	None	None	None	None	
+R-53 S1	-106.251035900000000	35.836801299999900	6689.98	WCR, SW MTN SURVEY	None	brass cap location	None	None	None	None	849.2	859.2	Regional	Regional Top	Tpf	None	
+MT-2	-106.264839100000000	35.860658100000000	6796.2	LANL 1997 MC WP	None	None	64	ft	None	None	44	64	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12256	
+41-01045	-106.335296700000000	35.878831900000000	7323.59	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:BACKGROUND WELL WEST OF ICE RINK Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+MCO-1	-106.300534500000000	35.865092099999900	7153	None	None	Unable to locate in 1991	8	ft	None	3.0 in	1	8	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12051	
+R-52 S2	-106.261566100000000	35.844946899999900	6883.04	Precision Surveys	None	Brass cap location	None	None	None	None	1107	1117	Regional	Regional Deep	Tpf	None	
+41-01002	-106.296139700000000	35.876552300000000	6910.74	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:WELL IMMEDIATELY EAST OF TA-41 Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+R-70 S1	-106.245949999999000	35.859789999999900	None	None	Screened interval of R-70	Spatial data an estimate only! Will be finalized once well is surveyed	None	None	None	None	None	None	None	None	None	None	
+MCWB-5.5B	-106.273611900000000	35.862253400000000	6856.89	S. McLin	None	None	37.5	ft	None	3 in	22.5	32.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12232	
+R-7 OB	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-19 S4	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1410.2	1417.4	Regional	Regional Deep	Tpf	None	
+R-54 S2	-106.255443000000000	35.836092999999900	6679.85	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-62	-106.266465800000000	35.863120600000000	6984.88	None	None	Updated Location information from e-mail from RJK 4/2/2012	1189.7	ft	6984.88	5.0 in	1158.4	1179.1	Regional	Regional	Tjfp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12370	
+R-37 S1	-106.258734000000000	35.844372999999900	6870.59	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SWL-1	-106.314754900000000	35.875424299999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-8	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	None	None	None	None	None	None	None	None	None	
+PU-00182	-106.230847500000000	35.878662599999900	6437.04	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-55 S2	-106.227508500000000	35.829687999999900	6533.86	WCR, SW MTN SURVEY	None	brass cap surveyed location	None	None	None	None	994.4	1015.4	Regional	Regional Deep	Tcar	None	
+MCO-5	-106.276833400000000	35.863385200000000	6875.66	Stoker	None	None	46	ft	None	3 in	21	46	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12188	
+R-46	-106.293815600000000	35.859657599999900	7213.33	WCR, SW MTN SURVEY	None	Brass cap location	1382.2	ft	7213.33	5 in	1340	1360.7	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12353	
+MCWB-9A	-106.257740799999000	35.860886999999900	6752.11	S. McLin	None	None	75	ft	None	None	50	70	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12249	
+SCA-3	-106.260854400000000	35.864433900000000	6723.22	Kleinfelder 2006 WCR	None	Brass monument xyz	32.6	ft	None	2 in	27.6	32	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12380	
+R-44 S2	-106.251199099999000	35.856717300000000	6714.91	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	985.3	995.2	Regional	Regional Deep	Tpf	None	
+LAOI-7	-106.235243999999000	35.869008999999900	6458.35	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-17 S1	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	1057	1080	Regional	Regional	Tpf	None	
+LADP-5	-106.269469700000000	35.877294700000000	7018.06	PG	None	plugged and abandoned	None	None	None	None	None	None	None	None	None	None	
+R-50 S1	-106.255907600000000	35.856655300000000	6904.11	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	1077	1087	Regional	Regional Top	Tpf	None	
+R-43 S2	-106.260734000000000	35.863598000000000	6732.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LAO-1.6g	-106.264626400000000	35.871683099999900	6658.01	Gray 2001	None	None	30.82	ft	None	4 in	10.47	25.47	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12153	
+SCP-1abc S2	-106.257296800000000	35.863469799999900	6703.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-57 S2	-106.234169700000000	35.829869100000000	6648.04	Well Completion Rpt	None	Brass cap location	None	None	None	None	971.5	992.1	Regional	Regional Deep	Tpt	None	
+MCWB-5.5A	-106.273493800000000	35.862394000000000	6858.36	S. McLin	None	None	37.5	ft	None	3 in	22.5	32.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12231	
+R-6	-106.264871500000000	35.875327200000000	6995.8	R-6/R-6i WCR	None	Location info taken from Brass cap monument survey data from R-6/R-6i WCR.	1252	ft	6995.8	4.5 in	1205	1228	Regional	Regional	Tf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12298	
+MCWB-9B	-106.257923199999000	35.860511500000000	6753.6	S. McLin	None	None	80	ft	None	None	55	75	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12250	
+18-MW-7	-106.268795299999000	35.842104700000000	6755.5	WP Pajarito Cy	None	None	30	ft	None	2 in	10	30	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12483	
+R-3	-106.220901000000000	35.871792999999900	6395.88	None	None	Planned CY05 Location	None	None	None	None	None	None	None	None	None	None	
+R-34	-106.239272200000000	35.848252100000000	6629.99	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-34 WCR.	920.7	ft	6629.99	4.5 in	883.7	906.6	Regional	Regional Top	Tpp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12340	
+03-B-10	-106.330115800000000	35.873716600000000	7458.28	DOE 2005	None	Ground surface elevation  Plugged and Abandoned 9/25/09	31.1	ft	None	2 in	20.6	30.6	Intermediate	Intermediate	Qbt4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12501	
+LAUZ-1	-106.273567300000000	35.877869099999900	7032.42	None	None	Surv-Tek Survey	10.55	ft	None	4 in	5.35	10.35	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12121	
+R-42	-106.259135000000000	35.861293600000000	6759.02	SOUTHWEST MTM SURV	None	Brass Monument	973.5	ft	6761.79	5 in	931.8	952.9	Regional	Regional Top	Tsfu	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12349	
+R-5 S1	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	326.4	331.5	Intermediate	Intermediate	Tp	None	
+R-12 S1	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	459	467.5	Intermediate	Intermediate Perched	Tb4	None	
+R-10 OB	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+SCI-2	-106.261007000000000	35.863698999999900	6735.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+18-MW-11	-106.264896400000000	35.840314900000000	6740.13	PG	None	None	47	ft	None	2 in	27	47	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12481	
+R-61 S1	-106.261203800000000	35.857575599999900	6940.12	Well Completion Rpt	None	Brass cap location from WCR, rounded to 2 digits	None	None	None	None	1125	1135	Regional	Regional Top	Tpf	None	
+MCO-4	-106.281058400000000	35.864070599999900	6897.54	Stoker	None	MCO-4 plugged and abandoned in 2000, see Benak et al. 2000	19	ft	None	3 in	4	19	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12184	
+SCPZ-3	-106.314736100000000	35.875528000000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-49 S2	-106.238245800000000	35.827298499999900	6584.54	SW MTN SURVEY	None	Brass cap location	None	None	None	None	905.6	926.4	Regional	Regional Deep	Tpt	None	
+R-44 S2	-106.251199099999000	35.856717300000000	6714.91	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	985.3	995.2	Regional	Regional Deep	Tpf	None	
+41-01003	-106.302719400000000	35.877040700000000	6968.13	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:SECOND BOREHOLE/WELL WEST OF TA-41 Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+R-54 S1	-106.255443000000000	35.836092999999900	6679.85	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+PO-4B	-106.248165200000000	35.881411499999900	None	W. RED STAR	None	Locations estimated in April 2010 by georeferencing locations on old ESR maps.	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+R-22 S1	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	872.3	914.2	Regional	Regional	Tb4	None	
+LAO-4.5	-106.239055500000000	35.870392199999900	6479.8	Stoker	None	Elevation revised based on LIDAR surface location pick	40	ft	None	3 in	10	40	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12147	
+18-MW-16	-106.264764200000000	35.838778800000000	6727	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+LAO-0.6	-106.296139700000000	35.876552300000000	6910.74	Gray 2001	None	RJK revised added elev 5/25/05	13.35	ft	6912.88	4 in	8	13	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12158	
+Core Hole 2	-106.298051200000000	35.874670500000000	None	Buckley	None	None	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-4	-106.253810200000000	35.882598000000000	6577.49	R4 Completion Report	None	Inactive emergency landing strip in Pueblo Canyon; TA-74. Location info taken from Brass cap monument survey data from R-4 WCR.	840	ft	6577.49	4.5 in	792.9	816	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12040	
+R-14	-106.285645400000000	35.861775999999900	7062.08	WCR, SW MTN SURVEY	None	Location info taken from Brass Cap survey data for R-14.	None	None	None	None	None	None	None	None	None	None	
+R-19 S5	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	1582.6	1589.8	Regional	Regional Deep	Tpf	None	
+R-54 S1	-106.255442700000000	35.836093200000000	6679.85	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	830	840	Regional	Regional Top	Tpf	None	
+MCWB-5.5B	-106.273611900000000	35.862253400000000	6856.89	S. McLin	None	None	37.5	ft	None	3 in	22.5	32.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12232	
+MCO-8.2	-106.262528600000000	35.860936799999900	6781.6	LANL 1997 WP Mort Cy	None	None	70	ft	None	2 in	60	70	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12206	
+R-51 S2	-106.269336900000000	35.842631699999900	6762.17	Precision Surveys	None	brass cap location	None	None	None	None	1030.96	1041	Regional	Regional Deep	Tpf	None	
+R-5 S3	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	676.9	720.3	Regional	Regional Top	Tsf	None	
+SCP-2b	-106.260839500000000	35.864422099999900	6723.11	Kleinfelder WCR	None	None	50.1	ft	6725.31	1 in	49.5	50	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12398	
+MCOI-6	-106.267114000000000	35.860337999999900	6811.1	None	None	Brass Monument	None	None	None	None	None	None	None	None	None	None	
+Test Well 2	-106.270882099999000	35.884622600000000	6648.06	Stoker	None	None	834	ft	None	6 in	774	824	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12111	
+R-9	-106.223606399999000	35.866981799999900	6382.8	Completion Report	None	Location info taken from Brass monument survey data from R-9 WCR.	758	ft	None	4.5 in	683	748.5	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12305	
+CDBO-2	-106.257752400000000	35.840214699999900	6748.2	PG	None	None	19	ft	None	4 in	10	18	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12433	
+R-17 S2	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	1124	1134	Regional	Regional	Tpf	None	
+TSCA-6	-106.275183900000000	35.860455399999900	6863.2	Kleinfelder survey	None	Brass cap location, ER B-15/A-6, located in lower Ten Site Canyon	21.3	ft	None	2.1 in	16.2	20.9	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12465	
+R-7 S2	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	730.4	746.4	Intermediate	Intermediate Perched	Tp	None	
+41-01003	-106.302719400000000	35.877040700000000	6968.13	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:SECOND BOREHOLE/WELL WEST OF TA-41 Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+Test Well 2A	-106.271038200000000	35.884678200000000	6650.4	Stoker	None	None	133	ft	None	8 in	123	133	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12472	
+SWA-3-7	-106.311137900000000	35.873757499999900	None	TERRANEAR PMC	None	Formerly SCPZ-7	6.84	ft	7216.2	2 in	0.6	6.84	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12450	
+PCAO-7b2	-106.262045900000000	35.838505300000000	6713.39	SW MTN SURVEY	None	Brass Cap	25	ft	None	4 in	10	20	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12279	
+R-55 S1	-106.227508500000000	35.829687999999900	6533.86	WCR, SW MTN SURVEY	None	brass cap surveyed location	None	None	None	None	860	880.6	Regional	Regional Top	Tpt	None	
+R-50 S2	-106.255907600000000	35.856655300000000	6904.11	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	1185	1205.6	Regional	Regional Deep	Tsfu	None	
+MCWB-7.2	-106.268426100000000	35.860512700000000	6818.86	S. McLin	None	None	67.5	ft	None	3 in	42.5	62.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12241	
+LAUZ-2	-106.271611600000000	35.877646400000000	7026.72	None	None	Surv-Tek Survey	10.47	ft	None	4 in	5.27	10.27	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12120	
+R-23i S1	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	400.3	420	Intermediate	Intermediate Perched	Tb4	None	
+LAWS-01 S1	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-36	-106.238220400000000	35.858438700000000	6591.37	SW MTN SURVEY	None	Brass cap location resurvey of 2/10/09	803.7	ft	6591.37	4.5 in	766.9	789.9	Regional	Regional Top	Tsfu	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12343	
+R-43 S1	-106.260734000000000	35.863598000000000	6732.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+CrEX-2	-106.260877699999000	35.858983400000000	None	NMED DOE-OB	None	None	None	None	None	None	None	None	None	None	None	None	
+R-33 S1	-106.273675000000000	35.860623799999900	6853.33	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-33 WCR.	None	None	None	None	995.5	1018.5	Regional	Regional Top	Tpp	None	
+TMO-1	-106.295848400000000	35.854102099999900	6945.2	SW MTN SURVEY	None	Brass Cap	6.5	ft	6645.2	1.5 in	3.5	6.5	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12464	
+R-3i OB	-106.220364600000000	35.871794500000000	6390.15	Well Completion Rpt	None	Brass monument survey from R-3i WCR	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+MCA-RLW-1	-106.278463888999000	35.863766666700000	6887.1	Antonio Trujillo	None	None	None	None	None	None	None	None	None	None	None	None	
+R-8 OB	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+R-61 S1	-106.261203800000000	35.857575599999900	6940.12	Well Completion Rpt	None	Brass cap location from WCR, rounded to 2 digits	None	None	None	None	1125	1135	Regional	Regional Top	Tpf	None	
+R-15	-106.267239000000000	35.859909999999900	6820	None	None	Survey is from brass monument.	None	None	None	None	None	None	None	None	None	None	
+ER ID #18-01685	-106.251658699999000	35.832368799999900	6654.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCO-1	-106.243651600000000	35.863289799999900	6618.67	Stoker	None	None	19.3	ft	None	None	9.3	19.3	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12392	
+MCO-9.5	-106.256979800000000	35.860552300000000	6743.27	LANL 1997 WP Mort Cy	None	None	46	ft	None	2 in	26	46	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12213	
+MCWB-9B	-106.257923199999000	35.860511500000000	6753.6	S. McLin	None	None	80	ft	None	None	55	75	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12250	
+R-41	-106.233804800000000	35.830989600000000	6660.53	Well Completion Rpt	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+R-24	-106.239406800000000	35.885512700000000	6547.38	Kleinfelder data	None	Kleinfelder survey Brass Cap location	861	ft	6547.38	4.5 in	825	848	Regional	Regional Top	Tsf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12328	
+LAUZ-2	-106.271611600000000	35.877646400000000	7026.72	None	None	Surv-Tek Survey	10.47	ft	None	4 in	5.27	10.27	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12120	
+LA-00001	-106.264626400000000	35.871683099999900	6657.68	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. appended samp_la samp_la0_1  samp_la2e textfile	None	None	None	None	None	None	None	None	None	None	
+MCOI-4	-106.271221999999000	35.860650000000000	6837.2	Kleinfelder survey	None	Brass Monument	525.7	ft	6839.9	4.5 in	498.9	522	Intermediate	Intermediate	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12225	
+R-6i	-106.264934500000000	35.875343200000000	6996.9	R-6/R-6i WCR	None	Location info taken from Brass cap monument survey data from R-6/R-6i WCR. Added for P Longmire	615	ft	6999.42	4.5 in	602	612	Intermediate	Intermediate Perched	Tf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12299	
+R-55i	-106.227740999999000	35.829931999999900	6534.91	None	None	Brass cap surveyed location as corrected 2/16/11 and rounded to 2 digits - RJK	None	None	None	None	None	None	None	None	None	None	
+R-7 OB	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+LAOI-3.2a	-106.259440100000000	35.873176200000000	6624.43	Kleinfelder 2006 WCR	None	Brass Cap Location	194.1	ft	6624.43	3.1 in	181.4	191	Intermediate	Intermediate Perched	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12135	
+R-12 OB	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+18-MW-8	-106.269240000000000	35.838990899999900	6747.79	WP Pajarito Cy	None	None	37.9	ft	None	2 in	8	38	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12482	
+18-MW-12	-106.264429800000000	35.838853299999900	6725.7	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+R-21	-106.247073000000000	35.834829999999900	6656.24	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-2	-106.286789000000000	35.887403999999900	6770.38	None	None	Brass Cap xyz data taken by Lynn Engineering using static GPS elevation NGVD29.	None	None	None	None	None	None	None	None	None	None	
+SWA-4-10	-106.310619700000000	35.873572299999900	None	TERRANEAR PMC	None	Formerly SCPZ-10	None	None	None	None	None	None	None	None	None	None	
+R-8 S1	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	None	None	None	705.31	755.7	Regional	Regional Top	Tp	None	
+R-10 S1	-106.205965000000000	35.850270999999900	6362.31	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-21	-106.247073099999000	35.834829999999900	6656.24	Completion Report	None	Location info taken from Brass Monument survey data from R-21 WCR.	941.4	ft	6656.24	6 in	888.8	906.8	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12125	
+BCO-1	-106.249216399999000	35.889148800000000	6641.97	ER	None	Intermediate monitoring well	68	ft	None	None	57	67	Intermediate	None	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12437	
+18-MW-5	-106.265296100000000	35.839988400000000	6736.7	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+LAOR-1	-106.289906200000000	35.876415600000000	6864.83	None	None	None	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+R-50 S1	-106.255907600000000	35.856655300000000	6904.11	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	1077	1087	Regional	Regional Top	Tpf	None	
+R-10 S1	-106.205965300000000	35.850271200000000	6362.31	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	874	897	Regional	Regional Deep	Tsf	None	
+MCOI-5	-106.267443900000000	35.859986999999900	6819.7	Kleinfelder survey	None	Brass Monument	702.7	ft	6819.7	4.5 in	689	699	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12226	
+R-3	-106.220900700000000	35.871793400000000	6395.88	Precision Surveys	None	Brass cap survey location	1006.8	ft	None	None	974.5	995	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12038	
+R-23i OB	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+18-BG-4	-106.273303200000000	35.839269999999900	6768	Buckley	None	DGPS obtained 8/18/05 SA, CM, RK	6.5	ft	None	4 in	2.5	6.5	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12484	
+R-20 S2	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	1147.1	1154.7	Regional	Regional Deep	Tjfp	None	
+MCA-5	-106.294087600000000	35.865291100000000	7053.8	Kleinfelder survey	None	Brass cap location	6	ft	7056.1	1.0 in	1.75	5.75	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12093	
+R-8 S2	-106.247561700000000	35.871675699999900	6544.74	Completion Report	None	Location info taken from Brass cap monument survey data from R-8 WCR.	None	None	None	None	821	828	Regional	Regional Deep	Tp	None	
+R-23i S2	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	470.2	480.1	Intermediate	Intermediate Perched	Tb4	None	
+SCPZ-11(A)	-106.310584600000000	35.873650599999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-55 S2	-106.227508500000000	35.829687999999900	6533.86	WCR, SW MTN SURVEY	None	brass cap surveyed location	None	None	None	None	994.4	1015.4	Regional	Regional Deep	Tcar	None	
+SCPZ-4	-106.312523600000000	35.874560899999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-RLW-2	-106.272660500000000	35.861684599999900	6847.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCP-1abc S1	-106.257296800000000	35.863469799999900	6703.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-12 S1	-106.226350500000000	35.858922600000000	6499.6	Well Completion Rpt	None	Location information from Brass Cap survey data in WCR.	None	None	None	None	459	467.5	Intermediate	Intermediate Perched	Tb4	None	
+R-32	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	None	None	None	None	None	None	
+03-B-13	-106.330083400000000	35.873743699999900	7458.26	DOE 2005	None	Ground surface elevation	32	ft	7458.26	2 in	21.5	31.5	Intermediate	Intermediate Perched	Qbt3	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12500	
+PAO-5s	-106.220418499999000	35.872872299999900	6368.3	PG	None	None	20.9	ft	None	4 in	8.05	18.05	Alluvial	Alluvial	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12274	
+MCO-7A	-106.269956500000000	35.860560200000000	6827.58	Stoker	None	None	44.8	ft	None	3 in	34.8	44.8	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12204	
+21-01812	-106.271611600000000	35.877646400000000	7026.72	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:DP boreholes	None	None	None	None	None	None	None	None	None	None	
+TSWB-6	-106.273737800000000	35.860508699999900	6853.21	S. McLin	None	None	40	ft	None	2.75 in	25	35	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12466	
+LAO-C	-106.311636500000000	35.879064200000000	7049.98	Stoker	None	None	13	ft	None	3 in	3	13	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12138	
+R-67	-106.290119100000000	35.870346099999900	7123.25	WQH	None	None	1273.3	ft	7123.25	5 in	1242.6	1263	Regional	Regional Top	Tjfp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12374	
+POI-4	-106.219568000000000	35.871760999999900	6372.29	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SWA-4	-106.310561600000000	35.873700100000000	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+MCWB-7.4A	-106.267368500000000	35.860726000000000	6812.4	S. McLin	None	None	70	ft	None	3 in	45	65	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12242	
+SWA-1-3	-106.314736100000000	35.875528000000000	None	TERRANEAR PMC	None	Formerly SCPZ-3	9.37	ft	7242.6	2 in	3	9.37	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12445	
+R-9i S1	-106.223720500000000	35.866956199999900	6383.2	Completion Report	None	Location info taken from Brass monument survey data from R-9i WCR.	None	None	None	None	189.1	199.5	Intermediate	Intermediate	Tb4	None	
+R-53 S1	-106.251035900000000	35.836801299999900	6689.98	WCR, SW MTN SURVEY	None	brass cap location	None	None	None	None	849.2	859.2	Regional	Regional Top	Tpf	None	
+LAO-4.5A	-106.239592599999000	35.870294399999900	6459.89	None	None	Brass cap elevation	18.5	ft	None	2 in	8.5	18.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12146	
+MCOBT-4.4 OB	-106.271015199999000	35.860574900000000	6836.18	LANL 2002 WCR	None	Brass Monument  MCOBT-4.4 plugged and abandoned 7/29/09	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+SWA-4-11	-106.310597599999000	35.873652600000000	None	TERRANEAR PMC	None	Formerly SCPZ-11(B)	None	None	None	None	None	None	None	None	None	None	
+SWA-1-3	-106.314736100000000	35.875528000000000	None	TERRANEAR PMC	None	Formerly SCPZ-3	9.37	ft	7242.6	2 in	3	9.37	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12445	
+LA-10066	-106.294572600000000	35.876353799999900	6900	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Record created for data migration.  Needs field coordinates.	None	None	None	None	None	None	None	None	None	None	
+MCWB-7B	-106.270473999999000	35.860451599999900	6832.45	S. McLin	None	None	47.5	ft	None	None	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12072	
+R-23i S2	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	470.2	480.1	Intermediate	Intermediate Perched	Tb4	None	
+Test Well 3	-106.259077100000000	35.873278399999900	6626.9	Stoker	None	Purtymun elev in error, elev from DEM/LIDAR Broxton/Cole	815	ft	None	10 in	805	815	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12485	
+CDBO-3	-106.249121200000000	35.836115700000000	6670.2	PG	None	None	13	ft	None	4 in	3	12.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=11996	
+R-43	-106.260734200000000	35.863598400000000	6732.65	WCR, SW MTN SURVEY	None	Brass Cap location	None	None	None	None	None	None	None	None	None	None	
+LA-00001	-106.264626400000000	35.871683099999900	6657.68	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. appended samp_la samp_la0_1  samp_la2e textfile	None	None	None	None	None	None	None	None	None	None	
+R-4 PZ-E	-106.253777799999000	35.882561199999900	6577.34	R4 Completion Report	None	R-4 Piezometer East	231	ft	None	None	221	231	Intermediate	None	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12295	
+PCAO-9	-106.232713800000000	35.826139499999900	6558.6	SW MTN SURVEY	None	Brass Cap	21	ft	None	4 in	6	16	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12282	
+R-49 S1	-106.238246000000000	35.827297999999900	6584.54	None	None	Coordinates supplied by Dave Broxton	None	None	None	None	None	None	None	None	None	None	
+03-MW-1	-106.330126500000000	35.873736100000000	7457.7	DOE 2005	None	ER ID 03-02664 Well plugged and abandoned 6/7/05	28.8	ft	None	2 in	23	28	Intermediate	None	Qbt3	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=11846	
+R-4 OB	-106.253810200000000	35.882598000000000	6577.49	R4 Completion Report	None	Inactive emergency landing strip in Pueblo Canyon; TA-74. Location info taken from Brass cap monument survey data from R-4 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+CrEX-1	-106.256671000000000	35.857846000000000	6831.303	None	None	Coordinates from LANL	None	None	None	None	None	None	None	None	None	None	
+MCA-5	-106.294087600000000	35.865291100000000	7053.8	Kleinfelder survey	None	Brass cap location	6	ft	7056.1	1.0 in	1.75	5.75	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12093	
+41-01004	-106.311636400000000	35.879064399999900	7050	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:LAO-C	None	None	None	None	None	None	None	None	None	None	
+PRB-MW-02	-106.277557900000000	35.863725099999900	6881.6	Alethea Banar	None	Mortandad Canyon Permeable Reactive Barrier - Monitoring well 2 (downstream)	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+SCA-1	-106.310536600000000	35.873610999999900	7211.22	Kleinfelder WCR	None	Ground survey coordinates, no brass monument	2.1	ft	None	2 in	1.3	1.9	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12377	
+MCOI-5	-106.267443900000000	35.859986999999900	6819.7	Kleinfelder survey	None	Brass Monument	702.7	ft	6819.7	4.5 in	689.04	699	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12226	
+SCI-2	-106.261007100000000	35.863698599999900	6735.7	SOUTHWEST MTM SURV	None	Brass monument survey	570	ft	6735.7	2 in	548	568	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12389	
+Test Well 1A	-106.217460900000000	35.870328600000000	6369.28	Stoker	None	None	225	ft	None	6 in	215	225	Intermediate	Intermediate	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12470	
+R-7 S1	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	363.2	379.2	Intermediate	Intermediate	Tp	None	
+PU-00182	-106.230847500000000	35.878662599999900	6437.04	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+SWA-3-9	-106.311047700000000	35.873856199999900	None	TERRANEAR PMC	None	Formerly SCPZ-9	8.54	ft	7216.22	2 in	2.2	8.22	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12452	
+R-9	-106.223606399999000	35.866981799999900	6382.8	Completion Report	None	Location info taken from Brass monument survey data from R-9 WCR.	758	ft	6382.8	4.5 in	683	748.5	Regional	Regional Top	Tsfb	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12305	
+ER ID #03-2664	-106.330126500000000	35.873736000000000	7457.7	None	None	None	None	None	None	None	None	None	None	None	None	None	
+APCO-1	-106.220319700000000	35.872950899999900	6367.53	Stoker	None	None	19.7	ft	None	2 in	4.7	14.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12438	
+R-17 S1	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	1057	1080	Regional	Regional Top	Tpf	None	
+LAWS-01 S1	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	83	93	Intermediate	None	Tb4	None	
+LAO-C	-106.311636500000000	35.879064200000000	7049.98	Stoker	None	None	13	ft	None	3 in	3	13	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12138	
+SWA-2	-106.312434100000000	35.874748599999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+R-2	-106.286789300000000	35.887403700000000	6770.38	Kleinfelder survey	None	Brass Cap xyz data taken by Lynn Engineering using static GPS elevation NGVD29.	943.3	ft	None	4.5 in	906.4	929.6	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12294	
+LAOI-3.2a OB	-106.259440100000000	35.873176200000000	6624.43	Kleinfelder 2006 WCR	None	Brass Cap Location	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+LA-10067	-106.259480500000000	35.873162700000000	6593	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-55i	-106.227740700000000	35.829931799999900	6534.91	SW MTN SURVEY	None	Brass cap surveyed location as corrected 2/16/11 and rounded to 2 digits - RJK	541.4	ft	6534.91	5 in	510	531.1	Intermediate	Intermediate Perched	Tb4	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12364	
+MCWB-8.1C	-106.262996700000000	35.860622999999900	6785.63	S. McLin	None	None	80	ft	None	None	55	75	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12248	
+MCWB-4	-106.279282499999000	35.863955099999900	6893.42	S. McLin	None	None	15	ft	None	3 in	10	15	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12230	
+MCA-3def	-106.268665500000000	35.860598899999900	6819.8	Kleinfelder survey	None	Brass cap location	55.8	ft	6822.8	0.8 in	Multiple	Multiple	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12095	
+CDBO-5	-106.273059700000000	35.853166999999900	6879.01	None	None	None	18	ft	None	2 in	8	18	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12431	
+R-52 S1	-106.261566000000000	35.844946999999900	6883.04	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+PCAO-7c	-106.262517200000000	35.838105100000000	6714.57	SW MTN SURVEY	None	Brass Cap	25	ft	None	4 in	9.7	19.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12280	
+SCO-1	-106.243651600000000	35.863289799999900	6618.67	Stoker	None	None	19.3	ft	None	None	9.3	19.3	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12392	
+R-45	-106.250563700000000	35.859211500000000	6704.02	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+18-MW-16	-106.264764000000000	35.838779000000000	6727	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+MCWB-7B	-106.270473999999000	35.860451599999900	6832.45	S. McLin	None	None	47.5	ft	None	None	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12072	
+R-61 S2	-106.261204000000000	35.857576000000000	6940.12	None	None	None	None	None	None	None	None	None	None	None	None	None	
+LAOR-1	-106.289906200000000	35.876415600000000	6864.83	None	None	None	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+PCAO-8	-106.238365200000000	35.827216700000000	6584.45	SW MTN SURVEY	None	Brass Cap	25	ft	6584.45	4 in	9.7	19.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12281	
+R-40 Si	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	649.67	669.02	Intermediate	Intermediate Perched	Tb4	None	
+R-23i S3	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	524	547	Intermediate	Intermediate Perched	Tb4	None	
+R-40 S2	-106.262782300000000	35.839384600000000	6719.24	Completion Report	None	Brass cap location	None	None	None	None	849.27	870	Regional	Regional Top	Tpf	None	
+R-11	-106.251543500000000	35.862881500000000	6673.72	Kleinfelder 2005 WCR	None	Location information taken from the Brass Cap Monument of the new R-11 well.	901.7	ft	6673.72	4.5 in	855	877.9	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12314	
+R-32 S3	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	972.9	980.6	Regional	Regional Deep	Tpf	None	
+LAO-1.6g	-106.264626000000000	35.871682999999900	6658.01	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-23i OB	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+R-15	-106.267239200000000	35.859910200000000	6820	Completion Report	None	Location info taken from Brass Monument survey data in R-15 WCR.	1030.6	ft	6820	5 in	958.6	1020.3	Regional	Regional Top	Tp	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12319	
+PU-10228	-106.220318400000000	35.872950600000000	6368	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+LAO-0.8	-106.292927199999000	35.876393499999900	6887.58	Gray 2001	None	Brass cap elevation	12.85	ft	6889.71	4 in	7.5	12.5	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12156	
+R-33	-106.273675000000000	35.860623799999900	6853.33	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-33 WCR.	None	None	None	None	None	None	None	None	None	None	
+PCAO-7b1	-106.262096400000000	35.838530200000000	6713.62	SW MTN SURVEY	None	Brass Cap	60	ft	None	4 in	44	54	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12278	
+R-7	-106.279538100000000	35.874689699999900	6779.2	Completion Report	None	Location info taken from Brass cap monument survey data from R-7 WCR.	None	None	None	None	None	None	None	None	None	None	
+R-35a	-106.243554100000000	35.862763899999900	6623.06	WCR, SW MTN SURVEY	None	Brass monument survey  Resurvey 02/10/09	1086.2	ft	6623.06	4.5 in	1013.1	1062.2	Regional	Regional Deep	Tsfu	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12130	
+R-22 S1	-106.233442999999000	35.829245999999900	6650.5	None	None	original x, y = 1645327, 1757112	None	None	None	None	None	None	None	None	None	None	
+41-01045	-106.335296700000000	35.878831900000000	7323.59	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:BACKGROUND WELL WEST OF ICE RINK Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+R-33	-106.273675000000000	35.860623799999900	6853.33	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-33 WCR.	None	None	None	None	None	None	None	None	None	None	
+MCO-7	-106.269908000000000	35.860561900000000	6827.31	Stoker	None	None	69	ft	None	3 in	39	71.18	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12202	
+SCPZ-12	-106.310578300000000	35.873713700000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCO-7.2	-106.268425900000000	35.860640900000000	6818.34	Gray 2001	None	None	95.35	ft	None	2 in	72	92.5	Intermediate	None	Qct	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12199	
+18-MW-18	-106.251658699999000	35.832368799999900	6654.7	ECR GIS Team, McLean	None	None	23	ft	6654.7	2 in	12.5	23	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12112	
+SWA-4-12	-106.310561600000000	35.873700100000000	None	TERRANEAR PMC	None	Formerly SWA-4	None	None	None	None	None	None	None	None	None	None	
+LAO-4.5B	-106.239552100000000	35.870302700000000	6459.37	None	None	Brass cap elevation	34.9	ft	None	2 in	24.9	34.9	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12145	
+PRB-MW-01	-106.277749600000000	35.863827000000000	6881.85	Alethea Banar	None	Mortandad Canyon Permeable Reactive Barrier - Monitoring well 1 (upstream)	None	ft	None	None	-9999	-9999	Alluvial	Alluvial	None	None	
+MCO-5	-106.276833400000000	35.863385200000000	6875.66	Stoker	None	None	46	ft	None	3 in	21	46	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12188	
+SCPZ-6	-106.312429700000000	35.874766700000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-66	-106.259868999999000	35.873086999999900	6626.96	None	None	Replacement well located just to the east of O-4.  TW-3 replacement well.   Location for potential contaminants  from upper Los Alamos and  DP Canyons and TA-21.	None	None	None	None	None	None	None	None	None	None	
+SWL-3	-106.311089900000000	35.873800099999900	None	TERRANEAR PMC	None	None	None	None	None	None	None	None	None	None	None	None	
+SWA-2-6	-106.312434100000000	35.874748599999900	None	TERRANEAR PMC	None	Formerly SWA-2	8.98	ft	7225.72	2 in	5.98	11.08	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12449	
+R-55	-106.227508500000000	35.829687999999900	6533.86	WCR, SW MTN SURVEY	None	brass cap surveyed location	None	None	None	None	None	None	None	None	None	None	
+LA-10066	-106.294572600000000	35.876353799999900	6900	UNKNOWN	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Record created for data migration.  Needs field coordinates.	None	None	None	None	None	None	None	None	None	None	
+MCOBT-4.4 OB	-106.271015199999000	35.860574900000000	6836.18	LANL 2002 WCR	None	Brass Monument  MCOBT-4.4 plugged and abandoned 7/29/09	None	ft	None	None	-9999	-9999	Intermediate	Intermediate	None	None	
+MT-3	-106.264970300000000	35.860969099999900	6796.65	LANL 1997 MC WP	None	None	74	ft	None	None	44	64	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12257	
+MCWB-7.7A	-106.265235899999000	35.861086899999900	6798.31	S. McLin	None	None	70	ft	None	3 in	52.5	62.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12244	
+MCO-12	-106.250304900000000	35.859729299999900	6697.15	LANL 1997 WP Mort Cy	None	None	108	ft	None	2 in	88	108	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12217	
+LADP-3	-106.275078400000000	35.874187399999900	6754.19	Broxton/ER Pts DB	None	Brass Cap	326.3	ft	6754.19	2 in	317.56	326.3	Intermediate	Intermediate Perched	Qbog	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12161	
+LAO-4.5A	-106.239592599999000	35.870294399999900	6459.89	None	None	Brass cap elevation	18.5	ft	None	2 in	8.5	18.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12146	
+TW-2Ar	-106.271223800000000	35.884845700000000	6651.67	WCR, SW MTN SURVEY	None	Brass cap location rounded to 2 decimal places. -RJK	113.9	ft	6655.38	4.5	102	112	Intermediate	Intermediate	Tpf	http://intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=79fa72c7-7701-4419-a022-c50e1fdcabbf&fileName=TW-2ar.zip	
+R-33 S1	-106.273675000000000	35.860623799999900	6853.33	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-33 WCR.	None	None	None	None	995.5	1018.5	Regional	Regional Top	Tpp	None	
+R-41	-106.233804800000000	35.830989600000000	6660.53	Well Completion Rpt	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+SCPZ-6	-106.312429700000000	35.874766700000000	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-52 S2	-106.261566000000000	35.844946999999900	6883.04	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+MCA-3ac	-106.273050400000000	35.862095500000000	6853	Kleinfelder survey	None	Brass cap location	44	ft	6857.1	0.8 in	Multiple	Multiple	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12097	
+LA-10068	-106.248868100000000	35.872157600000000	6519	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+SWA-1-1	-106.314747800000000	35.875410299999900	None	TERRANEAR PMC	None	Formerly a piezometer well SCPZ-1	19.03	ft	7242.93	2 in	13	18.33	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12443	
+CDBO-9	-106.244255999999000	35.836367899999900	6633	None	None	None	34	ft	None	None	19	29	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12427	
+MCO-12	-106.250304900000000	35.859729299999900	6697.15	LANL 1997 WP Mort Cy	None	None	108	ft	None	2 in	88	108	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12217	
+SWA-3-7	-106.311137900000000	35.873757499999900	None	TERRANEAR PMC	None	Formerly SCPZ-7	7.11	ft	7216.2	2 in	0.6	6.84	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12450	
+R-46	-106.293815600000000	35.859657599999900	7213.33	WCR, SW MTN SURVEY	None	Brass cap location	1382.2	ft	7216.15	5 in	1340	1360.7	Regional	Regional Top	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12353	
+MCWB-6.6	-106.271585000000000	35.860715100000000	6839.35	S. McLin	None	None	47.5	ft	None	3 in	32.5	42.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12240	
+MCO-7	-106.269908000000000	35.860561900000000	6827.31	Stoker	None	None	69	ft	None	3 in	39	69	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12202	
+R-53	-106.251035900000000	35.836801299999900	6689.98	WCR, SW MTN SURVEY	None	brass cap location	None	None	None	None	None	None	None	None	None	None	
+LAOI(a)-1.1	-106.287094999999000	35.875433999999900	6835.2	None	None	None	None	None	None	None	None	None	None	None	None	None	
+P5-26612	-106.269469700000000	35.877294700000000	7018.06	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Intermediate Well LADP-5.	None	None	None	None	None	None	None	None	None	None	
+SWA-2-4	-106.312523600000000	35.874560899999900	None	TERRANEAR PMC	None	Formerly SCPZ-4	9.23	ft	7226.48	2 in	6.23	12.23	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12447	
+R-22 S4	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	1378.2	1384.9	Regional	Regional	Tb2	None	
+R-39	-106.234551000000000	35.827537000000000	6580.86	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-23i	-106.224762500000000	35.823851800000000	6527.88	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	None	None	None	None	None	None	
+LAO-B	-106.335296799999000	35.878831800000000	7323.59	Gray 2001	None	None	27.2	ft	None	4 in	11.84	26.84	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12139	
+LAOI-3.2	-106.259365399999000	35.873082799999900	6622.6	Kleinfelder 2006 WCR	None	added for P Longmire.  Location data taken from Brass Cap survey data.	165	ft	6625.3	2.1 in	153.3	162.8	Intermediate	Intermediate Perched	Qbog	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12136	
+18-MW-8	-106.269240000000000	35.838990899999900	6747.79	WP Pajarito Cy	None	None	37.9	ft	None	2 in	8	38	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12482	
+LAWS-01 S3	-106.219259100000000	35.866999700000000	6363.4	None	None	None	None	None	None	None	188	198	Intermediate	None	Tb4	None	
+R-19 S1	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	827.2	843.6	Intermediate	Intermediate Perched	Qbog	None	
+R-67	-106.290119100000000	35.870346099999900	7123.25	WQH	None	None	None	None	None	None	None	None	None	None	None	None	
+02-01021	-106.292927199999000	35.876393499999900	6887.58	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc:WELL IMMEDIATELY WEST OF TA-2 Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+R-5 S4	-106.228767000000000	35.873071000000000	6472.6	None	None	Original x, y = 1646709, 1773061	None	None	None	None	None	None	None	None	None	None	
+R-22 S4	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	1378.2	1384.9	Regional	Regional	Tb2	None	
+LAO-0.6	-106.296139700000000	35.876552300000000	6910.74	Gray 2001	None	RJK revised added elev 5/25/05	13.35	ft	6912.88	4 in	8	13	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12158	
+R-24	-106.239407000000000	35.885513000000000	6547.38	None	None	Brass cap	None	None	None	None	None	None	None	None	None	None	
+SWA-1-1	-106.314747800000000	35.875410299999900	None	TERRANEAR PMC	None	Formerly a piezometer well SCPZ-1	18.33	ft	7242.93	2 in	13	18.33	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12443	
+LAO-1.1	-106.281510999999000	35.874766000000000	6797	None	None	Location carried over from ESH database, but without coords.  NMED GPSd in the coords.	None	None	None	None	None	None	None	None	None	None	
+PCI-2	-106.293088000000000	35.853310999999900	6920.95	None	None	None	None	None	None	None	None	None	None	None	None	None	
+SCP-1abc S2	-106.257296800000000	35.863469799999900	6703.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+TMO-1	-106.295848400000000	35.854102099999900	6945.2	SW MTN SURVEY	None	Brass Cap	6.5	ft	6645.2	1.5 in	3.5	6.5	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12464	
+SCPZ-9	-106.311047700000000	35.873856199999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-4	-106.253810200000000	35.882598000000000	6577.49	R4 Completion Report	None	Inactive emergency landing strip in Pueblo Canyon; TA-74. Location info taken from Brass cap monument survey data from R-4 WCR.	840	ft	None	None	792.9	816	Regional	Regional	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12040	
+SC-26613	-106.205965300000000	35.850271200000000	6362.3	REFERENCE	None	Accuracy of coordinates is unknown. Coordinates are from Final Completion Report for Characterization Well R-10a/R-10.	None	None	None	None	None	None	None	None	None	None	
+R-20 S1	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	904.6	912.2	Regional	Regional Top	Tb4	None	
+R-10a	-106.206148500000000	35.850314800000000	6363.74	Kleinfelder data	None	Brass Cap location Kleinfelder survey	706	ft	6363.74	4.5 in	690	700	Regional	Regional Top	Tsf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12115	
+LAO-1	-106.287204300000000	35.875520999999900	6836.24	Stoker	None	None	28	ft	None	3 in	8	28	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12151	
+MCA-3def S3	-106.268665500000000	35.860598899999900	6819.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+BCO-1	-106.249216399999000	35.889148800000000	6641.97	ER	None	Intermediate monitoring well	68	ft	None	None	57	67	Intermediate	None	Tpf	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12437	
+R-8 S2	-106.247562000000000	35.871676000000000	6544.74	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-3ac S2	-106.273050400000000	35.862095500000000	6853	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-20 S3	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	None	None	None	1328.8	1336.5	Regional	Regional Deep	Tcar	None	
+MCA-4	-106.298841900000000	35.865003399999900	7135.1	Kleinfelder survey	None	Brass cap location	5.4	ft	7137.3	1.0 in	3.3	5.3	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12094	
+PAO-2	-106.301910400000000	35.888575199999900	6930.98	ER	None	None	13.91	ft	None	4 in	6.06	11.06	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12270	
+MCWB-8.1A	-106.263041800000000	35.861096500000000	6785.95	S. McLin	None	None	75	ft	None	None	50	70	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12246	
+SCPZ-7	-106.311137900000000	35.873757499999900	None	None	None	None	None	None	None	None	None	None	None	None	None	None	
+18-MW-4	-106.268598900000000	35.842343999999900	6758.3	PG	None	None	None	None	None	None	None	None	None	None	None	None	
+MCA-3ac S1	-106.273050400000000	35.862095500000000	6853	None	None	None	None	None	None	None	None	None	None	None	None	None	
+PAO-5n	-106.220109300000000	35.873262400000000	6369.79	ER	None	None	15.28	ft	None	4 in	7.43	12.43	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12273	
+LA-10068	-106.248868100000000	35.872157600000000	6519	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-11	-106.251544000000000	35.862881000000000	6673.72	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-17	-106.292590100000000	35.853279399999900	6921.51	Kleinfelder data	None	Brass Cap location Kleinfelder survey	None	None	None	None	None	None	None	None	None	None	
+R-4 PZ-W	-106.253778400000000	35.882561199999900	6577.35	R4 Completion Report	None	R-4 Piezometer West	125	ft	None	None	115	125	Intermediate	None	Tpf	None	
+MCWB-6.2A	-106.272484700000000	35.861820500000000	6848.29	S. McLin	None	None	45.5	ft	None	3 in	30.5	40.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12234	
+R-22 S5	-106.233443200000000	35.829246499999900	6650.5	Well Completion Rpt	None	Location info taken from Brass cap survey data from R-22 WCR.	None	None	None	None	1447.3	1452.3	Regional	Regional	Tcar	None	
+MCWB-5	-106.276454800000000	35.863238600000000	6876.22	S. McLin	None	None	33	ft	None	3 in	17	27	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12233	
+SCPZ-8	-106.311102800000000	35.873783799999900	None	None	None	None	None	ft	None	None	5.3	7.6	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12403	
+SCP-2a	-106.260823900000000	35.864413100000000	6722.95	Kleinfelder WCR	None	None	45.1	ft	6725.48	1 in	44.5	45	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12396	
+SCA-4	-106.257277000000000	35.863467999999900	6703.58	None	None	Chromium Invstitgation alluvial well in Sandia Canyon	None	None	None	None	None	None	None	None	None	None	
+R-57 S1	-106.234170000000000	35.829869000000000	6648.04	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+SCPZ-11(B)	-106.310597599999000	35.873652600000000	None	None	None	None	None	ft	None	None	1	5.4	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12404	
+R-45	-106.250563700000000	35.859211500000000	6704.02	WCR, SW MTN SURVEY	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+LA-10069	-106.239434000000000	35.870363099999900	6458	WQH	None	Survey date and accuracy for coordinates and elevation are UNKNOWN.	None	None	None	None	None	None	None	None	None	None	
+R-5 SC	-106.228767199999000	35.873070499999900	None	None	None	None	None	None	None	None	846	846	Regional	None	None	None	
+MCA-3def S1	-106.268665500000000	35.860598899999900	6819.8	None	None	None	None	None	None	None	None	None	None	None	None	None	
+R-20 OB	-106.258708900000000	35.836344699999900	6694.35	Completion Report	None	Location info taken from Brass Monument survey data from R-20 WCR.	None	ft	None	None	-9999	-9999	Regional	Regional	None	None	
+PCAO-7a	-106.261735100000000	35.838692500000000	6711.97	SW MTN SURVEY	None	Brass Cap	25	ft	None	4 in	9.7	19.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12277	
+SWA-4-11	-106.310597599999000	35.873652600000000	None	TERRANEAR PMC	None	Formerly SCPZ-11(B)	9.3	ft	7214.07	2 in	3	9.17	Alluvial	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12454	
+MCWB-6.2C	-106.272728400000000	35.861615399999900	6847.98	S. McLin	None	None	42.5	ft	None	3 in	25	30	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12236	
+R-53 S2	-106.251035900000000	35.836801299999900	6689.98	WCR, SW MTN SURVEY	None	brass cap location	None	None	None	None	959.7	980.2	Regional	Regional Deep	Tpf	None	
+R-19 S1	-106.285420800000000	35.837871700000000	7066.3	Well Completion Rpt	None	Location info taken from Brass Cap survey data in R-19 WCR.	None	None	None	None	827.2	843.6	Intermediate	Regional Top	Qbog	None	
+SWA-1-2	-106.314756300000000	35.875417700000000	None	TERRANEAR PMC	None	Formerly SWA-1	13.17	None	7244.53	2 in	6.03	13.17	None	None	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12444	
+SCP-1abc S3	-106.257296800000000	35.863469799999900	6703.65	None	None	None	None	None	None	None	None	None	None	None	None	None	
+MCWB-8.1A	-106.263041800000000	35.861096500000000	6785.95	S. McLin	None	None	75	ft	None	None	50	70	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12246	
+R-8 S1	-106.247562000000000	35.871676000000000	6544.74	None	None	Note:  Original hole P & Ad.  Original hole is 62 ' due east of this one.	None	None	None	None	None	None	None	None	None	None	
+PCAO-5	-106.294737600000000	35.853531099999900	6943.29	SW MTN SURVEY	None	Brass Cap	30	ft	None	4 in	14.7	24.7	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12275	
+CDBO-7	-106.260179200000000	35.846252800000000	6771.81	Stoker	None	None	44	ft	None	None	29	39	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12429	
+18-BG-4	-106.273303200000000	35.839269999999900	6768	Buckley	None	DGPS obtained 8/18/05 SA, CM, RK	6.5	ft	None	4 in	2.5	6.5	Alluvial	Alluvial	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12484	
+R-14 S2	-106.285645400000000	35.861775999999900	7062.08	WCR, SW MTN SURVEY	None	Location info taken from Brass Cap survey data for R-14.	None	None	None	None	1286.5	1293.1	Regional	Regional	Tp	None	
+R-41 S2	-106.233805000000000	35.830990000000000	6660.53	None	None	None	None	None	None	None	None	None	None	None	None	None	
+TA-53i	-106.265410000000000	35.868282999999900	6987.17	None	None	Name changed from TA-53-1(i)	None	None	None	None	None	None	None	None	None	None	
+R-57 S2	-106.234170000000000	35.829869000000000	6648.04	None	None	Brass cap location	None	None	None	None	None	None	None	None	None	None	
+LADP-3	-106.275071999999000	35.874184999999900	6756.7	None	None	21-1682 (second label). Drill hole OU-1106(TA-21): geo/hydro investigative	None	None	None	None	None	None	None	None	None	None	
+MCWB-6.2B	-106.272718900000000	35.861627300000000	6848.01	S. McLin	None	None	32.5	ft	None	3 in	27.5	37.5	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12235	
+SCPZ-8	-106.311102800000000	35.873783799999900	None	None	None	None	None	ft	None	None	5.3	7.6	Alluvial	Alluvial	None	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12403	
+PU-00178	-106.304865199999000	35.889339600000000	6954.97	SURV TEK	None	Survey date and accuracy for coordinates and elevation are UNKNOWN. Location Desc: Notes: Aggregate:	None	None	None	None	None	None	None	None	None	None	
+18-MW-18	-106.251659000000000	35.832369000000000	6654.7	None	None	TA-18	None	None	None	None	None	None	None	None	None	None	
+MCO-9	-106.257966200000000	35.860180800000000	6749.67	LANL 1997 WP Mort Cy	None	None	55	ft	None	3 in	45	55	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12214	
+MCA-9	-106.246444200000000	35.857495800000000	6671.7	Kleinfelder survey	None	Brass cap location	113	ft	6674	2.1 in	92.8	107.8	Alluvial	None	Qal	https://www.intellusnm.com/documents/document-library.cfc?method=retrieveLanlFile&nodeId=12090	
+R-5	-106.228767199999000	35.873070499999900	6472.6	Completion Report	None	Location info taken from Brass cap monument survey data from R-5 WCR.	None	None	None	None	None	None	None	None	None	None	
+R-32 S1	-106.248714600000000	35.830948599999900	6637.63	Well Completion Rpt	None	Location info taken from Brass cap monument survey data from R-32 WCR.	None	None	None	None	867.5	875.2	Regional	Regional Top	Tpt	None	

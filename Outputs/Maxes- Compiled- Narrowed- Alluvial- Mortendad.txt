@@ -1,0 +1,53 @@
+MCO-4	No Data	No Data	No Data	No Data	0
+MCWB-4	No Data	No Data	No Data	No Data	0
+MCO-4B	1996-03-05	10.0	N	Y	38
+PRB-MW-01	2006-09-08	1.0	N	Y	2
+PRB-MW-02	2006-09-08	1.0	N	N	2
+MCO-5	2008-02-07	10.0	N	N	49
+MCWB-5	No Data	No Data	No Data	No Data	0
+TSCA-6	No Data	No Data	No Data	No Data	0
+TSWB-6	No Data	No Data	No Data	No Data	0
+MCWB-5.5B	No Data	No Data	No Data	No Data	0
+MCWB-5.5A	No Data	No Data	No Data	No Data	0
+MCA-3ac	No Data	No Data	No Data	No Data	0
+MCA-3b	No Data	No Data	No Data	No Data	0
+MCO-6B	1998-05-27	4.0	N	Y	4
+MCO-6	2008-02-21	10.0	N	Y	41
+MCWB-6.2C	No Data	No Data	No Data	No Data	0
+MCWB-6.2B	No Data	No Data	No Data	No Data	0
+MCWB-6.2A	No Data	No Data	No Data	No Data	0
+MCWB-6.5E	No Data	No Data	No Data	No Data	0
+MCO-6.5A	No Data	No Data	No Data	No Data	0
+MCWB-6.5D	No Data	No Data	No Data	No Data	0
+MCO-6.5B	No Data	No Data	No Data	No Data	0
+MCWB-6.5C	No Data	No Data	No Data	No Data	0
+MCWB-6.6	No Data	No Data	No Data	No Data	0
+MCA-2	2007-02-28	2.9	Y	N	10
+MCWB-7B	No Data	No Data	No Data	No Data	0
+MCWB-7A	No Data	No Data	No Data	No Data	0
+MCO-7A	1998-05-28	5.0	N	Y	3
+MCO-7	2008-02-25	10.0	N	N	48
+MCA-3def	No Data	No Data	No Data	No Data	0
+MCWB-7.2	No Data	No Data	No Data	No Data	0
+MT-1	2005-04-22	2.8	Y	N	4
+MCWB-7.4A	No Data	No Data	No Data	No Data	0
+MCWB-7.4B	No Data	No Data	No Data	No Data	0
+MCO-7.5	2008-02-06	10.0	N	N	37
+MCWB-7.7A	No Data	No Data	No Data	No Data	0
+MCWB-7.7B	1998-08-26	4.2	N	N	1
+MT-3	2008-02-06	10.0	N	N	22
+MCO-8	No Data	No Data	No Data	No Data	0
+MT-2	No Data	No Data	No Data	No Data	0
+MCWB-8.1A	No Data	No Data	No Data	No Data	0
+MT-4	1998-08-26	4.2	N	N	5
+MCWB-8.1B	No Data	No Data	No Data	No Data	0
+MCWB-8.1C	No Data	No Data	No Data	No Data	0
+MCO-8.2	No Data	No Data	No Data	No Data	0
+MCO-9	No Data	No Data	No Data	No Data	0
+MCWB-9B	No Data	No Data	No Data	No Data	0
+MCWB-9A	No Data	No Data	No Data	No Data	0
+MCO-9.5	No Data	No Data	No Data	No Data	0
+MCO-12	No Data	No Data	No Data	No Data	0
+MCO-13	No Data	No Data	No Data	No Data	0
+MCA-8	No Data	No Data	No Data	No Data	0
+MCA-9	No Data	No Data	No Data	No Data	0
