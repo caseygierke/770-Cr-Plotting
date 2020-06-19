@@ -107,10 +107,11 @@ files = []
 for file in glob.glob(inputPath+"*.txt"):
     files.append(file)
 
-# Short Circuit
-files = [files[2]]
-
-print(files)
+# # Short Circuit
+# # Alluvial
+# files = [files[2]]
+# # Regional
+# files = [files[-7]]
 
 # Loop through files for plotting different parts
 for file in files:
@@ -258,7 +259,8 @@ for file in files:
 			labs = [l.get_label() for l in lns]
 			
 			# Plot the legend
-			fig.legend(lns, labs, loc='upper right', fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
+			# fig.legend(lns, labs, loc='upper left', fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
+			fig.legend(lns, labs, bbox_to_anchor=(0.31,1.0), bbox_transform=plt.gcf().transFigure, fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
 
 		# Check if there is only Cr(VI) data
 		elif result == [] and resultHex != []:
@@ -286,7 +288,8 @@ for file in files:
 			labs = [l.get_label() for l in lns]
 			
 			# Plot the legend
-			fig.legend(lns, labs, loc='upper right', fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
+			# fig.legend(lns, labs, loc='upper left', fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
+			fig.legend(lns, labs, bbox_to_anchor=(0.34,1.0), bbox_transform=plt.gcf().transFigure, fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
 
 		# else:
 			# print("I don't know what happened!")
@@ -306,7 +309,7 @@ for file in files:
 		# fig.legend(lns, labs, loc='upper right', fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
 
 		# if inpst in figureDict:
-		ax1.set_title(location, loc='left', fontsize=12)
+		ax1.set_title(location, loc='right', fontsize=12)
 			
 		# Set a grid on plot
 		ax1.grid(True)
