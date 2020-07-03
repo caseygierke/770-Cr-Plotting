@@ -7,8 +7,6 @@
 # Updated 8/17/2018
 # Updated 10/24/2018
 # Updated 4/8/2020
-# Updated 5/13/2020
-# Updated 7/3/2020
 
 # With Notepad++, use F5 then copy this into box
 # C:\Users\Casey\Anaconda3\python.exe -i "$(FULL_CURRENT_PATH)"
@@ -112,6 +110,43 @@ def getCredentials():
 # INPUTS
 # ------------------------------------------------------
 
+# # Define input file
+# input = 'Compiled- Narrowed'
+# # input = 'Plume- Compiled- Regional'
+# inputPath = path+os.sep+'Python'+os.sep+'Locations'+os.sep+'Outputs'+os.sep
+
+# # Make dictionary for appendix figures
+# figureDict = {}
+# Dictin = open(inputPath+input+'.txt','r')
+
+# # Get first line
+# cols = Dictin.readline()
+# cols = cols.split('\t')
+# headers = cols
+
+# # # Get desired indices from header row
+# locID_index = headers.index('Location ID')
+# lat_index = headers.index('Latitude')
+# long_index = headers.index('Longitude')
+# type_index = headers.index('Aquifer')
+
+# # Read in data
+# for line in Dictin:
+	# Columns = line.split('\t')
+	# figureDict[Columns[0]] = {'Lat': Columns[lat_index], 'Long': Columns[long_index], 'Aquifer': Columns[type_index]}
+	
+# # Short circuit
+# figureDict = {'SIMR-2': figureDict['SIMR-2']}
+
+# # Create an outfile for storing maxes
+# fout = open(path+os.sep+'Python'+os.sep+'Plotting'+os.sep+'Maxes- '+input+'.txt','w')
+
+# # Create an outfile for storing maxes
+# foutExceedance = open(path+os.sep+'Python'+os.sep+'Plotting'+os.sep+'Exceedance- '+input+'.txt','w')
+
+# # Create an outfile for defining active locations
+# foutActive = open(path+os.sep+'Python'+os.sep+'Plotting'+os.sep+'Active- '+input+'.txt','w')
+
 # Get user input for well to use
 location = input('Which well would you like to plot? \n')
 
@@ -119,8 +154,15 @@ location = input('Which well would you like to plot? \n')
 start = '1/1/1980'
 end = '4/30/2020'
 
+# ------------------------------------------------------
+# COMPUTATIONS
+# ------------------------------------------------------
+
 # Define SLV value
 SLV = 7.48
+
+# # Loop over inputs
+# for location in figureDict:
 
 print('Working on '+location)
 
@@ -130,8 +172,7 @@ fig = plt.figure()
 # Define axis for plotting
 ax1 = fig.add_subplot(111)
 
-# ------------------------------------------------------
-# Query out Cr data
+# Query out data
 sql = "SELECT SAMPLE_DATE, REPORT_RESULT AS Data, DETECTED, FILTERED FROM Chromium_Flagged WHERE LOCATION_ID = '"+location+"' AND PARAMETER_CODE = 'Cr' ORDER BY SAMPLE_DATE"
 data = DB_get(sql)
 	
@@ -164,111 +205,58 @@ for row in data:
 		dataF.append(float(row[1]))
 
 # ------------------------------------------------------
-# Query out hex data
-sql = "SELECT SAMPLE_DATE, REPORT_RESULT AS Data, DETECTED, FILTERED FROM Chromium_Flagged WHERE LOCATION_ID = '"+location+"' AND PARAMETER_CODE = 'Cr(VI)' ORDER BY SAMPLE_DATE"
-dataHex = DB_get(sql)
-	
-# Initialize arrays
-dateHex = []
-resultHex = []
-NDHex = []
-FHex = []
-daysNDHex = []
-dataNDHex = []
-daysFHex = []
-dataFHex = []
-
-# Loop through data
-for row in dataHex:
-	
-	# Check for ND = 10 condition
-	if row[2] == 'N' and float(row[1]) == 10.0:
-		continue
-
-	# Append values
-	dateHex.append(row[0])
-	resultHex.append(float(row[1]))
-	NDHex.append(row[2])
-	FHex.append(row[3])
-	
-	# Check for non-detects
-	if row[2] == 'N':
-		daysNDHex.append(row[0])
-		dataNDHex.append(float(row[1]))
-	# Check for filtering
-	if row[3] == 'Y':
-		daysFHex.append(row[0])
-		dataFHex.append(float(row[1]))
-
-# ------------------------------------------------------
 # OUTPUTS
 # ------------------------------------------------------
 
-# Determine which kind of plot to produce
+# Check if result has values
+if result == []:
+	maxResult = 'No Data'
+	maxDate = 'No Data'
+	maxND = 'No Data'
+	maxF = 'No Data'
+else:
+	# Get max
+	maxResult = max(result)
+	maxIndex = result.index(maxResult)
+	maxDate = date[maxIndex]
+	maxND = ND[maxIndex]
+	maxF = F[maxIndex]
 
-# Check if there is not data
-if result == [] and resultHex == []:
-	print(location+' has no data, moving on.')
+	# # Write exceedances to outfile
+	# if float(maxResult) > SLV:
+		# foutExceedance.write(location+'\t'+figureDict[location]['Long']+'\t'+figureDict[location]['Lat']+'\t'+str(maxDate)+'\t'+str(maxResult)+'\t'+maxND+'\t'+maxF+'\t'+str(len(result))+'\n')
 
-# Check if there is only Cr data
-elif result != [] and resultHex == []:
-	print(location+' has Cr data but no Cr(VI) data. Plot only Cr.')
-
-	# Plot the data
-	lns5 = ax1.plot_date([pd.to_datetime(start), pd.to_datetime(end)], [SLV, SLV], '-r', label = '7.48')
-	lns2 = ax1.plot_date(date, result, 'o', color='#B0E2FF', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Unfiltered Cr')
-	lns3 = ax1.plot_date(daysF, dataF, 'ob', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Filtered Cr')
-	lns4 = ax1.plot_date(daysND, dataND, '.r', markersize=2, label = 'Non-Detect')
+	# # Check if active
+	# if datetime.datetime(max(date).year, max(date).month, max(date).day) > datetime.datetime.strptime('2015-01-01', '%Y-%m-%d'):
+		# foutActive.write(location+'\t'+figureDict[location]['Long']+'\t'+figureDict[location]['Lat']+'\n')
 	
-	# Compile labels
-	lns = lns2+lns3+lns4+lns5
-	labs = [l.get_label() for l in lns]
-	
-	# Plot the legend
-	fig.legend(lns, labs, bbox_to_anchor=(0.31,1.0), bbox_transform=plt.gcf().transFigure, fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
+# # Write maxes to an outfile
+# fout.write(location+'\t'+str(maxDate)+'\t'+str(maxResult)+'\t'+maxND+'\t'+maxF+'\t'+str(len(result))+'\n')
 
-# Check if there is only Cr(VI) data
-elif result == [] and resultHex != []:
-	print(location+' has no Cr data but does have Cr(VI) data. Plot only Cr(VI).')
+# Plot the data
+lns5 = ax1.plot_date([pd.to_datetime(start), pd.to_datetime(end)], [SLV, SLV], '-r', label = 'SLV')
+lns1 = ax1.plot_date(date, result, '-', color='#00008B')
+lns2 = ax1.plot_date(date, result, 'o', color='#B0E2FF', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Unfiltered')
+lns3 = ax1.plot_date(daysF, dataF, 'ob', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Filtered')
+lns4 = ax1.plot_date(daysND, dataND, '.r', markersize=2, label = 'Non-Detect')
 
-# Check if there is only Cr(VI) data
-elif result != [] and resultHex != []:
-	print(location+' has Cr and Cr(VI) data. Plot both.')
+# Compile labels
+lns = lns2+lns3+lns4+lns5
+labs = [l.get_label() for l in lns]
 
-	# Plot the Cr data
-	lns5 = ax1.plot_date([pd.to_datetime(start), pd.to_datetime(end)], [SLV, SLV], '-r', label = '7.48')
-	lns2 = ax1.plot_date(date, result, 'o', color='#B0E2FF', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Unfiltered Cr')
-	lns3 = ax1.plot_date(daysF, dataF, 'ob', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Filtered Cr')
-	lns4 = ax1.plot_date(daysND, dataND, '.r', markersize=2, label = 'Non-Detect')
-	
-	# Plot the Cr data
-	lns7 = ax1.plot_date(dateHex, resultHex, '^', color='#B0E2FF', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Unfiltered Cr(VI)')
-	lns8 = ax1.plot_date(daysFHex, dataFHex, '^b', markersize=3.5, markeredgecolor='k', markeredgewidth='0.5', label = 'Filtered Cr(VI)')
-	lns9 = ax1.plot_date(daysNDHex, dataNDHex, '.r', markersize=2, label = 'Non-Detect')
-	
-	# Compile labels
-	lns = lns2+lns3+lns7+lns8+lns4+lns5
-	labs = [l.get_label() for l in lns]
-	
-	# Plot the legend
-	fig.legend(lns, labs, bbox_to_anchor=(0.34,1.0), bbox_transform=plt.gcf().transFigure, fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
+# Plot the legend
+fig.legend(lns, labs, loc='upper right', fontsize= 9, prop={'size':9}, numpoints=1, framealpha=1)
 
 # if inpst in figureDict:
-ax1.set_title(location, loc='right', fontsize=12)
+ax1.set_title(location, loc='left', fontsize=12)
 	
 # Set a grid on plot
 ax1.grid(True)
 
 # Make y axis labels
 ax1.set_ylabel('Chromium [$\mu$g/L]', color='k')
-
-# Set y limit
-limit = 1200
-# Check if max is higher than standard output format
-if max(result) > limit:
-	limit = max(result) + 500
 # Limit axis
-pylab.ylim(0.1,limit)         # to control primary y-axis range
+pylab.ylim(0.1,1200)         # to control primary y-axis range
 # Make log scale
 ax1.set_yscale('log')
 # Control grid lines
@@ -288,5 +276,16 @@ plt.subplots_adjust(top=.88, bottom=.2, right=.95)
 fig.set_size_inches(7,5)
 fig.subplots_adjust(hspace=.3)
 
+# # Check that destination directories exist and create if not
+# if not os.path.exists(path+os.sep+'Intellus Data'+os.sep+'Figures'+os.sep+input+os.sep):
+	# os.makedirs(path+os.sep+'Intellus Data'+os.sep+'Figures'+os.sep+input+os.sep)
+
+# # Save the figure
+# fig.savefig(path+os.sep+'Intellus Data'+os.sep+'Figures'+os.sep+input+os.sep+figureDict[location]['Aquifer']+'- '+location+'.png',dpi=500)
+
 plt.show()
-		
+# plt.close('all')
+	
+# fout.close()
+# foutExceedance.close()
+# foutActive.close()

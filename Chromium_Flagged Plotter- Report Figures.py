@@ -110,6 +110,8 @@ for file in glob.glob(inputPath+"*.txt"):
 # # Short Circuit
 # # Alluvial
 # files = [files[2]]
+# Alluvial appendix
+files = [files[0]]
 # # Regional
 # files = [files[-7]]
 
